@@ -6179,3 +6179,78 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [02Feb2025 19:14:25.301] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set minecraft:stone
 [02Feb2025 19:18:53.009] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give alexis83 minecraft:nether_brick_fence
 [02Feb2025 19:18:53.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 1 [Nether Brick Fence] to alexis83]
+[02Feb2025 19:19:03.269] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give alexis83 minecraft:nether_brick_wall
+[02Feb2025 19:19:03.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 1 [Nether Brick Wall] to alexis83]
+[02Feb2025 19:19:59.119] [Craft Scheduler Thread - 8/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23216!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23216!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[02Feb2025 19:20:04.901] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /time set day
+[02Feb2025 19:20:04.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Set the time to 1000]
+[02Feb2025 19:20:19.190] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give alexis83 minecraft:nether_brick_slab
+[02Feb2025 19:20:19.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 1 [Nether Brick Slab] to alexis83]
+[02Feb2025 19:22:58.428] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give alexis83 minecraft:bone_block
+[02Feb2025 19:22:58.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 1 [Bone Block] to alexis83]
+[02Feb2025 19:24:00.667] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give alexis83 minecraft:quartz_block
+[02Feb2025 19:24:00.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 1 [Block of Quartz] to alexis83]
+[02Feb2025 19:24:04.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give alexis83 minecraft:quartz_slab
+[02Feb2025 19:24:04.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 1 [Quartz Slab] to alexis83]
+[02Feb2025 19:24:08.876] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give alexis83 minecraft:quartz_stairs
+[02Feb2025 19:24:08.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 1 [Quartz Stairs] to alexis83]
+[02Feb2025 19:34:31.946] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give alexis83 minecraft:netherrack
+[02Feb2025 19:34:31.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 1 [Netherrack] to alexis83]
+[02Feb2025 19:34:59.104] [Craft Scheduler Thread - 8/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23216!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23216!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[02Feb2025 19:36:42.050] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give alexis83 minecraft:nether_brick_stairs
+[02Feb2025 19:36:42.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 1 [Nether Brick Stairs] to alexis83]
+[02Feb2025 19:36:49.172] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give alexis83 minecraft:nether_brick
+[02Feb2025 19:36:49.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 1 [Nether Brick] to alexis83]
+[02Feb2025 19:36:58.215] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give alexis83 minecraft:nether_bricks
+[02Feb2025 19:36:58.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 1 [Nether Bricks] to alexis83]
+[02Feb2025 19:41:12.516] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give alexis83 minecraft:nether_brick_slab
+[02Feb2025 19:41:12.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 1 [Nether Brick Slab] to alexis83]
+[02Feb2025 19:41:40.745] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set minecraft:nether_bricks
+[02Feb2025 19:41:57.025] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set minecraft:nether_bricks
+[02Feb2025 19:42:10.873] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set minecraft:nether_bricks
+[02Feb2025 19:42:17.440] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set minecraft:nether_bricks
+[02Feb2025 19:42:22.769] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set minecraft:nether_bricks
+[02Feb2025 19:42:27.066] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set minecraft:nether_bricks
+[02Feb2025 19:42:31.435] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set minecraft:nether_bricks
+[02Feb2025 19:42:33.872] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set minecraft:nether_bricks
+[02Feb2025 19:43:20.232] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give alexis83 minecraft:spawner
+[02Feb2025 19:43:20.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 1 [Spawner] to alexis83]
+[02Feb2025 19:44:36.785] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give alexis83 minecraft:mob_spawner 1 0 {BlockEntityTag:{EntityId:Skeleton}}
+[02Feb2025 19:45:39.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[02Feb2025 19:45:39.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Feb2025 19:45:39.129] [Server thread/INFO] [Sleeper/]: Disabling Sleeper v1.6.1
+[02Feb2025 19:45:39.129] [Server thread/INFO] [Sleeper/]: Sleeper Has Been Disabled!
+[02Feb2025 19:45:39.130] [Server thread/INFO] [JustTPA/]: Disabling JustTPA vv20240420-beta
+[02Feb2025 19:45:39.130] [Server thread/INFO] [JustTPA/]: JustTPA disabled
+[02Feb2025 19:45:39.131] [Server thread/INFO] [SkinMe/]: Disabling SkinMe v1.3.1
+[02Feb2025 19:45:39.131] [Server thread/INFO] [LuckPerms/]: Disabling LuckPerms v5.4.152
+[02Feb2025 19:45:39.131] [Server thread/INFO] [LuckPerms/]: Starting shutdown process...
+[02Feb2025 19:45:39.137] [Server thread/INFO] [LuckPerms/]: Closing storage...
+[02Feb2025 19:45:39.160] [Server thread/INFO] [LuckPerms/]: Goodbye!
+[02Feb2025 19:45:39.161] [Server thread/INFO] [NeoPerformance/]: Disabling NeoPerformance v1.15.4
+[02Feb2025 19:45:39.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Feb2025 19:45:39.176] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 lost connection: Server closed
+[02Feb2025 19:45:39.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexis83 left the game.
+[02Feb2025 19:45:39.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Feb2025 19:45:41.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Feb2025 19:45:41.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end
+[02Feb2025 19:45:41.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether
+[02Feb2025 19:45:46.427] [Exit Thread/INFO] [Arclight/]: 3 threads not shutting down correctly, force exiting
