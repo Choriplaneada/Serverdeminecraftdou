@@ -17642,3 +17642,152 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [02Feb2025 19:07:18.119] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1er8i8mkelar8]: started parsing
 [02Feb2025 19:07:18.119] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1er8i8mkelar8]: Consuming argument `minecraft:stone`
 [02Feb2025 19:07:18.119] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1er8i8mkelar8]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:09:25.335] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j2bw7kll3cu2]: started parsing
+[02Feb2025 19:09:25.335] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j2bw7kll3cu2]: Consuming argument `minecraft:stone`
+[02Feb2025 19:09:25.335] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j2bw7kll3cu2]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:09:25.366] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13t7hj02ai93b]: started parsing
+[02Feb2025 19:09:25.366] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13t7hj02ai93b]: Consuming argument `minecraft:stone`
+[02Feb2025 19:09:25.366] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13t7hj02ai93b]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:09:26.079] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set minecraft:stone
+[02Feb2025 19:09:26.079] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q66ufthmlg9n]: started parsing
+[02Feb2025 19:09:26.079] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q66ufthmlg9n]: Consuming argument `minecraft:stone`
+[02Feb2025 19:09:26.079] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q66ufthmlg9n]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:09:35.544] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k5511338j9qj]: started parsing
+[02Feb2025 19:09:35.544] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k5511338j9qj]: Consuming argument `minecraft:stone`
+[02Feb2025 19:09:35.544] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k5511338j9qj]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:09:35.567] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14beyboellj4d]: started parsing
+[02Feb2025 19:09:35.567] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14beyboellj4d]: Consuming argument `minecraft:stone`
+[02Feb2025 19:09:35.567] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14beyboellj4d]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:09:35.887] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11hz1tush2rkq]: started parsing
+[02Feb2025 19:09:35.887] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11hz1tush2rkq]: Consuming argument `0`
+[02Feb2025 19:09:35.887] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11hz1tush2rkq]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:09:35.887] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05ce4qsijn279]: started parsing
+[02Feb2025 19:09:35.887] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05ce4qsijn279]: Consuming argument `0`
+[02Feb2025 19:09:35.887] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05ce4qsijn279]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:09:36.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set 0
+[02Feb2025 19:09:36.288] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gk8tbntxi95y]: started parsing
+[02Feb2025 19:09:36.288] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gk8tbntxi95y]: Consuming argument `0`
+[02Feb2025 19:09:36.288] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gk8tbntxi95y]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:09:43.543] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ylwnnj1kue88]: started parsing
+[02Feb2025 19:09:43.543] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ylwnnj1kue88]: Consuming argument `0`
+[02Feb2025 19:09:43.543] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ylwnnj1kue88]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:09:43.543] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l2xuu4erfawf]: started parsing
+[02Feb2025 19:09:43.543] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l2xuu4erfawf]: Consuming argument `0`
+[02Feb2025 19:09:43.543] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l2xuu4erfawf]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:09:44.118] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nbv2u4088dgu]: started parsing
+[02Feb2025 19:09:44.119] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nbv2u4088dgu]: Consuming argument `minecraft:stone`
+[02Feb2025 19:09:44.119] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nbv2u4088dgu]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:09:44.119] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p84cqetfto2t]: started parsing
+[02Feb2025 19:09:44.119] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p84cqetfto2t]: Consuming argument `minecraft:stone`
+[02Feb2025 19:09:44.119] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p84cqetfto2t]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:09:44.487] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set minecraft:stone
+[02Feb2025 19:09:44.487] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19vivirf2o2vr]: started parsing
+[02Feb2025 19:09:44.487] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19vivirf2o2vr]: Consuming argument `minecraft:stone`
+[02Feb2025 19:09:44.487] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19vivirf2o2vr]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:09:47.825] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0je12wkovse7i]: started parsing
+[02Feb2025 19:09:47.825] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0je12wkovse7i]: Consuming argument `minecraft:stone`
+[02Feb2025 19:09:47.825] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0je12wkovse7i]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:09:47.865] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o7tbb2rfh6q0]: started parsing
+[02Feb2025 19:09:47.865] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o7tbb2rfh6q0]: Consuming argument `minecraft:stone`
+[02Feb2025 19:09:47.866] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o7tbb2rfh6q0]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:09:48.026] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set minecraft:stone
+[02Feb2025 19:09:48.026] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rztoh63zvf46]: started parsing
+[02Feb2025 19:09:48.026] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rztoh63zvf46]: Consuming argument `minecraft:stone`
+[02Feb2025 19:09:48.026] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rztoh63zvf46]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:09:51.367] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09ndgvo1do7qp]: started parsing
+[02Feb2025 19:09:51.367] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09ndgvo1do7qp]: Consuming argument `minecraft:stone`
+[02Feb2025 19:09:51.367] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09ndgvo1do7qp]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:09:51.367] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bi8bh2wc23xz]: started parsing
+[02Feb2025 19:09:51.367] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bi8bh2wc23xz]: Consuming argument `minecraft:stone`
+[02Feb2025 19:09:51.367] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bi8bh2wc23xz]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:09:51.647] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set minecraft:stone
+[02Feb2025 19:09:51.647] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k41e9r5osk4m]: started parsing
+[02Feb2025 19:09:51.647] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k41e9r5osk4m]: Consuming argument `minecraft:stone`
+[02Feb2025 19:09:51.648] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k41e9r5osk4m]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:09:59.071] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 19:09:59.084] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 19:10:02.046] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ju9du0lcezw7]: started parsing
+[02Feb2025 19:10:02.046] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ju9du0lcezw7]: Consuming argument `minecraft:stone`
+[02Feb2025 19:10:02.046] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ju9du0lcezw7]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:10:02.066] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01u5g1cxjoj2d]: started parsing
+[02Feb2025 19:10:02.066] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01u5g1cxjoj2d]: Consuming argument `minecraft:stone`
+[02Feb2025 19:10:02.066] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01u5g1cxjoj2d]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:10:02.527] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set minecraft:stone
+[02Feb2025 19:10:02.527] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lip6bhmm3n11]: started parsing
+[02Feb2025 19:10:02.527] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lip6bhmm3n11]: Consuming argument `minecraft:stone`
+[02Feb2025 19:10:02.527] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lip6bhmm3n11]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:10:15.079] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [050u8yoxtej3y]: started parsing
+[02Feb2025 19:10:15.079] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [050u8yoxtej3y]: Consuming argument `minecraft:stone`
+[02Feb2025 19:10:15.079] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [050u8yoxtej3y]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:10:15.116] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s4ay9q2mbf0i]: started parsing
+[02Feb2025 19:10:15.116] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s4ay9q2mbf0i]: Consuming argument `minecraft:stone`
+[02Feb2025 19:10:15.116] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s4ay9q2mbf0i]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:10:15.295] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set minecraft:stone
+[02Feb2025 19:10:15.295] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t2fl094ay09r]: started parsing
+[02Feb2025 19:10:15.295] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t2fl094ay09r]: Consuming argument `minecraft:stone`
+[02Feb2025 19:10:15.295] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t2fl094ay09r]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:11:17.446] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kqeafa63l5oc]: started parsing
+[02Feb2025 19:11:17.446] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kqeafa63l5oc]: Consuming argument `minecraft:stone`
+[02Feb2025 19:11:17.446] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kqeafa63l5oc]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:11:17.465] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nqw81yz20dfv]: started parsing
+[02Feb2025 19:11:17.466] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nqw81yz20dfv]: Consuming argument `minecraft:stone`
+[02Feb2025 19:11:17.466] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nqw81yz20dfv]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:11:17.682] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [109evtq9d5cmi]: started parsing
+[02Feb2025 19:11:17.682] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [109evtq9d5cmi]: Consuming argument `0`
+[02Feb2025 19:11:17.682] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [109evtq9d5cmi]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:11:17.715] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ik3t8rxmbj5t]: started parsing
+[02Feb2025 19:11:17.715] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ik3t8rxmbj5t]: Consuming argument `0`
+[02Feb2025 19:11:17.715] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ik3t8rxmbj5t]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:11:18.231] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set 0
+[02Feb2025 19:11:18.232] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18zw2xzxxg4j5]: started parsing
+[02Feb2025 19:11:18.232] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18zw2xzxxg4j5]: Consuming argument `0`
+[02Feb2025 19:11:18.232] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18zw2xzxxg4j5]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:12:24.894] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rsey5md1d9p1]: started parsing
+[02Feb2025 19:12:24.894] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rsey5md1d9p1]: Consuming argument ``
+[02Feb2025 19:12:25.798] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17ab5nq1dbnzw]: started parsing
+[02Feb2025 19:12:25.798] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17ab5nq1dbnzw]: Consuming argument `0`
+[02Feb2025 19:12:25.799] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17ab5nq1dbnzw]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:12:26.174] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set 0
+[02Feb2025 19:12:26.174] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06mcfpglxa0fb]: started parsing
+[02Feb2025 19:12:26.174] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06mcfpglxa0fb]: Consuming argument `0`
+[02Feb2025 19:12:26.174] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06mcfpglxa0fb]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:13:00.422] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cb0ttaqkw8rj]: started parsing
+[02Feb2025 19:13:00.422] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cb0ttaqkw8rj]: Consuming argument `0`
+[02Feb2025 19:13:00.422] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cb0ttaqkw8rj]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:13:00.465] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [109rrjreb1ksf]: started parsing
+[02Feb2025 19:13:00.465] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [109rrjreb1ksf]: Consuming argument `0`
+[02Feb2025 19:13:00.465] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [109rrjreb1ksf]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:13:00.726] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set 0
+[02Feb2025 19:13:00.726] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [074gx2gzgjwx2]: started parsing
+[02Feb2025 19:13:00.726] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [074gx2gzgjwx2]: Consuming argument `0`
+[02Feb2025 19:13:00.726] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [074gx2gzgjwx2]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:13:45.030] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b6xbapjvpedk]: started parsing
+[02Feb2025 19:13:45.030] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b6xbapjvpedk]: Consuming argument `0`
+[02Feb2025 19:13:45.030] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b6xbapjvpedk]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:13:45.067] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1768a8cfa3ljs]: started parsing
+[02Feb2025 19:13:45.067] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1768a8cfa3ljs]: Consuming argument `0`
+[02Feb2025 19:13:45.068] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1768a8cfa3ljs]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:13:45.350] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set 0
+[02Feb2025 19:13:45.350] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01xnc04i59m94]: started parsing
+[02Feb2025 19:13:45.350] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01xnc04i59m94]: Consuming argument `0`
+[02Feb2025 19:13:45.350] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01xnc04i59m94]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:14:24.567] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11715x229y56r]: started parsing
+[02Feb2025 19:14:24.567] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11715x229y56r]: Consuming argument `0`
+[02Feb2025 19:14:24.567] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11715x229y56r]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:14:24.567] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rhspl4wb9d97]: started parsing
+[02Feb2025 19:14:24.567] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rhspl4wb9d97]: Consuming argument `0`
+[02Feb2025 19:14:24.567] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rhspl4wb9d97]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:14:24.838] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sn5asa7xm4z4]: started parsing
+[02Feb2025 19:14:24.838] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sn5asa7xm4z4]: Consuming argument `minecraft:stone`
+[02Feb2025 19:14:24.838] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sn5asa7xm4z4]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:14:24.865] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0glxrd8hvpqtd]: started parsing
+[02Feb2025 19:14:24.865] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0glxrd8hvpqtd]: Consuming argument `minecraft:stone`
+[02Feb2025 19:14:24.865] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0glxrd8hvpqtd]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:14:25.301] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set minecraft:stone
+[02Feb2025 19:14:25.302] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nsrwg73q52st]: started parsing
+[02Feb2025 19:14:25.302] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nsrwg73q52st]: Consuming argument `minecraft:stone`
+[02Feb2025 19:14:25.302] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nsrwg73q52st]: Finished looking at arguments. Finalizing command.
+[02Feb2025 19:14:59.067] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 19:14:59.077] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 19:18:53.009] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give alexis83 minecraft:nether_brick_fence
+[02Feb2025 19:18:53.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 1 [Nether Brick Fence] to alexis83]

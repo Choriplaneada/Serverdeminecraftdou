@@ -497,6 +497,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_spruce_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2025-02-02 19:07:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-20 03:56:38 +0000"
@@ -1134,6 +1140,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_spruce_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2025-02-02 19:07:59 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/bobber": {
     "criteria": {
       "has_items": "2025-02-02 18:51:23 +0000"
@@ -1384,6 +1396,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_spruce_crate": {
+    "criteria": {
+      "has_log": "2025-02-02 19:07:59 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/filter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-21 00:22:27 +0000"
@@ -1585,6 +1603,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-01-19 23:55:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_table": {
+    "criteria": {
+      "has_log": "2025-02-02 19:07:59 +0000"
     },
     "done": true
   },
@@ -2130,6 +2154,12 @@
   "infernalexp:recipes/redstone/smooth_glowstone_pressure_plate": {
     "criteria": {
       "has_smooth_glowstone": "2025-01-13 19:37:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-02-02 19:07:59 +0000"
     },
     "done": true
   },
@@ -2686,6 +2716,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_spruce_desk": {
+    "criteria": {
+      "has_log": "2025-02-02 19:07:59 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_fishing_rod": "2025-02-02 18:51:23 +0000",
@@ -2780,6 +2816,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/carpenter_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-21 00:22:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-02-02 19:07:59 +0000"
     },
     "done": true
   },
@@ -2885,6 +2927,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_spruce_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-02 19:07:59 +0000"
+    },
+    "done": true
+  },
   "infernalexp:recipes/redstone/soul_slate_button": {
     "criteria": {
       "has_soul_slate": "2025-01-13 19:37:19 +0000"
@@ -2912,6 +2960,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-01-20 00:40:43 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_blinds": {
+    "criteria": {
+      "has_log": "2025-02-02 19:07:59 +0000"
     },
     "done": true
   },
@@ -3321,6 +3375,12 @@
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2025-01-20 01:13:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-02-02 19:07:59 +0000"
     },
     "done": true
   },
@@ -3928,6 +3988,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_spruce_park_bench": {
+    "criteria": {
+      "has_planks": "2025-02-02 19:07:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-01-20 05:19:22 +0000"
@@ -4038,6 +4104,12 @@
       "log_spam_fixer": "2025-01-13 19:37:19 +0000"
     },
     "done": false
+  },
+  "cfm:recipes/cfm/stripped_spruce_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-02-02 19:07:59 +0000"
+    },
+    "done": true
   },
   "cfm:recipes/cfm/gray_cooler": {
     "criteria": {
@@ -4292,6 +4364,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_spruce_coffee_table": {
+    "criteria": {
+      "has_log": "2025-02-02 19:07:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-01-19 23:30:33 +0000"
@@ -4355,6 +4433,12 @@
   "infernalexp:recipes/redstone/soul_slate_pressure_plate": {
     "criteria": {
       "has_soul_slate": "2025-01-13 19:37:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-02-02 19:07:59 +0000"
     },
     "done": true
   },
@@ -4573,6 +4657,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-01-20 00:33:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_chair": {
+    "criteria": {
+      "has_log": "2025-02-02 19:07:59 +0000"
     },
     "done": true
   },
