@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/crimson_crate": {
+    "criteria": {
+      "has_log": "2025-02-03 17:33:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-01-19 23:50:26 +0000"
@@ -419,6 +425,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_crimson_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:33:42 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
       "log_spam_fixer": "2025-01-13 19:37:19 +0000"
@@ -497,6 +509,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/crimson_desk": {
+    "criteria": {
+      "has_log": "2025-02-03 17:33:42 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/jellyfish_to_slimeball": {
     "criteria": {
       "has_items": "2025-02-02 18:51:23 +0000"
@@ -506,6 +524,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/oak_support": {
     "criteria": {
       "has_plank": "2025-01-19 23:26:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-02-03 17:33:42 +0000"
     },
     "done": true
   },
@@ -545,6 +569,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_crimson_table": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:33:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
     "criteria": {
       "has_light_blue_dye": "2025-01-20 04:18:24 +0000"
@@ -566,6 +596,12 @@
   "minecraft:recipes/building_blocks/smooth_quartz_slab": {
     "criteria": {
       "has_smooth_quartz": "2025-01-20 04:28:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_cabinet": {
+    "criteria": {
+      "has_log": "2025-02-03 17:33:42 +0000"
     },
     "done": true
   },
@@ -968,6 +1004,12 @@
   "simplytools:recipes/simplytools/netherite_hammer": {
     "criteria": {
       "criterion1": "2025-01-20 23:59:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_blinds": {
+    "criteria": {
+      "has_log": "2025-02-03 17:33:42 +0000"
     },
     "done": true
   },
@@ -1473,6 +1515,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-20 03:56:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_park_bench": {
+    "criteria": {
+      "has_log": "2025-02-03 17:33:42 +0000"
     },
     "done": true
   },
@@ -2200,6 +2248,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/crimson_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-02-03 17:33:42 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/glassblower_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-21 00:22:27 +0000"
@@ -2233,6 +2287,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-01-20 00:33:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_coffee_table": {
+    "criteria": {
+      "has_log": "2025-02-03 17:33:42 +0000"
     },
     "done": true
   },
@@ -2529,6 +2589,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_crimson_park_bench": {
+    "criteria": {
+      "has_log": "2025-02-03 17:33:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-01-19 23:30:33 +0000"
@@ -2559,6 +2625,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/crimson_palisade": {
+    "criteria": {
+      "has_log": "2025-02-03 17:33:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-01-19 23:35:53 +0000"
@@ -2586,6 +2658,12 @@
   "securitycraft:recipes/securitycraft/reinforced_yellow_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-02-03 04:37:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_crimson_desk": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:33:42 +0000"
     },
     "done": true
   },
@@ -2673,6 +2751,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:22:42 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl3": {
     "criteria": {
       "has_redstone": "2025-02-03 02:32:23 +0000"
@@ -2688,6 +2772,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-02-02 19:33:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-02-03 17:33:42 +0000"
     },
     "done": true
   },
@@ -2826,6 +2916,12 @@
   "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-03 04:37:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_crimson_crate": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:33:42 +0000"
     },
     "done": true
   },
@@ -3151,6 +3247,12 @@
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-03 04:37:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-02-03 17:33:42 +0000"
     },
     "done": true
   },
@@ -3533,6 +3635,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_crimson_chair": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:33:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-03 15:50:49 +0000"
@@ -3578,6 +3686,18 @@
   "cfm:recipes/cfm/stripped_spruce_bedside_cabinet": {
     "criteria": {
       "has_log": "2025-02-02 19:07:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_crimson_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:33:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_crimson_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:33:42 +0000"
     },
     "done": true
   },
@@ -4033,6 +4153,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/crimson_chair": {
+    "criteria": {
+      "has_log": "2025-02-03 17:33:42 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/cyan_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-02 19:00:57 +0000"
@@ -4418,6 +4544,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:22:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2025-01-19 23:43:51 +0000"
@@ -4637,6 +4769,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/crimson_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-02-03 17:33:42 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2025-01-21 22:38:24 +0000"
@@ -4682,6 +4820,12 @@
   "cfm:recipes/cfm/light_blue_cooler": {
     "criteria": {
       "has_chest": "2025-02-02 19:00:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-02-03 17:33:42 +0000"
     },
     "done": true
   },
@@ -5114,6 +5258,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_crimson_cabinet": {
+    "criteria": {
+      "has_log": "2025-02-03 17:33:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-20 03:56:38 +0000"
@@ -5481,6 +5631,18 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_crimson_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-02-03 17:33:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-02-03 17:33:42 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-02 19:00:57 +0000"
@@ -5768,6 +5930,12 @@
   "cfm:recipes/cfm/spatula": {
     "criteria": {
       "has_iron": "2025-02-02 18:51:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_table": {
+    "criteria": {
+      "has_log": "2025-02-03 17:33:42 +0000"
     },
     "done": true
   },
