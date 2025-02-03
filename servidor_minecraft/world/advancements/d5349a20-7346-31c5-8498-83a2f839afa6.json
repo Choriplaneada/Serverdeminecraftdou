@@ -401,6 +401,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-02-03 02:20:41 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/jellyfish_to_slimeball": {
     "criteria": {
       "has_items": "2025-02-02 18:51:23 +0000"
