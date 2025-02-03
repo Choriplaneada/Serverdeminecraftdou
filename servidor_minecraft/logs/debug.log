@@ -18810,3 +18810,14 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
 	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[03Feb2025 19:19:38.220] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 19:19:38.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 19:19:50.981] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of alexis83: {disabled=true, disconnected=false, uuid=d5349a20-7346-31c5-8498-83a2f839afa6, name=alexis83, group=null}
+[03Feb2025 19:19:53.872] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of alexis83: {disabled=false, disconnected=false, uuid=d5349a20-7346-31c5-8498-83a2f839afa6, name=alexis83, group=null}
+[03Feb2025 19:20:22.282] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/supermartijn642/core/item/BaseBlockItem$1
+[03Feb2025 19:21:27.082] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 lost connection: Disconnected
+[03Feb2025 19:21:27.082] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of alexis83
+[03Feb2025 19:21:27.082] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client alexis83
+[03Feb2025 19:21:27.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexis83 left the game
+[03Feb2025 19:24:38.199] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 19:24:38.210] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
