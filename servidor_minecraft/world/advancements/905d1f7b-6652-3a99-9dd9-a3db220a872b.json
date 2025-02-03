@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-02-03 17:53:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-19 23:49:16 +0000"
@@ -1413,6 +1419,12 @@
   "securitycraft:recipes/securitycraft/disguise_module": {
     "criteria": {
       "has_iron": "2025-02-03 03:15:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-02-03 17:53:20 +0000"
     },
     "done": true
   },
@@ -4441,6 +4453,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-01-20 01:17:43 +0000",
       "minecraft:taiga": "2025-01-20 01:09:54 +0000",
+      "minecraft:windswept_hills": "2025-02-03 17:55:51 +0000",
       "minecraft:beach": "2025-01-20 01:10:32 +0000",
       "minecraft:dark_forest": "2025-01-20 01:18:57 +0000",
       "minecraft:river": "2025-01-19 23:50:30 +0000",
@@ -4450,6 +4463,7 @@
       "minecraft:forest": "2025-01-20 01:01:24 +0000",
       "minecraft:lush_caves": "2025-01-20 01:23:47 +0000",
       "minecraft:meadow": "2025-01-19 23:37:52 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-02-03 17:57:29 +0000",
       "minecraft:plains": "2025-01-19 23:23:25 +0000"
     },
     "done": false
@@ -5652,6 +5666,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-02-03 06:03:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-02-03 18:00:56 +0000"
     },
     "done": true
   },
