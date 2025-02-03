@@ -16949,3 +16949,548 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
 	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[03Feb2025 04:42:13.029] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give alexis83 minecraft:barrier
+[03Feb2025 04:42:13.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 1 [Barrier] to alexis83]
+[03Feb2025 04:43:24.178] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class sereneseasons/handler/season/RandomUpdateHandler$1
+[03Feb2025 04:43:36.646] [Server thread/DEBUG] [mixin/]: Mixing world.inventory.StonecutterContainer1Mixin from mixins.arclight.core.json into net.minecraft.world.inventory.StonecutterMenu$1
+[03Feb2025 04:43:44.132] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dvx5ncswci6f]: started parsing
+[03Feb2025 04:43:44.132] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dvx5ncswci6f]: Consuming argument ``
+[03Feb2025 04:43:44.313] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mgf6nvf8d1e8]: started parsing
+[03Feb2025 04:43:44.313] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mgf6nvf8d1e8]: Consuming argument `m`
+[03Feb2025 04:43:44.482] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l2ngn8p9vt8t]: started parsing
+[03Feb2025 04:43:44.482] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l2ngn8p9vt8t]: Consuming argument `mi`
+[03Feb2025 04:43:44.642] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1desh8s7gs389]: started parsing
+[03Feb2025 04:43:44.642] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1desh8s7gs389]: Consuming argument `min`
+[03Feb2025 04:43:44.736] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rrax4y5qx3vo]: started parsing
+[03Feb2025 04:43:44.736] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rrax4y5qx3vo]: Consuming argument `mine`
+[03Feb2025 04:43:45.690] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17sscm5gcp4ev]: started parsing
+[03Feb2025 04:43:45.690] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17sscm5gcp4ev]: Consuming argument `minecraft:`
+[03Feb2025 04:43:46.194] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qdtuy1cl7nw0]: started parsing
+[03Feb2025 04:43:46.194] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qdtuy1cl7nw0]: Consuming argument `minecraft:`
+[03Feb2025 04:43:47.410] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [117g52u3l9yjz]: started parsing
+[03Feb2025 04:43:47.410] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [117g52u3l9yjz]: Consuming argument `minecraft:b`
+[03Feb2025 04:43:48.328] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g8r8n3ozy9qk]: started parsing
+[03Feb2025 04:43:48.328] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g8r8n3ozy9qk]: Consuming argument `minecraft:br`
+[03Feb2025 04:43:48.480] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0joei45t5xo3i]: started parsing
+[03Feb2025 04:43:48.480] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0joei45t5xo3i]: Consuming argument `minecraft:bri`
+[03Feb2025 04:43:50.146] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pq78qh008keq]: started parsing
+[03Feb2025 04:43:50.146] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pq78qh008keq]: Consuming argument `minecraft:bric`
+[03Feb2025 04:43:50.279] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08vi7uotq1ug8]: started parsing
+[03Feb2025 04:43:50.279] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08vi7uotq1ug8]: Consuming argument `minecraft:brick`
+[03Feb2025 04:43:51.458] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ryzysmqjcfa6]: started parsing
+[03Feb2025 04:43:51.458] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ryzysmqjcfa6]: Consuming argument `minecraft:bric`
+[03Feb2025 04:43:51.680] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1aaj10q9megeb]: started parsing
+[03Feb2025 04:43:51.680] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1aaj10q9megeb]: Consuming argument `minecraft:bri`
+[03Feb2025 04:43:51.835] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t7fpwayrdjh0]: started parsing
+[03Feb2025 04:43:51.835] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t7fpwayrdjh0]: Consuming argument `minecraft:br`
+[03Feb2025 04:43:51.997] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y59myvdzogc5]: started parsing
+[03Feb2025 04:43:51.997] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y59myvdzogc5]: Consuming argument `minecraft:b`
+[03Feb2025 04:43:52.161] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d22ne1slpyp5]: started parsing
+[03Feb2025 04:43:52.161] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d22ne1slpyp5]: Consuming argument `minecraft:`
+[03Feb2025 04:43:53.658] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set minecraft:
+[03Feb2025 04:43:53.658] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10wtyc0ig6nld]: started parsing
+[03Feb2025 04:43:53.658] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10wtyc0ig6nld]: Consuming argument `minecraft:`
+[03Feb2025 04:43:56.698] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tk8wkhpzcnel]: started parsing
+[03Feb2025 04:43:56.698] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tk8wkhpzcnel]: Consuming argument `minecraft:`
+[03Feb2025 04:43:56.700] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05mu2dnfgxnlz]: started parsing
+[03Feb2025 04:43:56.700] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05mu2dnfgxnlz]: Consuming argument `minecraft:`
+[03Feb2025 04:43:57.642] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [119o8wasov9zk]: started parsing
+[03Feb2025 04:43:57.642] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [119o8wasov9zk]: Consuming argument `minecraft:n`
+[03Feb2025 04:43:57.762] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15m0r24ezzkck]: started parsing
+[03Feb2025 04:43:57.762] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15m0r24ezzkck]: Consuming argument `minecraft:ne`
+[03Feb2025 04:43:57.882] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0levnss9jydtk]: started parsing
+[03Feb2025 04:43:57.882] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0levnss9jydtk]: Consuming argument `minecraft:net`
+[03Feb2025 04:43:58.090] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xlipeqi3t3fk]: started parsing
+[03Feb2025 04:43:58.090] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xlipeqi3t3fk]: Consuming argument `minecraft:nety`
+[03Feb2025 04:43:58.098] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wptyzbohktgw]: started parsing
+[03Feb2025 04:43:58.098] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wptyzbohktgw]: Consuming argument `minecraft:netyh`
+[03Feb2025 04:43:58.156] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02tf0ekv2yzn8]: started parsing
+[03Feb2025 04:43:58.156] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02tf0ekv2yzn8]: Consuming argument `minecraft:netyhe`
+[03Feb2025 04:43:58.630] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xrsswfjskgah]: started parsing
+[03Feb2025 04:43:58.630] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xrsswfjskgah]: Consuming argument `minecraft:netyh`
+[03Feb2025 04:43:58.779] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k0483dt29mrl]: started parsing
+[03Feb2025 04:43:58.779] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k0483dt29mrl]: Consuming argument `minecraft:nety`
+[03Feb2025 04:43:58.916] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kktyxwffeenl]: started parsing
+[03Feb2025 04:43:58.916] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kktyxwffeenl]: Consuming argument `minecraft:net`
+[03Feb2025 04:43:59.228] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r4h0g42fghzo]: started parsing
+[03Feb2025 04:43:59.228] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r4h0g42fghzo]: Consuming argument `minecraft:neth`
+[03Feb2025 04:43:59.338] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ki7j4rbuz0n0]: started parsing
+[03Feb2025 04:43:59.338] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ki7j4rbuz0n0]: Consuming argument `minecraft:nethe`
+[03Feb2025 04:43:59.498] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j2un7q8x0235]: started parsing
+[03Feb2025 04:43:59.498] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j2un7q8x0235]: Consuming argument `minecraft:nether`
+[03Feb2025 04:44:00.099] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0828i3ihg0y99]: started parsing
+[03Feb2025 04:44:00.099] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0828i3ihg0y99]: Consuming argument `minecraft:nether:`
+[03Feb2025 04:44:00.819] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t5e5ylhxe475]: started parsing
+[03Feb2025 04:44:00.819] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t5e5ylhxe475]: Consuming argument `minecraft:nether:b`
+[03Feb2025 04:44:00.929] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ffz19qcew5c6]: started parsing
+[03Feb2025 04:44:00.929] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ffz19qcew5c6]: Consuming argument `minecraft:nether:br`
+[03Feb2025 04:44:01.131] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [141ip3mpfzuf9]: started parsing
+[03Feb2025 04:44:01.131] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [141ip3mpfzuf9]: Consuming argument `minecraft:nether:bri`
+[03Feb2025 04:44:01.218] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19jbp7jfyefqs]: started parsing
+[03Feb2025 04:44:01.218] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19jbp7jfyefqs]: Consuming argument `minecraft:nether:bric`
+[03Feb2025 04:44:01.362] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [145z9hys69j0y]: started parsing
+[03Feb2025 04:44:01.362] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [145z9hys69j0y]: Consuming argument `minecraft:nether:brick`
+[03Feb2025 04:44:01.469] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uqe4fssd06zm]: started parsing
+[03Feb2025 04:44:01.469] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uqe4fssd06zm]: Consuming argument `minecraft:nether:bricks`
+[03Feb2025 04:44:01.994] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set minecraft:nether:bricks
+[03Feb2025 04:44:01.994] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wdbf9gn0op9h]: started parsing
+[03Feb2025 04:44:01.994] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wdbf9gn0op9h]: Consuming argument `minecraft:nether:bricks`
+[03Feb2025 04:44:03.881] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rd0ve2xfnwed]: started parsing
+[03Feb2025 04:44:03.881] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rd0ve2xfnwed]: Consuming argument `minecraft:nether:bricks`
+[03Feb2025 04:44:03.882] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0eb86ld2rxba7]: started parsing
+[03Feb2025 04:44:03.882] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0eb86ld2rxba7]: Consuming argument `minecraft:nether:bricks`
+[03Feb2025 04:44:04.594] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1165c0agc2j5v]: started parsing
+[03Feb2025 04:44:04.594] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1165c0agc2j5v]: Consuming argument `minecraft:nether:brick`
+[03Feb2025 04:44:04.792] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v9n36rv0epsu]: started parsing
+[03Feb2025 04:44:04.792] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v9n36rv0epsu]: Consuming argument `minecraft:nether:bric`
+[03Feb2025 04:44:04.938] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19xuokjtopvlu]: started parsing
+[03Feb2025 04:44:04.938] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19xuokjtopvlu]: Consuming argument `minecraft:nether:bri`
+[03Feb2025 04:44:05.092] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [122f6xu28si54]: started parsing
+[03Feb2025 04:44:05.092] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [122f6xu28si54]: Consuming argument `minecraft:nether:br`
+[03Feb2025 04:44:05.258] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jv10zdy0p0aj]: started parsing
+[03Feb2025 04:44:05.258] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jv10zdy0p0aj]: Consuming argument `minecraft:nether:b`
+[03Feb2025 04:44:06.212] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18id2lpdymnyy]: started parsing
+[03Feb2025 04:44:06.212] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18id2lpdymnyy]: Consuming argument `minecraft:nether:`
+[03Feb2025 04:44:06.581] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r0kc9ouvfc2q]: started parsing
+[03Feb2025 04:44:06.581] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r0kc9ouvfc2q]: Consuming argument `minecraft:nether`
+[03Feb2025 04:44:07.234] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q2hc6lnc0pc4]: started parsing
+[03Feb2025 04:44:07.234] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q2hc6lnc0pc4]: Consuming argument `minecraft:nether_`
+[03Feb2025 04:44:07.690] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set minecraft:nether_bricks
+[03Feb2025 04:44:07.690] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sr4l420kuz6z]: started parsing
+[03Feb2025 04:44:07.690] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sr4l420kuz6z]: Consuming argument `minecraft:nether_bricks`
+[03Feb2025 04:44:07.690] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sr4l420kuz6z]: Finished looking at arguments. Finalizing command.
+[03Feb2025 04:44:21.279] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cnvftnien7e8]: started parsing
+[03Feb2025 04:44:21.279] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cnvftnien7e8]: Consuming argument `minecraft:nether_bricks`
+[03Feb2025 04:44:21.279] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cnvftnien7e8]: Finished looking at arguments. Finalizing command.
+[03Feb2025 04:44:21.280] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06i9w84y0a4gw]: started parsing
+[03Feb2025 04:44:21.280] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06i9w84y0a4gw]: Consuming argument `minecraft:nether_bricks`
+[03Feb2025 04:44:21.280] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06i9w84y0a4gw]: Finished looking at arguments. Finalizing command.
+[03Feb2025 04:44:21.562] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set minecraft:nether_bricks
+[03Feb2025 04:44:21.562] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0exlev5tcszr4]: started parsing
+[03Feb2025 04:44:21.562] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0exlev5tcszr4]: Consuming argument `minecraft:nether_bricks`
+[03Feb2025 04:44:21.562] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0exlev5tcszr4]: Finished looking at arguments. Finalizing command.
+[03Feb2025 04:44:27.362] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qen1sk3vf3yb]: started parsing
+[03Feb2025 04:44:27.362] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qen1sk3vf3yb]: Consuming argument `minecraft:nether_bricks`
+[03Feb2025 04:44:27.363] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qen1sk3vf3yb]: Finished looking at arguments. Finalizing command.
+[03Feb2025 04:44:27.363] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [007ja8grlodoz]: started parsing
+[03Feb2025 04:44:27.363] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [007ja8grlodoz]: Consuming argument `minecraft:nether_bricks`
+[03Feb2025 04:44:27.363] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [007ja8grlodoz]: Finished looking at arguments. Finalizing command.
+[03Feb2025 04:44:27.634] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set minecraft:nether_bricks
+[03Feb2025 04:44:27.635] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wzd1wy79tw1v]: started parsing
+[03Feb2025 04:44:27.635] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wzd1wy79tw1v]: Consuming argument `minecraft:nether_bricks`
+[03Feb2025 04:44:27.635] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wzd1wy79tw1v]: Finished looking at arguments. Finalizing command.
+[03Feb2025 04:44:50.896] [Worker-Main-11/DEBUG] [mixin/]: Mixing world.gen.WorldGenRegionMixin from mixins.arclight.core.json into net.minecraft.server.level.WorldGenRegion
+[03Feb2025 04:44:50.896] [Worker-Main-11/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[03Feb2025 04:44:50.896] [Worker-Main-11/DEBUG] [mixin/]: Mixing common.WorldGenRegionAccessor from infernal-expansion.mixins.json into net.minecraft.server.level.WorldGenRegion
+[03Feb2025 04:44:50.898] [Worker-Main-11/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[03Feb2025 04:44:56.086] [Worker-Main-11/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/levelgen/structure/placement/RandomSpreadType$1
+[03Feb2025 04:44:56.100] [Worker-Main-11/ERROR] [STDERR/]: java.io.IOException: Base resource not found: dbr.class
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.Patcher.applyPatch(Patcher.java:146)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourcePatched(OptiFineTransformer.java:396)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStreamPatched(OptiFineTransformer.java:368)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStream(OptiFineTransformer.java:291)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResource(OptiFineTransformer.java:260)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:171)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:1)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformerHolder.transform(TransformerHolder.java:41)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.performVote(ClassTransformer.java:179)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:98)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.NoiseBasedChunkGenerator.m_224239_(NoiseBasedChunkGenerator.java:204)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.NoiseBasedChunkGenerator.m_214184_(NoiseBasedChunkGenerator.java:136)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.structure.structures.NetherFossilStructure.m_214086_(NetherFossilStructure.java:46)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.structure.Structure.m_226596_(Structure.java:84)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.ChunkGenerator.m_223104_(ChunkGeneratorMixin.java:638)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.ChunkGenerator.m_223066_(ChunkGeneratorMixin.java:591)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.AbstractList$RandomAccessSpliterator.forEachRemaining(AbstractList.java:720)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.ChunkGenerator.m_223164_(ChunkGeneratorMixin.java:573)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.ChunkStatus.m_223360_(ChunkStatus.java:59)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.ChunkStatus.m_223279_(ChunkStatus.java:292)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$25(ChunkMapMixin.java:621)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/datafixerupper@5.0.28/com.mojang.datafixers.util.Either$Left.map(Either.java:38)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMapMixin.java:619)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[03Feb2025 04:44:56.101] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: java.io.IOException: Base resource not found: dbr$1.class
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.Patcher.applyPatch(Patcher.java:146)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourcePatched(OptiFineTransformer.java:396)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStreamPatched(OptiFineTransformer.java:368)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStream(OptiFineTransformer.java:291)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResource(OptiFineTransformer.java:260)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:171)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:1)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformerHolder.transform(TransformerHolder.java:41)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.performVote(ClassTransformer.java:179)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:98)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.NoiseBasedChunkGenerator.m_224239_(NoiseBasedChunkGenerator.java:204)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.NoiseBasedChunkGenerator.m_214184_(NoiseBasedChunkGenerator.java:136)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.structure.structures.NetherFossilStructure.m_214086_(NetherFossilStructure.java:46)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.structure.Structure.m_226596_(Structure.java:84)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.ChunkGenerator.m_223104_(ChunkGeneratorMixin.java:638)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.ChunkGenerator.m_223066_(ChunkGeneratorMixin.java:591)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.AbstractList$RandomAccessSpliterator.forEachRemaining(AbstractList.java:720)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.ChunkGenerator.m_223164_(ChunkGeneratorMixin.java:573)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.ChunkStatus.m_223360_(ChunkStatus.java:59)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.ChunkStatus.m_223279_(ChunkStatus.java:292)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$25(ChunkMapMixin.java:621)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/datafixerupper@5.0.28/com.mojang.datafixers.util.Either$Left.map(Either.java:38)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMapMixin.java:619)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[03Feb2025 04:44:56.109] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[03Feb2025 04:44:56.113] [Worker-Main-11/ERROR] [STDERR/]: java.io.IOException: Base resource not found: dbr$a.class
+[03Feb2025 04:44:56.113] [Worker-Main-11/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.Patcher.applyPatch(Patcher.java:146)
+[03Feb2025 04:44:56.113] [Worker-Main-11/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourcePatched(OptiFineTransformer.java:396)
+[03Feb2025 04:44:56.113] [Worker-Main-11/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStreamPatched(OptiFineTransformer.java:368)
+[03Feb2025 04:44:56.113] [Worker-Main-11/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStream(OptiFineTransformer.java:291)
+[03Feb2025 04:44:56.113] [Worker-Main-11/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResource(OptiFineTransformer.java:260)
+[03Feb2025 04:44:56.113] [Worker-Main-11/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:171)
+[03Feb2025 04:44:56.113] [Worker-Main-11/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:1)
+[03Feb2025 04:44:56.113] [Worker-Main-11/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformerHolder.transform(TransformerHolder.java:41)
+[03Feb2025 04:44:56.113] [Worker-Main-11/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.performVote(ClassTransformer.java:179)
+[03Feb2025 04:44:56.113] [Worker-Main-11/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:98)
+[03Feb2025 04:44:56.113] [Worker-Main-11/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+[03Feb2025 04:44:56.113] [Worker-Main-11/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+[03Feb2025 04:44:56.113] [Worker-Main-11/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+[03Feb2025 04:44:56.113] [Worker-Main-11/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+[03Feb2025 04:44:56.113] [Worker-Main-11/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+[03Feb2025 04:44:56.113] [Worker-Main-11/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+[03Feb2025 04:44:56.113] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+[03Feb2025 04:44:56.113] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.NoiseChunk.<init>(NoiseChunk.java:58)
+[03Feb2025 04:44:56.113] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.NoiseBasedChunkGenerator.m_224239_(NoiseBasedChunkGenerator.java:204)
+[03Feb2025 04:44:56.113] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.NoiseBasedChunkGenerator.m_214184_(NoiseBasedChunkGenerator.java:136)
+[03Feb2025 04:44:56.113] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.structure.structures.NetherFossilStructure.m_214086_(NetherFossilStructure.java:46)
+[03Feb2025 04:44:56.113] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.structure.Structure.m_226596_(Structure.java:84)
+[03Feb2025 04:44:56.113] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.ChunkGenerator.m_223104_(ChunkGeneratorMixin.java:638)
+[03Feb2025 04:44:56.113] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.ChunkGenerator.m_223066_(ChunkGeneratorMixin.java:591)
+[03Feb2025 04:44:56.113] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
+[03Feb2025 04:44:56.113] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+[03Feb2025 04:44:56.113] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.AbstractList$RandomAccessSpliterator.forEachRemaining(AbstractList.java:720)
+[03Feb2025 04:44:56.113] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[03Feb2025 04:44:56.113] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+[03Feb2025 04:44:56.113] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+[03Feb2025 04:44:56.113] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+[03Feb2025 04:44:56.113] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[03Feb2025 04:44:56.114] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+[03Feb2025 04:44:56.114] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.ChunkGenerator.m_223164_(ChunkGeneratorMixin.java:573)
+[03Feb2025 04:44:56.114] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.ChunkStatus.m_223360_(ChunkStatus.java:59)
+[03Feb2025 04:44:56.114] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.ChunkStatus.m_223279_(ChunkStatus.java:292)
+[03Feb2025 04:44:56.114] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$25(ChunkMapMixin.java:621)
+[03Feb2025 04:44:56.114] [Worker-Main-11/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/datafixerupper@5.0.28/com.mojang.datafixers.util.Either$Left.map(Either.java:38)
+[03Feb2025 04:44:56.114] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMapMixin.java:619)
+[03Feb2025 04:44:56.114] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150)
+[03Feb2025 04:44:56.114] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
+[03Feb2025 04:44:56.114] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62)
+[03Feb2025 04:44:56.114] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91)
+[03Feb2025 04:44:56.114] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146)
+[03Feb2025 04:44:56.114] [Worker-Main-11/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102)
+[03Feb2025 04:44:56.114] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395)
+[03Feb2025 04:44:56.114] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[03Feb2025 04:44:56.114] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[03Feb2025 04:44:56.114] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[03Feb2025 04:44:56.114] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[03Feb2025 04:44:56.114] [Worker-Main-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[03Feb2025 04:44:56.143] [Worker-Main-11/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/levelgen/NoiseChunk$2
+[03Feb2025 04:44:56.597] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uvxjh9gkqwyg]: started parsing
+[03Feb2025 04:44:56.597] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uvxjh9gkqwyg]: Consuming argument `minecraft:nether_bricks`
+[03Feb2025 04:44:56.597] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uvxjh9gkqwyg]: Finished looking at arguments. Finalizing command.
+[03Feb2025 04:44:56.598] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09xyz82ts4y9i]: started parsing
+[03Feb2025 04:44:56.598] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09xyz82ts4y9i]: Consuming argument `minecraft:nether_bricks`
+[03Feb2025 04:44:56.598] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09xyz82ts4y9i]: Finished looking at arguments. Finalizing command.
+[03Feb2025 04:44:57.014] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set minecraft:nether_bricks
+[03Feb2025 04:44:57.014] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04rpgzxhv7doc]: started parsing
+[03Feb2025 04:44:57.014] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04rpgzxhv7doc]: Consuming argument `minecraft:nether_bricks`
+[03Feb2025 04:44:57.014] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04rpgzxhv7doc]: Finished looking at arguments. Finalizing command.
+[03Feb2025 04:44:57.198] [Worker-Main-57/DEBUG] [mixin/]: Mixing common.SurfaceRulesContextAccessor from infernal-expansion.mixins.json into net.minecraft.world.level.levelgen.SurfaceRules$Context
+[03Feb2025 04:46:22.201] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /tp durooo
+[03Feb2025 04:46:22.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Teleported alexis83 to durooo]
+[03Feb2025 04:46:45.645] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 04:46:45.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 04:51:45.641] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 04:51:45.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 04:55:23.816] [Netty Epoll Server IO #3/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[03Feb2025 04:55:23.817] [Netty Epoll Server IO #3/DEBUG] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+java.lang.IllegalStateException: Asynchronous chunk entity get!
+	at io.izzel.arclight.boot.asm.AsyncCatcher.checkOp(AsyncCatcher.java:235) [arclight.jar%2381!/:arclight-1.19.2-1.0.5-696a298] {}
+	at net.minecraft.server.level.ServerLevel.m_142646_(ServerLevelMixin.java) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:sereneseasons:temperature_transformer,re:classloading,pl:accesstransformer:B,xf:fml:sereneseasons:temperature_transformer,pl:mixin:APP:mixins.arclight.core.json:server.level.ServerLevelMixin,pl:mixin:APP:forge-mca.mixin.json:MixinServerWorld,pl:mixin:APP:citadel.mixins.json:ServerLevelMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:activationrange.ServerWorldMixin_ActivationRange,pl:mixin:A,pl:arclight_implementer:async,pl:arclight_implementer:A,re:mixin,pl:accesstransformer:B,xf:fml:sereneseasons:temperature_transformer}
+	at net.minecraft.world.level.Level.m_142425_(LevelMixin.java:614) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:computing_frames,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.level.LevelMixin,pl:mixin:APP:citadel.mixins.json:LevelMixin,pl:mixin:APP:sereneseasons.mixins.json:MixinLevel,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.world.level.EntityGetter.m_6443_(EntityGetter.java:27) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:computing_frames,re:mixin,re:classloading,re:mixin}
+	at net.minecraft.world.level.EntityGetter.m_45976_(EntityGetter.java:52) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:computing_frames,re:mixin,re:classloading,re:mixin}
+	at forge.net.mca.util.WorldUtils.getCloseEntities(WorldUtils.java:42) [minecraft-comes-alive-7.5.14+1.19.2-universal.jar%23252!/:?] {re:mixin,re:classloading}
+	at forge.net.mca.util.WorldUtils.getCloseEntities(WorldUtils.java:38) [minecraft-comes-alive-7.5.14+1.19.2-universal.jar%23252!/:?] {re:mixin,re:classloading}
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handler$zbh000$sendMessage(ServerPlayNetHandlerMixin.java:3900) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7388_(ServerPlayNetHandlerMixin.java) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.network.protocol.game.ServerboundChatPacket.m_5797_(ServerboundChatPacket.java:38) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,re:classloading}
+	at net.minecraft.network.protocol.game.ServerboundChatPacket.m_5797_(ServerboundChatPacket.java:14) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,re:classloading}
+	at net.minecraft.network.Connection.m_129517_(ConnectionMixin.java:163) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ConnectionMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ConnectionMixin_Optimize,pl:mixin:A}
+	at net.minecraft.network.Connection.channelRead0(ConnectionMixin.java:148) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ConnectionMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ConnectionMixin_Optimize,pl:mixin:A}
+	at net.minecraft.network.Connection.channelRead0(ConnectionMixin.java:48) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ConnectionMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ConnectionMixin_Optimize,pl:mixin:A}
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:99) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {re:mixin,re:computing_frames}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:327) [netty-codec-4.1.77.Final.jar%23113!/:4.1.77.Final] {}
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:299) [netty-codec-4.1.77.Final.jar%23113!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:327) [netty-codec-4.1.77.Final.jar%23113!/:4.1.77.Final] {}
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:299) [netty-codec-4.1.77.Final.jar%23113!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:327) [netty-codec-4.1.77.Final.jar%23113!/:4.1.77.Final] {}
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:299) [netty-codec-4.1.77.Final.jar%23113!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) [netty-handler-4.1.77.Final.jar%23115!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) [netty-transport-classes-epoll-4.1.77.Final.jar%23118!/:4.1.77.Final] {}
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:487) [netty-transport-classes-epoll-4.1.77.Final.jar%23118!/:4.1.77.Final] {}
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:385) [netty-transport-classes-epoll-4.1.77.Final.jar%23118!/:4.1.77.Final] {}
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:995) [netty-common-4.1.77.Final.jar%23114!/:4.1.77.Final] {}
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.77.Final.jar%23114!/:4.1.77.Final] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[03Feb2025 04:55:23.818] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> Zzzz
+[03Feb2025 04:55:25.141] [Netty Epoll Server IO #3/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[03Feb2025 04:55:25.141] [Netty Epoll Server IO #3/DEBUG] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+java.lang.IllegalStateException: Asynchronous chunk entity get!
+	at io.izzel.arclight.boot.asm.AsyncCatcher.checkOp(AsyncCatcher.java:235) [arclight.jar%2381!/:arclight-1.19.2-1.0.5-696a298] {}
+	at net.minecraft.server.level.ServerLevel.m_142646_(ServerLevelMixin.java) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:sereneseasons:temperature_transformer,re:classloading,pl:accesstransformer:B,xf:fml:sereneseasons:temperature_transformer,pl:mixin:APP:mixins.arclight.core.json:server.level.ServerLevelMixin,pl:mixin:APP:forge-mca.mixin.json:MixinServerWorld,pl:mixin:APP:citadel.mixins.json:ServerLevelMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:activationrange.ServerWorldMixin_ActivationRange,pl:mixin:A,pl:arclight_implementer:async,pl:arclight_implementer:A,re:mixin,pl:accesstransformer:B,xf:fml:sereneseasons:temperature_transformer}
+	at net.minecraft.world.level.Level.m_142425_(LevelMixin.java:614) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:computing_frames,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.level.LevelMixin,pl:mixin:APP:citadel.mixins.json:LevelMixin,pl:mixin:APP:sereneseasons.mixins.json:MixinLevel,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.world.level.EntityGetter.m_6443_(EntityGetter.java:27) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:computing_frames,re:mixin,re:classloading,re:mixin}
+	at net.minecraft.world.level.EntityGetter.m_45976_(EntityGetter.java:52) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:computing_frames,re:mixin,re:classloading,re:mixin}
+	at forge.net.mca.util.WorldUtils.getCloseEntities(WorldUtils.java:42) [minecraft-comes-alive-7.5.14+1.19.2-universal.jar%23252!/:?] {re:mixin,re:classloading}
+	at forge.net.mca.util.WorldUtils.getCloseEntities(WorldUtils.java:38) [minecraft-comes-alive-7.5.14+1.19.2-universal.jar%23252!/:?] {re:mixin,re:classloading}
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handler$zbh000$sendMessage(ServerPlayNetHandlerMixin.java:3900) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7388_(ServerPlayNetHandlerMixin.java) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.network.protocol.game.ServerboundChatPacket.m_5797_(ServerboundChatPacket.java:38) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,re:classloading}
+	at net.minecraft.network.protocol.game.ServerboundChatPacket.m_5797_(ServerboundChatPacket.java:14) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,re:classloading}
+	at net.minecraft.network.Connection.m_129517_(ConnectionMixin.java:163) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ConnectionMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ConnectionMixin_Optimize,pl:mixin:A}
+	at net.minecraft.network.Connection.channelRead0(ConnectionMixin.java:148) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ConnectionMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ConnectionMixin_Optimize,pl:mixin:A}
+	at net.minecraft.network.Connection.channelRead0(ConnectionMixin.java:48) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ConnectionMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ConnectionMixin_Optimize,pl:mixin:A}
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:99) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {re:mixin,re:computing_frames}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:327) [netty-codec-4.1.77.Final.jar%23113!/:4.1.77.Final] {}
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:299) [netty-codec-4.1.77.Final.jar%23113!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:327) [netty-codec-4.1.77.Final.jar%23113!/:4.1.77.Final] {}
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:299) [netty-codec-4.1.77.Final.jar%23113!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:327) [netty-codec-4.1.77.Final.jar%23113!/:4.1.77.Final] {}
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:299) [netty-codec-4.1.77.Final.jar%23113!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) [netty-handler-4.1.77.Final.jar%23115!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) [netty-transport-classes-epoll-4.1.77.Final.jar%23118!/:4.1.77.Final] {}
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:487) [netty-transport-classes-epoll-4.1.77.Final.jar%23118!/:4.1.77.Final] {}
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:385) [netty-transport-classes-epoll-4.1.77.Final.jar%23118!/:4.1.77.Final] {}
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:995) [netty-common-4.1.77.Final.jar%23114!/:4.1.77.Final] {}
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.77.Final.jar%23114!/:4.1.77.Final] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[03Feb2025 04:55:25.142] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> :v
+[03Feb2025 04:56:20.183] [Netty Epoll Server IO #3/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[03Feb2025 04:56:20.183] [Netty Epoll Server IO #3/DEBUG] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+java.lang.IllegalStateException: Asynchronous chunk entity get!
+	at io.izzel.arclight.boot.asm.AsyncCatcher.checkOp(AsyncCatcher.java:235) [arclight.jar%2381!/:arclight-1.19.2-1.0.5-696a298] {}
+	at net.minecraft.server.level.ServerLevel.m_142646_(ServerLevelMixin.java) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:sereneseasons:temperature_transformer,re:classloading,pl:accesstransformer:B,xf:fml:sereneseasons:temperature_transformer,pl:mixin:APP:mixins.arclight.core.json:server.level.ServerLevelMixin,pl:mixin:APP:forge-mca.mixin.json:MixinServerWorld,pl:mixin:APP:citadel.mixins.json:ServerLevelMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:activationrange.ServerWorldMixin_ActivationRange,pl:mixin:A,pl:arclight_implementer:async,pl:arclight_implementer:A,re:mixin,pl:accesstransformer:B,xf:fml:sereneseasons:temperature_transformer}
+	at net.minecraft.world.level.Level.m_142425_(LevelMixin.java:614) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:computing_frames,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.level.LevelMixin,pl:mixin:APP:citadel.mixins.json:LevelMixin,pl:mixin:APP:sereneseasons.mixins.json:MixinLevel,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.world.level.EntityGetter.m_6443_(EntityGetter.java:27) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:computing_frames,re:mixin,re:classloading,re:mixin}
+	at net.minecraft.world.level.EntityGetter.m_45976_(EntityGetter.java:52) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:computing_frames,re:mixin,re:classloading,re:mixin}
+	at forge.net.mca.util.WorldUtils.getCloseEntities(WorldUtils.java:42) [minecraft-comes-alive-7.5.14+1.19.2-universal.jar%23252!/:?] {re:mixin,re:classloading}
+	at forge.net.mca.util.WorldUtils.getCloseEntities(WorldUtils.java:38) [minecraft-comes-alive-7.5.14+1.19.2-universal.jar%23252!/:?] {re:mixin,re:classloading}
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handler$zbh000$sendMessage(ServerPlayNetHandlerMixin.java:3900) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7388_(ServerPlayNetHandlerMixin.java) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.network.protocol.game.ServerboundChatPacket.m_5797_(ServerboundChatPacket.java:38) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,re:classloading}
+	at net.minecraft.network.protocol.game.ServerboundChatPacket.m_5797_(ServerboundChatPacket.java:14) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,re:classloading}
+	at net.minecraft.network.Connection.m_129517_(ConnectionMixin.java:163) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ConnectionMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ConnectionMixin_Optimize,pl:mixin:A}
+	at net.minecraft.network.Connection.channelRead0(ConnectionMixin.java:148) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ConnectionMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ConnectionMixin_Optimize,pl:mixin:A}
+	at net.minecraft.network.Connection.channelRead0(ConnectionMixin.java:48) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ConnectionMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ConnectionMixin_Optimize,pl:mixin:A}
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:99) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {re:mixin,re:computing_frames}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:327) [netty-codec-4.1.77.Final.jar%23113!/:4.1.77.Final] {}
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:299) [netty-codec-4.1.77.Final.jar%23113!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:327) [netty-codec-4.1.77.Final.jar%23113!/:4.1.77.Final] {}
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:299) [netty-codec-4.1.77.Final.jar%23113!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:327) [netty-codec-4.1.77.Final.jar%23113!/:4.1.77.Final] {}
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:299) [netty-codec-4.1.77.Final.jar%23113!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) [netty-handler-4.1.77.Final.jar%23115!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) [netty-transport-classes-epoll-4.1.77.Final.jar%23118!/:4.1.77.Final] {}
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:487) [netty-transport-classes-epoll-4.1.77.Final.jar%23118!/:4.1.77.Final] {}
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:385) [netty-transport-classes-epoll-4.1.77.Final.jar%23118!/:4.1.77.Final] {}
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:995) [netty-common-4.1.77.Final.jar%23114!/:4.1.77.Final] {}
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.77.Final.jar%23114!/:4.1.77.Final] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[03Feb2025 04:56:20.184] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> When llegas a la casa de tu tio y lo encuentras todo mutilado: Lol superman
+[03Feb2025 04:56:45.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 04:56:45.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 04:56:45.704] [Craft Scheduler Thread - 43/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[03Feb2025 04:58:38.524] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/Rotation$1
+[03Feb2025 05:01:45.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 05:01:45.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 05:01:47.037] [Netty Epoll Server IO #3/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[03Feb2025 05:01:47.038] [Netty Epoll Server IO #3/DEBUG] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+java.lang.IllegalStateException: Asynchronous chunk entity get!
+	at io.izzel.arclight.boot.asm.AsyncCatcher.checkOp(AsyncCatcher.java:235) [arclight.jar%2381!/:arclight-1.19.2-1.0.5-696a298] {}
+	at net.minecraft.server.level.ServerLevel.m_142646_(ServerLevelMixin.java) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:sereneseasons:temperature_transformer,re:classloading,pl:accesstransformer:B,xf:fml:sereneseasons:temperature_transformer,pl:mixin:APP:mixins.arclight.core.json:server.level.ServerLevelMixin,pl:mixin:APP:forge-mca.mixin.json:MixinServerWorld,pl:mixin:APP:citadel.mixins.json:ServerLevelMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:activationrange.ServerWorldMixin_ActivationRange,pl:mixin:A,pl:arclight_implementer:async,pl:arclight_implementer:A,re:mixin,pl:accesstransformer:B,xf:fml:sereneseasons:temperature_transformer}
+	at net.minecraft.world.level.Level.m_142425_(LevelMixin.java:614) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:computing_frames,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.level.LevelMixin,pl:mixin:APP:citadel.mixins.json:LevelMixin,pl:mixin:APP:sereneseasons.mixins.json:MixinLevel,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.world.level.EntityGetter.m_6443_(EntityGetter.java:27) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:computing_frames,re:mixin,re:classloading,re:mixin}
+	at net.minecraft.world.level.EntityGetter.m_45976_(EntityGetter.java:52) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:computing_frames,re:mixin,re:classloading,re:mixin}
+	at forge.net.mca.util.WorldUtils.getCloseEntities(WorldUtils.java:42) [minecraft-comes-alive-7.5.14+1.19.2-universal.jar%23252!/:?] {re:mixin,re:classloading}
+	at forge.net.mca.util.WorldUtils.getCloseEntities(WorldUtils.java:38) [minecraft-comes-alive-7.5.14+1.19.2-universal.jar%23252!/:?] {re:mixin,re:classloading}
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handler$zbh000$sendMessage(ServerPlayNetHandlerMixin.java:3900) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7388_(ServerPlayNetHandlerMixin.java) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.network.protocol.game.ServerboundChatPacket.m_5797_(ServerboundChatPacket.java:38) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,re:classloading}
+	at net.minecraft.network.protocol.game.ServerboundChatPacket.m_5797_(ServerboundChatPacket.java:14) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,re:classloading}
+	at net.minecraft.network.Connection.m_129517_(ConnectionMixin.java:163) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ConnectionMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ConnectionMixin_Optimize,pl:mixin:A}
+	at net.minecraft.network.Connection.channelRead0(ConnectionMixin.java:148) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ConnectionMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ConnectionMixin_Optimize,pl:mixin:A}
+	at net.minecraft.network.Connection.channelRead0(ConnectionMixin.java:48) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ConnectionMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ConnectionMixin_Optimize,pl:mixin:A}
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:99) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {re:mixin,re:computing_frames}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:327) [netty-codec-4.1.77.Final.jar%23113!/:4.1.77.Final] {}
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:299) [netty-codec-4.1.77.Final.jar%23113!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:327) [netty-codec-4.1.77.Final.jar%23113!/:4.1.77.Final] {}
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:299) [netty-codec-4.1.77.Final.jar%23113!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:327) [netty-codec-4.1.77.Final.jar%23113!/:4.1.77.Final] {}
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:299) [netty-codec-4.1.77.Final.jar%23113!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) [netty-handler-4.1.77.Final.jar%23115!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) [netty-transport-classes-epoll-4.1.77.Final.jar%23118!/:4.1.77.Final] {}
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:487) [netty-transport-classes-epoll-4.1.77.Final.jar%23118!/:4.1.77.Final] {}
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:385) [netty-transport-classes-epoll-4.1.77.Final.jar%23118!/:4.1.77.Final] {}
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:995) [netty-common-4.1.77.Final.jar%23114!/:4.1.77.Final] {}
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.77.Final.jar%23114!/:4.1.77.Final] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[03Feb2025 05:01:47.039] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> ./tpa lolsuperman
+[03Feb2025 05:01:51.980] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanchikoKW issued server command: /tpa durooo
+[03Feb2025 05:01:57.000] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: durooo issued server command: /tpaccept
+[03Feb2025 05:02:06.780] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qy7h6k59rlc6]: started parsing
+[03Feb2025 05:02:06.780] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qy7h6k59rlc6]: Consuming argument `minecraft:nether_bricks`
+[03Feb2025 05:02:06.780] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qy7h6k59rlc6]: Finished looking at arguments. Finalizing command.
+[03Feb2025 05:02:06.780] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o187d82gbva4]: started parsing
+[03Feb2025 05:02:06.780] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o187d82gbva4]: Consuming argument `minecraft:nether_bricks`
+[03Feb2025 05:02:06.780] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o187d82gbva4]: Finished looking at arguments. Finalizing command.
+[03Feb2025 05:02:07.607] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uk5vtkr1o5si]: started parsing
+[03Feb2025 05:02:07.607] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uk5vtkr1o5si]: Consuming argument `minecraft:nether:bricks`
+[03Feb2025 05:02:07.626] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12x5ihkwe7hqa]: started parsing
+[03Feb2025 05:02:07.626] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12x5ihkwe7hqa]: Consuming argument `minecraft:nether:bricks`
+[03Feb2025 05:02:07.966] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jh5fq2qtsj9c]: started parsing
+[03Feb2025 05:02:07.966] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jh5fq2qtsj9c]: Consuming argument `minecraft:`
+[03Feb2025 05:02:07.978] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04ac27q04xyop]: started parsing
+[03Feb2025 05:02:07.978] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04ac27q04xyop]: Consuming argument `minecraft:`
+[03Feb2025 05:02:09.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give alexis83 minecraft:barrier
+[03Feb2025 05:02:09.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 1 [Barrier] to alexis83]
+[03Feb2025 05:02:17.430] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class org/infernalstudios/infernalexp/blocks/BuriedBoneBlock$1

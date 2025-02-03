@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-03 04:56:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-01-19 23:39:36 +0000"
@@ -266,6 +272,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-02-02 19:33:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-03 04:56:06 +0000"
     },
     "done": true
   },
@@ -302,6 +314,12 @@
   "securitycraft:recipes/securitycraft/reinforced_lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-03 04:37:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-03 04:58:26 +0000"
     },
     "done": true
   },
@@ -701,6 +719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-03 04:58:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-01-20 04:58:28 +0000"
@@ -806,6 +830,12 @@
   "framedblocks:recipes/framed_blocks/framed_cube": {
     "criteria": {
       "hasPlanks": "2025-01-19 23:26:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-03 04:56:06 +0000"
     },
     "done": true
   },
@@ -1269,6 +1299,12 @@
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-02 19:24:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-03 04:58:26 +0000"
     },
     "done": true
   },
@@ -2415,6 +2451,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-03 04:56:06 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_yellow_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-02-03 04:37:21 +0000"
@@ -2430,6 +2472,18 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_boots": "2025-01-20 00:30:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-02-03 04:46:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/black_picket_gate": {
+    "criteria": {
+      "has_concrete": "2025-02-03 04:49:44 +0000"
     },
     "done": true
   },
@@ -3347,6 +3401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-02-03 04:58:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-01-20 01:25:03 +0000"
@@ -3870,6 +3930,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/black_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-02-03 04:49:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-01-19 23:23:22 +0000"
@@ -4180,6 +4246,12 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-01-20 04:20:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-03 04:58:26 +0000"
     },
     "done": true
   },
@@ -4501,6 +4573,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-02-02 19:34:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-03 04:58:26 +0000"
     },
     "done": true
   },
@@ -4903,6 +4981,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/spruce_blinds": {
+    "criteria": {
+      "has_log": "2025-02-03 04:46:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-01-19 23:31:06 +0000"
@@ -5048,6 +5132,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/spruce_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-02-03 04:46:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2025-01-21 03:32:39 +0000"
@@ -5162,9 +5252,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-03 04:56:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-19 23:39:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-03 04:56:06 +0000"
     },
     "done": true
   },
@@ -5314,6 +5416,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-02-03 04:46:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-01-21 00:10:57 +0000"
@@ -5413,6 +5521,12 @@
   "cfm:recipes/cfm/stripped_spruce_chair": {
     "criteria": {
       "has_log": "2025-02-02 19:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2025-02-03 04:58:26 +0000"
     },
     "done": true
   },
@@ -5533,6 +5647,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-01-19 23:26:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-03 04:56:06 +0000"
     },
     "done": true
   },
@@ -5758,6 +5878,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-03 04:56:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-01-20 23:09:58 +0000"
@@ -5803,6 +5929,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-19 23:57:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-03 04:56:06 +0000"
     },
     "done": true
   },
