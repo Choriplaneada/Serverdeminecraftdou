@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-02-03 02:28:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-01-20 01:22:05 +0000"
@@ -803,6 +809,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/cage_trap": {
+    "criteria": {
+      "has_redstone": "2025-02-03 02:32:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-01-20 00:30:40 +0000"
@@ -1320,6 +1332,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/panic_button": {
+    "criteria": {
+      "has_redstone": "2025-02-03 02:32:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2025-01-20 04:31:43 +0000"
@@ -1525,6 +1543,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/pump_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-21 00:22:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2025-02-03 02:32:23 +0000"
     },
     "done": true
   },
@@ -2025,6 +2049,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/claymore": {
+    "criteria": {
+      "has_redstone": "2025-02-03 02:32:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/lime_cooler": {
     "criteria": {
       "has_chest": "2025-02-02 19:00:57 +0000"
@@ -2214,6 +2244,24 @@
   "cfm:recipes/cfm/oak_mail_box": {
     "criteria": {
       "has_chest": "2025-02-02 19:00:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2025-02-03 02:32:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2025-02-03 02:32:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2025-02-03 02:32:23 +0000"
     },
     "done": true
   },
@@ -2662,6 +2710,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2025-02-03 02:32:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-20 03:56:38 +0000"
@@ -2689,6 +2743,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-01-19 23:29:37 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_iron_trapdoor": {
+    "criteria": {
+      "hasFramedTrapdoor": "2025-02-03 02:33:36 +0000"
     },
     "done": true
   },
@@ -2824,6 +2884,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/taser": {
+    "criteria": {
+      "has_redstone": "2025-02-03 02:32:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-20 01:15:46 +0000"
@@ -2839,6 +2905,12 @@
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-01-20 04:59:39 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_floor_board_rotate_to_framed_wall_board": {
+    "criteria": {
+      "has_framed_floor_board": "2025-02-03 02:34:10 +0000"
     },
     "done": true
   },
@@ -2942,6 +3014,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/carpenter_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-21 00:22:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/portable_radar": {
+    "criteria": {
+      "has_redstone": "2025-02-03 02:32:23 +0000"
     },
     "done": true
   },
@@ -3228,6 +3306,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2025-02-03 02:32:23 +0000"
+    },
+    "done": true
+  },
   "simplytools:recipes/simplytools/diamond_hammer_head": {
     "criteria": {
       "criterion0": "2025-01-21 00:23:14 +0000"
@@ -3342,6 +3426,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2025-02-03 02:32:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_spruce_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-02 19:00:57 +0000"
@@ -3423,6 +3513,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-01-20 00:32:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/username_logger": {
+    "criteria": {
+      "has_redstone": "2025-02-03 02:32:23 +0000"
     },
     "done": true
   },
@@ -3636,6 +3732,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-02-03 02:28:08 +0000"
+    },
+    "done": true
+  },
   "simplytools:recipes/simplytools/golden_hammer": {
     "criteria": {
       "criterion1": "2025-01-20 23:59:13 +0000"
@@ -3663,6 +3765,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-02 19:16:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-02-03 02:32:23 +0000"
     },
     "done": true
   },
@@ -4021,6 +4129,12 @@
   "cfm:recipes/cfm/black_cooler": {
     "criteria": {
       "has_chest": "2025-02-02 19:00:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/alarm": {
+    "criteria": {
+      "has_redstone": "2025-02-03 02:32:23 +0000"
     },
     "done": true
   },
