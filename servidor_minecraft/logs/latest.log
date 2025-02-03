@@ -3196,3 +3196,30 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [03Feb2025 18:03:38.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 1 [Bone] to alexis83]
 [03Feb2025 18:03:45.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give alexis83 minecraft:bone_block
 [03Feb2025 18:03:45.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 1 [Bone Block] to alexis83]
+[03Feb2025 18:06:25.938] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /gamemode survival
+[03Feb2025 18:06:25.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Set own game mode to Survival Mode]
+[03Feb2025 18:06:26.533] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 18:06:26.787] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 18:06:34.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexis83 was slain by Bone Serpent
+[03Feb2025 18:06:40.393] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /gamemode creative
+[03Feb2025 18:06:40.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Set own game mode to Creative Mode]
+[03Feb2025 18:06:41.791] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[03Feb2025 18:06:41.793] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> XDDDDDDD
+[03Feb2025 18:06:53.870] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /effect give alexis83 alexsmobs:lava_vision 4545
+[03Feb2025 18:06:53.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Applied effect Lava Vision to alexis83]
+[03Feb2025 18:07:19.878] [Server thread/WARN] [net.minecraft.world.level.BaseSpawner/]: Invalid SpawnData: No key entity in MapLike[{id:"skeleton"}]
+[03Feb2025 18:07:19.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at 399, 18, -906]
+[03Feb2025 18:08:21.895] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set netherrack
+[03Feb2025 18:08:35.735] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set netherrack
+[03Feb2025 18:12:57.987] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give alexis83 minecraft:anvil
+[03Feb2025 18:12:57.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 1 [Anvil] to alexis83]
+[03Feb2025 18:14:28.198] [Craft Scheduler Thread - 26/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
