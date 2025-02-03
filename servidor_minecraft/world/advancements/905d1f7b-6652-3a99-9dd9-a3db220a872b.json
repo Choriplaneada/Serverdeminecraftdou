@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/spruce_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2025-02-03 05:03:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-19 23:59:25 +0000"
@@ -1219,6 +1225,12 @@
   "cfm:recipes/cfm/trampoline": {
     "criteria": {
       "has_iron": "2025-02-03 03:15:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-02-03 05:03:10 +0000"
     },
     "done": true
   },
@@ -4446,6 +4458,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-03 05:09:27 +0000"
+    },
+    "done": true
+  },
   "infernalexp:recipes/food/cooked_hogchop_smoking": {
     "criteria": {
       "has_hogchop": "2025-01-19 23:23:24 +0000"
@@ -4545,6 +4563,12 @@
   "cfm:recipes/cfm/lime_grill": {
     "criteria": {
       "has_iron": "2025-02-03 03:15:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2025-02-03 05:03:57 +0000"
     },
     "done": true
   },
@@ -4695,6 +4719,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-19 23:41:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-02-03 05:03:10 +0000"
     },
     "done": true
   },
