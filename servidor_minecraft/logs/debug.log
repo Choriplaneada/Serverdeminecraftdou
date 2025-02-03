@@ -18217,3 +18217,200 @@ java.lang.IllegalStateException: Asynchronous chunk entity get!
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.77.Final.jar%23114!/:4.1.77.Final] {}
 	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
 [03Feb2025 18:35:16.881] [Async Chat Thread - #8/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexis83> ya sabes que loot va a haber
+[03Feb2025 18:38:35.022] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rcnx59d7vovk]: started parsing
+[03Feb2025 18:38:35.022] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rcnx59d7vovk]: Consuming argument ``
+[03Feb2025 18:38:35.159] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pinm9eyx7h9a]: started parsing
+[03Feb2025 18:38:35.159] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pinm9eyx7h9a]: Consuming argument `0`
+[03Feb2025 18:38:35.159] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pinm9eyx7h9a]: Finished looking at arguments. Finalizing command.
+[03Feb2025 18:38:35.542] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set 0
+[03Feb2025 18:38:35.542] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gtjtqkizbagp]: started parsing
+[03Feb2025 18:38:35.542] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gtjtqkizbagp]: Consuming argument `0`
+[03Feb2025 18:38:35.542] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gtjtqkizbagp]: Finished looking at arguments. Finalizing command.
+[03Feb2025 18:39:28.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 18:39:28.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 18:39:46.346] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[03Feb2025 18:39:46.346] [Netty Epoll Server IO #2/DEBUG] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+java.lang.IllegalStateException: Asynchronous chunk entity get!
+	at io.izzel.arclight.boot.asm.AsyncCatcher.checkOp(AsyncCatcher.java:235) [arclight.jar%2381!/:arclight-1.19.2-1.0.5-696a298] {}
+	at net.minecraft.server.level.ServerLevel.m_142646_(ServerLevelMixin.java) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:sereneseasons:temperature_transformer,re:classloading,pl:accesstransformer:B,xf:fml:sereneseasons:temperature_transformer,pl:mixin:APP:mixins.arclight.core.json:server.level.ServerLevelMixin,pl:mixin:APP:forge-mca.mixin.json:MixinServerWorld,pl:mixin:APP:citadel.mixins.json:ServerLevelMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:activationrange.ServerWorldMixin_ActivationRange,pl:mixin:A,pl:arclight_implementer:async,pl:arclight_implementer:A,re:mixin,pl:accesstransformer:B,xf:fml:sereneseasons:temperature_transformer}
+	at net.minecraft.world.level.Level.m_142425_(LevelMixin.java:614) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:computing_frames,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.level.LevelMixin,pl:mixin:APP:citadel.mixins.json:LevelMixin,pl:mixin:APP:sereneseasons.mixins.json:MixinLevel,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.world.level.EntityGetter.m_6443_(EntityGetter.java:27) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:computing_frames,re:mixin,re:classloading,re:mixin}
+	at net.minecraft.world.level.EntityGetter.m_45976_(EntityGetter.java:52) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:computing_frames,re:mixin,re:classloading,re:mixin}
+	at forge.net.mca.util.WorldUtils.getCloseEntities(WorldUtils.java:42) [minecraft-comes-alive-7.5.14+1.19.2-universal.jar%23252!/:?] {re:mixin,re:classloading}
+	at forge.net.mca.util.WorldUtils.getCloseEntities(WorldUtils.java:38) [minecraft-comes-alive-7.5.14+1.19.2-universal.jar%23252!/:?] {re:mixin,re:classloading}
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handler$zbh000$sendMessage(ServerPlayNetHandlerMixin.java:3900) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ServerPlayNetHandlerMixin,pl:mixin:APP:forge-mca.mixin.json:MixinServerPlayNetworkHandler,pl:mixin:APP:mixins.artifacts.json:item.umbrella.ServerGamePacketListenerImplMixin,pl:mixin:APP:bettercombat.mixins.json:ServerPlayNetworkHandlerMixin,pl:mixin:APP:expandability-common.mixins.json:swimming.server.ServerGamePacketListenerImplMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ServerGamePacketListenerImplMixin_Optimize,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7388_(ServerPlayNetHandlerMixin.java) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ServerPlayNetHandlerMixin,pl:mixin:APP:forge-mca.mixin.json:MixinServerPlayNetworkHandler,pl:mixin:APP:mixins.artifacts.json:item.umbrella.ServerGamePacketListenerImplMixin,pl:mixin:APP:bettercombat.mixins.json:ServerPlayNetworkHandlerMixin,pl:mixin:APP:expandability-common.mixins.json:swimming.server.ServerGamePacketListenerImplMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ServerGamePacketListenerImplMixin_Optimize,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.network.protocol.game.ServerboundChatPacket.m_5797_(ServerboundChatPacket.java:38) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,re:classloading}
+	at net.minecraft.network.protocol.game.ServerboundChatPacket.m_5797_(ServerboundChatPacket.java:14) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,re:classloading}
+	at net.minecraft.network.Connection.m_129517_(ConnectionMixin.java:163) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ConnectionMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ConnectionMixin_Optimize,pl:mixin:A}
+	at net.minecraft.network.Connection.channelRead0(ConnectionMixin.java:148) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ConnectionMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ConnectionMixin_Optimize,pl:mixin:A}
+	at net.minecraft.network.Connection.channelRead0(ConnectionMixin.java:48) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ConnectionMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ConnectionMixin_Optimize,pl:mixin:A}
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:99) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {re:mixin,re:computing_frames}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:327) [netty-codec-4.1.77.Final.jar%23113!/:4.1.77.Final] {}
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:299) [netty-codec-4.1.77.Final.jar%23113!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:327) [netty-codec-4.1.77.Final.jar%23113!/:4.1.77.Final] {}
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:299) [netty-codec-4.1.77.Final.jar%23113!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:327) [netty-codec-4.1.77.Final.jar%23113!/:4.1.77.Final] {}
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:299) [netty-codec-4.1.77.Final.jar%23113!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) [netty-handler-4.1.77.Final.jar%23115!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) [netty-transport-4.1.77.Final.jar%23117!/:4.1.77.Final] {}
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) [netty-transport-classes-epoll-4.1.77.Final.jar%23118!/:4.1.77.Final] {}
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:487) [netty-transport-classes-epoll-4.1.77.Final.jar%23118!/:4.1.77.Final] {}
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:385) [netty-transport-classes-epoll-4.1.77.Final.jar%23118!/:4.1.77.Final] {}
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:995) [netty-common-4.1.77.Final.jar%23114!/:4.1.77.Final] {}
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.77.Final.jar%23114!/:4.1.77.Final] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[03Feb2025 18:39:46.347] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> Ya vengo Bv
+[03Feb2025 18:39:47.689] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanchikoKW lost connection: Disconnected
+[03Feb2025 18:39:47.691] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of PanchikoKW
+[03Feb2025 18:39:47.695] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PanchikoKW
+[03Feb2025 18:39:47.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanchikoKW left the game
+[03Feb2025 18:40:38.755] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [159jq4ugt7a8h]: started parsing
+[03Feb2025 18:40:38.755] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [159jq4ugt7a8h]: Consuming argument ``
+[03Feb2025 18:40:39.267] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gj2oyrc7sbkx]: started parsing
+[03Feb2025 18:40:39.267] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gj2oyrc7sbkx]: Consuming argument `n`
+[03Feb2025 18:40:39.316] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03r7ut2mf499d]: started parsing
+[03Feb2025 18:40:39.316] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03r7ut2mf499d]: Consuming argument `ne`
+[03Feb2025 18:40:39.468] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mj39qffyodqs]: started parsing
+[03Feb2025 18:40:39.468] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mj39qffyodqs]: Consuming argument `net`
+[03Feb2025 18:40:39.684] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17z5pzaa21hor]: started parsing
+[03Feb2025 18:40:39.684] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17z5pzaa21hor]: Consuming argument `neth`
+[03Feb2025 18:40:39.796] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [091kfquxg9eb1]: started parsing
+[03Feb2025 18:40:39.796] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [091kfquxg9eb1]: Consuming argument `nethe`
+[03Feb2025 18:40:40.028] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gu8fbvr9muqk]: started parsing
+[03Feb2025 18:40:40.028] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gu8fbvr9muqk]: Consuming argument `nether`
+[03Feb2025 18:40:40.643] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fmxje2z6mxvo]: started parsing
+[03Feb2025 18:40:40.643] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fmxje2z6mxvo]: Consuming argument `netherr`
+[03Feb2025 18:40:40.798] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uihgx7v88mu6]: started parsing
+[03Feb2025 18:40:40.798] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uihgx7v88mu6]: Consuming argument `netherra`
+[03Feb2025 18:40:40.963] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1smfx3s0xu59b]: started parsing
+[03Feb2025 18:40:40.963] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1smfx3s0xu59b]: Consuming argument `netherrac`
+[03Feb2025 18:40:41.104] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qenp9jxac0a4]: started parsing
+[03Feb2025 18:40:41.104] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qenp9jxac0a4]: Consuming argument `netherrack`
+[03Feb2025 18:40:41.104] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qenp9jxac0a4]: Finished looking at arguments. Finalizing command.
+[03Feb2025 18:40:41.284] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set netherrack
+[03Feb2025 18:40:41.284] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k7whcs4mbuwb]: started parsing
+[03Feb2025 18:40:41.284] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k7whcs4mbuwb]: Consuming argument `netherrack`
+[03Feb2025 18:40:41.284] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k7whcs4mbuwb]: Finished looking at arguments. Finalizing command.
+[03Feb2025 18:40:47.803] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gda02os97hyc]: started parsing
+[03Feb2025 18:40:47.803] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gda02os97hyc]: Consuming argument `netherrack`
+[03Feb2025 18:40:47.804] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gda02os97hyc]: Finished looking at arguments. Finalizing command.
+[03Feb2025 18:40:47.828] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [180t723gq8h5m]: started parsing
+[03Feb2025 18:40:47.828] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [180t723gq8h5m]: Consuming argument `netherrack`
+[03Feb2025 18:40:47.828] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [180t723gq8h5m]: Finished looking at arguments. Finalizing command.
+[03Feb2025 18:40:48.070] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s0d2b3asb9eh]: started parsing
+[03Feb2025 18:40:48.070] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s0d2b3asb9eh]: Consuming argument `0`
+[03Feb2025 18:40:48.070] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s0d2b3asb9eh]: Finished looking at arguments. Finalizing command.
+[03Feb2025 18:40:48.079] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oi7wqrrqfjmx]: started parsing
+[03Feb2025 18:40:48.079] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oi7wqrrqfjmx]: Consuming argument `0`
+[03Feb2025 18:40:48.079] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oi7wqrrqfjmx]: Finished looking at arguments. Finalizing command.
+[03Feb2025 18:40:48.515] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set 0
+[03Feb2025 18:40:48.515] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fukhfp53oz3e]: started parsing
+[03Feb2025 18:40:48.515] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fukhfp53oz3e]: Consuming argument `0`
+[03Feb2025 18:40:48.515] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fukhfp53oz3e]: Finished looking at arguments. Finalizing command.
+[03Feb2025 18:40:53.507] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lz0pupbl6i2s]: started parsing
+[03Feb2025 18:40:53.507] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lz0pupbl6i2s]: Consuming argument `0`
+[03Feb2025 18:40:53.507] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lz0pupbl6i2s]: Finished looking at arguments. Finalizing command.
+[03Feb2025 18:40:53.507] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v8rs7588xajm]: started parsing
+[03Feb2025 18:40:53.507] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v8rs7588xajm]: Consuming argument `0`
+[03Feb2025 18:40:53.507] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v8rs7588xajm]: Finished looking at arguments. Finalizing command.
+[03Feb2025 18:40:53.733] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set 0
+[03Feb2025 18:40:53.733] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v4x9loc8tjui]: started parsing
+[03Feb2025 18:40:53.733] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v4x9loc8tjui]: Consuming argument `0`
+[03Feb2025 18:40:53.733] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v4x9loc8tjui]: Finished looking at arguments. Finalizing command.
+[03Feb2025 18:41:14.330] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zqaelk4k07ql]: started parsing
+[03Feb2025 18:41:14.330] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zqaelk4k07ql]: Consuming argument `0`
+[03Feb2025 18:41:14.330] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zqaelk4k07ql]: Finished looking at arguments. Finalizing command.
+[03Feb2025 18:41:14.330] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nmhwffmu995c]: started parsing
+[03Feb2025 18:41:14.330] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nmhwffmu995c]: Consuming argument `0`
+[03Feb2025 18:41:14.330] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nmhwffmu995c]: Finished looking at arguments. Finalizing command.
+[03Feb2025 18:41:14.763] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set 0
+[03Feb2025 18:41:14.763] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13244su46rl5q]: started parsing
+[03Feb2025 18:41:14.763] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13244su46rl5q]: Consuming argument `0`
+[03Feb2025 18:41:14.763] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13244su46rl5q]: Finished looking at arguments. Finalizing command.
+[03Feb2025 18:41:24.355] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06su7hryek6lo]: started parsing
+[03Feb2025 18:41:24.355] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06su7hryek6lo]: Consuming argument `0`
+[03Feb2025 18:41:24.355] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06su7hryek6lo]: Finished looking at arguments. Finalizing command.
+[03Feb2025 18:41:24.355] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jlu5ynikgrz3]: started parsing
+[03Feb2025 18:41:24.355] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jlu5ynikgrz3]: Consuming argument `0`
+[03Feb2025 18:41:24.355] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jlu5ynikgrz3]: Finished looking at arguments. Finalizing command.
+[03Feb2025 18:41:24.531] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15mdijyxrhwnl]: started parsing
+[03Feb2025 18:41:24.531] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15mdijyxrhwnl]: Consuming argument `netherrack`
+[03Feb2025 18:41:24.532] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15mdijyxrhwnl]: Finished looking at arguments. Finalizing command.
+[03Feb2025 18:41:24.577] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12yihqq52h93t]: started parsing
+[03Feb2025 18:41:24.577] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12yihqq52h93t]: Consuming argument `netherrack`
+[03Feb2025 18:41:24.577] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12yihqq52h93t]: Finished looking at arguments. Finalizing command.
+[03Feb2025 18:41:24.982] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set netherrack
+[03Feb2025 18:41:24.982] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jx0peb0ssgms]: started parsing
+[03Feb2025 18:41:24.982] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jx0peb0ssgms]: Consuming argument `netherrack`
+[03Feb2025 18:41:24.983] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jx0peb0ssgms]: Finished looking at arguments. Finalizing command.
+[03Feb2025 18:41:38.957] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1om41yc5wicjh]: started parsing
+[03Feb2025 18:41:38.957] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1om41yc5wicjh]: Consuming argument `netherrack`
+[03Feb2025 18:41:38.957] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1om41yc5wicjh]: Finished looking at arguments. Finalizing command.
+[03Feb2025 18:41:38.978] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vkjg1xs8skq5]: started parsing
+[03Feb2025 18:41:38.978] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vkjg1xs8skq5]: Consuming argument `netherrack`
+[03Feb2025 18:41:38.978] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vkjg1xs8skq5]: Finished looking at arguments. Finalizing command.
+[03Feb2025 18:41:39.170] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set netherrack
+[03Feb2025 18:41:39.171] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0krfnrx3c9xiv]: started parsing
+[03Feb2025 18:41:39.171] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0krfnrx3c9xiv]: Consuming argument `netherrack`
+[03Feb2025 18:41:39.171] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0krfnrx3c9xiv]: Finished looking at arguments. Finalizing command.
+[03Feb2025 18:42:51.860] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0reqh3rfu2dle]: started parsing
+[03Feb2025 18:42:51.860] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0reqh3rfu2dle]: Consuming argument `netherrack`
+[03Feb2025 18:42:51.860] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0reqh3rfu2dle]: Finished looking at arguments. Finalizing command.
+[03Feb2025 18:42:51.860] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1am2ezh3iqvd6]: started parsing
+[03Feb2025 18:42:51.860] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1am2ezh3iqvd6]: Consuming argument `netherrack`
+[03Feb2025 18:42:51.860] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1am2ezh3iqvd6]: Finished looking at arguments. Finalizing command.
+[03Feb2025 18:42:52.579] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set netherrack
+[03Feb2025 18:42:52.579] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qr47ahnly6n6]: started parsing
+[03Feb2025 18:42:52.579] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qr47ahnly6n6]: Consuming argument `netherrack`
+[03Feb2025 18:42:52.580] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qr47ahnly6n6]: Finished looking at arguments. Finalizing command.
+[03Feb2025 18:43:13.096] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18l1ecleaiwat]: started parsing
+[03Feb2025 18:43:13.096] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18l1ecleaiwat]: Consuming argument `netherrack`
+[03Feb2025 18:43:13.097] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18l1ecleaiwat]: Finished looking at arguments. Finalizing command.
+[03Feb2025 18:43:13.097] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08evhued4zxwi]: started parsing
+[03Feb2025 18:43:13.097] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08evhued4zxwi]: Consuming argument `netherrack`
+[03Feb2025 18:43:13.097] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08evhued4zxwi]: Finished looking at arguments. Finalizing command.
+[03Feb2025 18:43:13.556] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set netherrack
+[03Feb2025 18:43:13.556] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eanibkgtnggy]: started parsing
+[03Feb2025 18:43:13.556] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eanibkgtnggy]: Consuming argument `netherrack`
+[03Feb2025 18:43:13.557] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eanibkgtnggy]: Finished looking at arguments. Finalizing command.
+[03Feb2025 18:43:48.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give alexis83 minecraft:obsidian
+[03Feb2025 18:43:48.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 1 [Obsidian] to alexis83]
+[03Feb2025 18:44:09.152] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /effect give alexis83 minecraft:night_vision
+[03Feb2025 18:44:09.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Applied effect Night Vision to alexis83]
+[03Feb2025 18:44:23.908] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /gamemode survival
+[03Feb2025 18:44:23.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Set own game mode to Survival Mode]
+[03Feb2025 18:44:28.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 18:44:28.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 18:44:28.180] [Craft Scheduler Thread - 26/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[03Feb2025 18:44:39.191] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /gamemode creative
+[03Feb2025 18:44:39.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Set own game mode to Creative Mode]
+[03Feb2025 18:44:43.095] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /effect give alexis83 minecraft:night_vision 44854
+[03Feb2025 18:44:43.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Applied effect Night Vision to alexis83]

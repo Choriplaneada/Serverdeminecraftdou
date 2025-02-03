@@ -977,6 +977,12 @@
     },
     "done": true
   },
+  "shieldexp:get_diamond_shield": {
+    "criteria": {
+      "diamond_shield": "2025-02-03 18:34:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
     "criteria": {
       "has_golden_knife": "2025-01-20 23:57:38 +0000"

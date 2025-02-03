@@ -599,6 +599,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 18:39:28 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-20 02:15:04 +0000"
@@ -850,6 +856,12 @@
       "has_quartz_block": "2025-01-22 00:24:12 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 18:39:28 +0000"
+    },
+    "done": false
   },
   "sereneseasons:recipes/tools/calendar": {
     "criteria": {
@@ -1109,6 +1121,12 @@
     },
     "done": true
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 18:39:28 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/cfm/stripped_birch_kitchen_sink_dark": {
     "criteria": {
       "has_top": "2025-02-03 05:16:17 +0000"
@@ -1320,9 +1338,21 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_wall_board": {
+    "criteria": {
+      "hasFramedPanel": "2025-02-03 18:35:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/jungle_kitchen_sink_dark": {
     "criteria": {
       "has_top": "2025-02-03 05:16:17 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_half_stairs": {
+    "criteria": {
+      "hasFramedStairs": "2025-02-03 18:37:07 +0000"
     },
     "done": true
   },
@@ -1585,6 +1615,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/dark_oak_support": {
     "criteria": {
       "has_plank": "2025-01-20 02:28:00 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_panel_rotate_to_framed_slab": {
+    "criteria": {
+      "has_framed_panel": "2025-02-03 18:35:17 +0000"
     },
     "done": true
   },
@@ -2218,6 +2254,12 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 18:39:28 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-01-19 23:41:13 +0000"
@@ -2306,6 +2348,12 @@
       "has_stone_bricks": "2025-01-20 02:33:53 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 18:39:28 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/cfm/oak_park_bench": {
     "criteria": {
@@ -2836,6 +2884,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_wall_board_rotate_to_framed_floor_board": {
+    "criteria": {
+      "has_framed_wall_board": "2025-02-03 18:35:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-01-22 00:56:10 +0000"
@@ -2883,6 +2937,12 @@
       "has_andesite": "2025-01-19 23:59:25 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 18:39:28 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/farmersdelight/rope_from_safety_net": {
     "criteria": {
@@ -4184,6 +4244,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_double_stairs": {
+    "criteria": {
+      "hasFramedStairs": "2025-02-03 18:37:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-01-20 00:31:30 +0000"
@@ -4455,6 +4521,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 18:39:28 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-20 02:15:04 +0000"
@@ -4539,6 +4611,12 @@
       "has_iron_ingot": "2025-01-20 00:31:30 +0000"
     },
     "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 18:39:28 +0000"
+    },
+    "done": false
   },
   "framedblocks:recipes/framed_blocks/framed_blueprint": {
     "criteria": {
@@ -4726,6 +4804,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_stairs_rotate_to_framed_vertical_stairs": {
+    "criteria": {
+      "has_framed_stairs": "2025-02-03 18:37:07 +0000"
+    },
+    "done": true
+  },
   "shieldexp:recipes/golden_shield": {
     "criteria": {
       "has_gold_ingot": "2025-01-20 01:11:52 +0000"
@@ -4803,6 +4887,12 @@
       "has_wheat": "2025-01-20 00:39:24 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 18:39:28 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
@@ -5221,6 +5311,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_vertical_sloped_stairs": {
+    "criteria": {
+      "hasFramedPanel": "2025-02-03 18:35:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-01-19 23:46:13 +0000"
@@ -5280,6 +5376,12 @@
       "has_log": "2025-02-03 04:07:52 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 18:39:28 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/cfm/stripped_warped_kitchen_sink_light": {
     "criteria": {
@@ -6083,6 +6185,12 @@
     },
     "done": true
   },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 18:39:28 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/cfm/pink_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-02-03 17:31:47 +0000"
@@ -6124,6 +6232,12 @@
       "has_items": "2025-02-03 03:15:10 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 18:39:28 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/farmersdelight/golden_knife": {
     "criteria": {

@@ -3238,3 +3238,37 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [03Feb2025 18:35:07.286] [Async Chat Thread - #8/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> Mira vos
 [03Feb2025 18:35:16.876] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
 [03Feb2025 18:35:16.881] [Async Chat Thread - #8/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexis83> ya sabes que loot va a haber
+[03Feb2025 18:38:35.542] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set 0
+[03Feb2025 18:39:46.346] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[03Feb2025 18:39:46.347] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> Ya vengo Bv
+[03Feb2025 18:39:47.689] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanchikoKW lost connection: Disconnected
+[03Feb2025 18:39:47.695] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PanchikoKW
+[03Feb2025 18:39:47.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanchikoKW left the game
+[03Feb2025 18:40:41.284] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set netherrack
+[03Feb2025 18:40:48.515] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set 0
+[03Feb2025 18:40:53.733] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set 0
+[03Feb2025 18:41:14.763] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set 0
+[03Feb2025 18:41:24.982] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set netherrack
+[03Feb2025 18:41:39.170] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set netherrack
+[03Feb2025 18:42:52.579] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set netherrack
+[03Feb2025 18:43:13.556] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set netherrack
+[03Feb2025 18:43:48.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give alexis83 minecraft:obsidian
+[03Feb2025 18:43:48.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 1 [Obsidian] to alexis83]
+[03Feb2025 18:44:09.152] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /effect give alexis83 minecraft:night_vision
+[03Feb2025 18:44:09.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Applied effect Night Vision to alexis83]
+[03Feb2025 18:44:23.908] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /gamemode survival
+[03Feb2025 18:44:23.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Set own game mode to Survival Mode]
+[03Feb2025 18:44:28.180] [Craft Scheduler Thread - 26/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[03Feb2025 18:44:39.191] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /gamemode creative
+[03Feb2025 18:44:39.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Set own game mode to Creative Mode]
+[03Feb2025 18:44:43.095] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /effect give alexis83 minecraft:night_vision 44854
+[03Feb2025 18:44:43.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Applied effect Night Vision to alexis83]
