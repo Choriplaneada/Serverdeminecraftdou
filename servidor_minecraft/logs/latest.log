@@ -3369,3 +3369,23 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
 [03Feb2025 20:00:33.227] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Da-Cheng'/59147, l='ServerLevel[world]', x=-1212.50, y=67.44, z=-530.50] died, message: 'Da-Cheng went up in flames'
 [03Feb2025 20:00:33.227] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Da-Cheng'/59147, l='ServerLevel[world]', x=-1212.50, y=67.44, z=-530.50] died: Da-Cheng went up in flames
+[03Feb2025 20:13:51.038] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityHummingbird['Hummingbird'/64265, l='ServerLevel[world]', x=-196.72, y=75.08, z=160.00]
+[03Feb2025 20:14:40.333] [Craft Scheduler Thread - 61/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[03Feb2025 20:21:19.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanchikoKW was slain by Skeleton
+[03Feb2025 20:21:19.859] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03Feb2025 20:21:19.860] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[03Feb2025 20:21:19.860] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[03Feb2025 20:21:19.861] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[03Feb2025 20:21:19.861] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[03Feb2025 20:21:48.128] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanchikoKW lost connection: Disconnected
+[03Feb2025 20:21:48.128] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PanchikoKW
+[03Feb2025 20:21:48.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanchikoKW left the game
