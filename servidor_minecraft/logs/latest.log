@@ -3996,3 +3996,16 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
 	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[03Feb2025 04:03:36.655] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /tp PanchikoKW
+[03Feb2025 04:03:36.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Teleported alexis83 to PanchikoKW]
+[03Feb2025 04:06:27.742] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give alexis83 minecraft:snow_block
+[03Feb2025 04:06:27.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 1 [Snow Block] to alexis83]
+[03Feb2025 04:07:18.582] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /tp PanchikoKW
+[03Feb2025 04:07:18.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Teleported alexis83 to PanchikoKW]
+[03Feb2025 04:07:54.085] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /tp PanchikoKW
+[03Feb2025 04:07:54.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Teleported alexis83 to PanchikoKW]
+[03Feb2025 04:09:47.133] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set minecraft:
+[03Feb2025 04:09:54.884] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set minecraft:nether_bricks
+[03Feb2025 04:10:07.237] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set minecraft:nether_bricks
+[03Feb2025 04:10:24.724] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set minecraft:nether_bricks
+[03Feb2025 04:10:28.596] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set minecraft:nether_bricks
