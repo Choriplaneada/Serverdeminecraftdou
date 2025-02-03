@@ -15441,3 +15441,18 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
 	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[03Feb2025 16:03:42.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give alexis83 alexsmobs:bone_serpent_tooth
+[03Feb2025 16:03:42.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 1 [Bone Serpent Tooth] to alexis83]
+[03Feb2025 16:04:03.519] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give alexis83
+[03Feb2025 16:04:22.118] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give alexis83 alexsmobs:spawn_egg_bone_serpent
+[03Feb2025 16:04:22.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 1 [Bone Serpent Spawn Egg] to alexis83]
+[03Feb2025 16:04:26.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 16:04:26.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 16:05:35.808] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give alexis83 minecraft:bone_meal
+[03Feb2025 16:05:35.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 1 [Bone Meal] to alexis83]
+[03Feb2025 16:09:26.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 16:09:26.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 16:10:33.725] [Server thread/WARN] [net.minecraft.world.level.BaseSpawner/]: Invalid SpawnData: No key entity in MapLike[{id:"skeleton"}]
+[03Feb2025 16:10:33.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at 411, 21, -855]
+[03Feb2025 16:12:25.025] [Server thread/WARN] [net.minecraft.world.level.BaseSpawner/]: Invalid SpawnData: No key entity in MapLike[{id:"skeleton"}]
+[03Feb2025 16:12:25.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at 414, 20, -869]
