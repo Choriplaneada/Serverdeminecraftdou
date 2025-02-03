@@ -4385,3 +4385,39 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [03Feb2025 05:52:00.128] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 10ba40f4-9431-3355-8ffe-39de4b50c493
 [03Feb2025 05:52:01.128] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 10ba40f4-9431-3355-8ffe-39de4b50c493
 [03Feb2025 05:52:01.128] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player durooo (10ba40f4-9431-3355-8ffe-39de4b50c493) successfully connected to voice chat
+[03Feb2025 05:56:45.692] [Craft Scheduler Thread - 53/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[03Feb2025 06:05:01.794] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanchikoKW issued server command: /tpa durooo
+[03Feb2025 06:05:10.536] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: durooo issued server command: /tpaccept
+[03Feb2025 06:08:45.427] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanchikoKW lost connection: Disconnected
+[03Feb2025 06:08:45.428] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PanchikoKW
+[03Feb2025 06:08:45.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanchikoKW left the game
+[03Feb2025 06:08:57.222] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: durooo lost connection: Disconnected
+[03Feb2025 06:08:57.222] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client durooo
+[03Feb2025 06:08:57.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: durooo left the game
+[03Feb2025 06:10:00.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[03Feb2025 06:10:00.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03Feb2025 06:10:00.738] [Server thread/INFO] [Sleeper/]: Disabling Sleeper v1.6.1
+[03Feb2025 06:10:00.739] [Server thread/INFO] [Sleeper/]: Sleeper Has Been Disabled!
+[03Feb2025 06:10:00.741] [Server thread/INFO] [JustTPA/]: Disabling JustTPA vv20240420-beta
+[03Feb2025 06:10:00.741] [Server thread/INFO] [JustTPA/]: JustTPA disabled
+[03Feb2025 06:10:00.742] [Server thread/INFO] [SkinMe/]: Disabling SkinMe v1.3.1
+[03Feb2025 06:10:00.743] [Server thread/INFO] [LuckPerms/]: Disabling LuckPerms v5.4.152
+[03Feb2025 06:10:00.743] [Server thread/INFO] [LuckPerms/]: Starting shutdown process...
+[03Feb2025 06:10:00.757] [Server thread/INFO] [LuckPerms/]: Closing storage...
+[03Feb2025 06:10:00.782] [Server thread/INFO] [LuckPerms/]: Goodbye!
+[03Feb2025 06:10:00.783] [Server thread/INFO] [NeoPerformance/]: Disabling NeoPerformance v1.15.4
+[03Feb2025 06:10:00.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03Feb2025 06:10:00.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03Feb2025 06:10:01.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03Feb2025 06:10:02.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether
+[03Feb2025 06:10:02.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end
+[03Feb2025 06:10:07.243] [Exit Thread/INFO] [Arclight/]: 3 threads not shutting down correctly, force exiting
