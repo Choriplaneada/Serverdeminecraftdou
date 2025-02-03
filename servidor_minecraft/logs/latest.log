@@ -2963,3 +2963,58 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [03Feb2025 17:30:32.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at 417, 22, -902]
 [03Feb2025 17:30:33.975] [Server thread/WARN] [net.minecraft.world.level.BaseSpawner/]: Invalid SpawnData: No key entity in MapLike[{id:"skeleton"}]
 [03Feb2025 17:30:33.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at 417, 22, -902]
+[03Feb2025 17:37:32.638] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[03Feb2025 17:37:32.639] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> Me la re mande
+[03Feb2025 17:37:38.591] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[03Feb2025 17:37:38.591] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexis83> que hiciste
+[03Feb2025 17:37:39.845] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[03Feb2025 17:37:39.846] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> Le rompi todo el techo a Fran
+[03Feb2025 17:37:49.875] [Server thread/WARN] [net.minecraft.world.level.BaseSpawner/]: Invalid SpawnData: No key entity in MapLike[{id:"skeleton"}]
+[03Feb2025 17:37:49.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at 399, 18, -906]
+[03Feb2025 17:38:07.293] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[03Feb2025 17:38:07.294] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexis83> se lo construis todo
+[03Feb2025 17:38:18.347] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[03Feb2025 17:38:18.348] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> ¿No podes hacer backup?
+[03Feb2025 17:38:24.611] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[03Feb2025 17:38:24.612] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexis83> no seas pelotuda
+[03Feb2025 17:38:33.737] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /gamemode survival
+[03Feb2025 17:38:33.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Set own game mode to Survival Mode]
+[03Feb2025 17:38:40.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexis83 was fireballed by Blaze
+[03Feb2025 17:38:50.457] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[03Feb2025 17:38:50.457] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> q
+[03Feb2025 17:38:50.744] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /gamemode creative
+[03Feb2025 17:38:50.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Set own game mode to Creative Mode]
+[03Feb2025 17:38:54.959] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /tp PanchikoKW
+[03Feb2025 17:38:54.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Teleported alexis83 to PanchikoKW]
+[03Feb2025 17:39:20.047] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[03Feb2025 17:39:20.048] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> Violado
+[03Feb2025 17:39:23.895] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[03Feb2025 17:39:23.895] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexis83> violada
+[03Feb2025 17:39:25.414] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[03Feb2025 17:39:25.415] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexis83> jiiji
+[03Feb2025 17:39:37.361] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[03Feb2025 17:39:37.362] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> ¿Como ta quedando mi islita?
+[03Feb2025 17:39:42.330] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[03Feb2025 17:39:42.331] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexis83> una verga
+[03Feb2025 17:39:45.715] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[03Feb2025 17:39:45.715] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> unu
+[03Feb2025 17:39:52.038] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[03Feb2025 17:39:52.039] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexis83> ta goood
+[03Feb2025 17:40:51.742] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[03Feb2025 17:40:51.743] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> Planeo ir haciendo más micro islas
+[03Feb2025 17:41:03.616] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[03Feb2025 17:41:03.616] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexis83> po ke
+[03Feb2025 17:41:13.054] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[03Feb2025 17:41:13.055] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> Para decorar más
+[03Feb2025 17:42:47.451] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /effect give alexis83 alexsmobs:lava_vision 4545
+[03Feb2025 17:42:47.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Applied effect Lava Vision to alexis83]
+[03Feb2025 17:44:28.217] [Craft Scheduler Thread - 26/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
