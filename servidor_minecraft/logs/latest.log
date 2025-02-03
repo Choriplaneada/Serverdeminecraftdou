@@ -4351,3 +4351,37 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [03Feb2025 05:29:23.907] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //undo
 [03Feb2025 05:29:30.483] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set 0
 [03Feb2025 05:30:06.277] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set minecraft:crimson_nylium
+[03Feb2025 05:34:38.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexis83 has made the advancement [It's an Emu!!!]
+[03Feb2025 05:35:15.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexis83 has made the advancement [Straddle My Ol' Saddle]
+[03Feb2025 05:35:45.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexis83 has completed the challenge [Destroyer of Chads]
+[03Feb2025 05:36:00.506] [Netty Epoll Server IO #3/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[03Feb2025 05:36:00.508] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> Zzzz
+[03Feb2025 05:36:09.853] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /gamemode survival
+[03Feb2025 05:36:09.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Set own game mode to Survival Mode]
+[03Feb2025 05:36:24.162] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /gamemode survival
+[03Feb2025 05:36:29.290] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /gamemode creative
+[03Feb2025 05:36:29.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Set own game mode to Creative Mode]
+[03Feb2025 05:37:26.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexis83 has made the advancement [Taste the Rainbow]
+[03Feb2025 05:37:38.480] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /tp PanchikoKW
+[03Feb2025 05:37:38.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Teleported alexis83 to PanchikoKW]
+[03Feb2025 05:39:12.828] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 lost connection: Disconnected
+[03Feb2025 05:39:12.834] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client alexis83
+[03Feb2025 05:39:12.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexis83 left the game
+[03Feb2025 05:41:45.681] [Craft Scheduler Thread - 52/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[03Feb2025 05:41:55.575] [Netty Epoll Server IO #7/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[03Feb2025 05:41:55.576] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <durooo> jasjajsjajsjajs
+[03Feb2025 05:51:59.577] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 10ba40f4-9431-3355-8ffe-39de4b50c493 timed out
+[03Feb2025 05:51:59.577] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player durooo
+[03Feb2025 05:51:59.577] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to durooo
+[03Feb2025 05:52:00.128] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 10ba40f4-9431-3355-8ffe-39de4b50c493
+[03Feb2025 05:52:01.128] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 10ba40f4-9431-3355-8ffe-39de4b50c493
+[03Feb2025 05:52:01.128] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player durooo (10ba40f4-9431-3355-8ffe-39de4b50c493) successfully connected to voice chat
