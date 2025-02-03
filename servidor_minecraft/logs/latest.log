@@ -3942,3 +3942,46 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [03Feb2025 03:31:08.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Teleported PanchikoKW to alexis83]
 [03Feb2025 03:31:11.025] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /tp PanchikoKW alexis83
 [03Feb2025 03:31:11.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Teleported PanchikoKW to alexis83]
+[03Feb2025 03:31:18.137] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /time set day
+[03Feb2025 03:31:18.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Set the time to 1000]
+[03Feb2025 03:31:23.698] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /tp PanchikoKW alexis83
+[03Feb2025 03:31:23.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Teleported PanchikoKW to alexis83]
+[03Feb2025 03:32:06.842] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //paste
+[03Feb2025 03:32:14.178] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //undo
+[03Feb2025 03:32:34.033] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //paste
+[03Feb2025 03:32:38.137] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //undo
+[03Feb2025 03:34:49.912] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //paste
+[03Feb2025 03:35:07.456] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //undo
+[03Feb2025 03:35:08.925] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //paste
+[03Feb2025 03:36:24.551] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //drawsel
+[03Feb2025 03:38:03.855] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //rotate 90
+[03Feb2025 03:38:09.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //undo
+[03Feb2025 03:38:18.178] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //paste
+[03Feb2025 03:38:42.495] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //undo
+[03Feb2025 03:38:47.408] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //rotate 180
+[03Feb2025 03:38:48.826] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //paste
+[03Feb2025 03:39:03.876] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //undo
+[03Feb2025 03:39:05.078] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //paste
+[03Feb2025 03:39:24.376] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //undo
+[03Feb2025 03:39:25.462] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //paste
+[03Feb2025 03:40:14.851] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set 0
+[03Feb2025 03:41:45.684] [Craft Scheduler Thread - 24/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[03Feb2025 03:42:35.658] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /time set day
+[03Feb2025 03:42:35.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Set the time to 1000]
+[03Feb2025 03:44:13.518] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set 0
+[03Feb2025 03:49:16.226] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set grass
+[03Feb2025 03:49:21.132] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set
+[03Feb2025 03:49:34.347] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set minecraft:grass_block
+[03Feb2025 03:49:44.931] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set minecraft:grass_block
+[03Feb2025 03:49:50.612] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set minecraft:grass_block
+[03Feb2025 03:49:54.699] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set minecraft:grass_block
+[03Feb2025 03:50:02.203] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: //set minecraft:grass_block

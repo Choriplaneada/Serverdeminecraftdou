@@ -834,6 +834,7 @@
       "minecraft:skeleton": "2025-01-20 00:01:39 +0000",
       "minecraft:vindicator": "2025-01-20 00:51:09 +0000",
       "minecraft:spider": "2025-01-20 03:17:03 +0000",
+      "minecraft:phantom": "2025-02-03 03:43:06 +0000",
       "minecraft:witch": "2025-01-20 00:02:59 +0000",
       "minecraft:cave_spider": "2025-01-20 01:31:46 +0000",
       "minecraft:silverfish": "2025-01-20 01:05:25 +0000",
@@ -1487,6 +1488,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
     "criteria": {
       "has_leather": "2025-01-19 23:48:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 03:33:42 +0000"
     },
     "done": true
   },
@@ -2647,6 +2654,12 @@
     },
     "done": true
   },
+  "aquaculture:recipes/tools/stone_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-02-03 03:33:42 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/birch_palisade": {
     "criteria": {
       "has_log": "2025-01-20 00:32:43 +0000"
@@ -3180,6 +3193,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-01-20 01:11:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 03:33:42 +0000"
     },
     "done": true
   },
