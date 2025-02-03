@@ -19317,3 +19317,34 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
 [03Feb2025 21:04:40.264] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Feb2025 21:04:40.274] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 21:09:40.273] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 21:09:40.283] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 21:11:29.676] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 lost connection: Disconnected
+[03Feb2025 21:11:29.676] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of alexis83
+[03Feb2025 21:11:29.676] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client alexis83
+[03Feb2025 21:11:29.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexis83 left the game
+[03Feb2025 21:11:56.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[03Feb2025 21:11:56.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03Feb2025 21:11:56.895] [Server thread/INFO] [Sleeper/]: Disabling Sleeper v1.6.1
+[03Feb2025 21:11:56.896] [Server thread/INFO] [Sleeper/]: Sleeper Has Been Disabled!
+[03Feb2025 21:11:56.899] [Server thread/INFO] [JustTPA/]: Disabling JustTPA vv20240420-beta
+[03Feb2025 21:11:56.899] [Server thread/INFO] [JustTPA/]: JustTPA disabled
+[03Feb2025 21:11:56.900] [Server thread/INFO] [SkinMe/]: Disabling SkinMe v1.3.1
+[03Feb2025 21:11:56.900] [Server thread/INFO] [LuckPerms/]: Disabling LuckPerms v5.4.152
+[03Feb2025 21:11:56.900] [Server thread/INFO] [LuckPerms/]: Starting shutdown process...
+[03Feb2025 21:11:56.947] [Server thread/INFO] [LuckPerms/]: Closing storage...
+[03Feb2025 21:11:56.981] [Server thread/INFO] [LuckPerms/]: Goodbye!
+[03Feb2025 21:11:56.982] [Server thread/INFO] [NeoPerformance/]: Disabling NeoPerformance v1.15.4
+[03Feb2025 21:11:56.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03Feb2025 21:11:56.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03Feb2025 21:11:58.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03Feb2025 21:11:58.298] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 21:11:58.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 21:11:58.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether
+[03Feb2025 21:11:58.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end
+[03Feb2025 21:11:58.416] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[03Feb2025 21:11:58.416] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[03Feb2025 21:11:58.416] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file sereneseasons-server.toml changed, sending notifies
+[03Feb2025 21:11:58.420] [Server thread/DEBUG] [org.jline/]: Removing shutdown-hook: Thread[JLine Shutdown Hook,5,main]
+[03Feb2025 21:12:03.421] [Exit Thread/DEBUG] [Arclight/]: Threads bStats-Metrics, bStats-Metrics, bStats-Metrics not shutting down
+[03Feb2025 21:12:03.421] [Exit Thread/INFO] [Arclight/]: 3 threads not shutting down correctly, force exiting
