@@ -2104,6 +2104,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-02-03 18:30:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-01-21 23:51:16 +0000"
@@ -2490,6 +2496,12 @@
   "cfm:recipes/cfm/spruce_upgraded_gate": {
     "criteria": {
       "has_log": "2025-02-03 04:43:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/black_picket_gate": {
+    "criteria": {
+      "has_concrete": "2025-02-03 18:30:51 +0000"
     },
     "done": true
   },
@@ -4124,6 +4136,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/black_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-02-03 18:30:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-01-19 23:37:03 +0000"
@@ -5100,6 +5118,12 @@
       "log_spam_fixer": "2025-01-19 23:23:25 +0000"
     },
     "done": false
+  },
+  "securitycraft:recipes/securitycraft/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2025-02-03 18:17:17 +0000"
+    },
+    "done": true
   },
   "cfm:recipes/cfm/gray_cooler": {
     "criteria": {
