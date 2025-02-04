@@ -726,6 +726,12 @@
     },
     "done": true
   },
+  "aquaculture:recipes/tools/stone_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-02-04 04:28:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-01-21 04:05:36 +0000"
@@ -869,6 +875,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-01-21 05:28:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_the_recipe": "2025-02-04 04:22:46 +0000"
     },
     "done": true
   },
@@ -1233,6 +1245,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2025-02-04 04:28:13 +0000"
+    },
+    "done": true
+  },
   "simplytools:recipes/simplytools/wooden_hammer": {
     "criteria": {
       "criterion1": "2025-01-21 04:01:29 +0000"
@@ -1429,6 +1447,12 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2025-02-04 04:15:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-02-04 04:28:13 +0000"
     },
     "done": true
   },
