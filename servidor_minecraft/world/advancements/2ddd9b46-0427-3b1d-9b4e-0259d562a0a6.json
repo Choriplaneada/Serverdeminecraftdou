@@ -497,6 +497,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-04 06:28:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_spruce_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2025-02-04 04:18:44 +0000"
@@ -893,6 +899,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_oak_desk": {
+    "criteria": {
+      "has_planks": "2025-02-04 06:28:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_mail_box": {
     "criteria": {
       "has_chest": "2025-02-04 04:15:56 +0000"
@@ -1010,6 +1022,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-01-19 23:35:32 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-02-04 06:28:33 +0000"
     },
     "done": true
   },
@@ -1378,6 +1396,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_crate": {
+    "criteria": {
+      "has_log": "2025-02-04 06:28:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-01-20 04:32:03 +0000"
@@ -1414,6 +1438,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-02-04 06:28:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-01-19 23:56:09 +0000"
@@ -1447,6 +1477,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-01-19 23:35:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_blinds": {
+    "criteria": {
+      "has_log": "2025-02-04 06:28:33 +0000"
     },
     "done": true
   },
@@ -1780,6 +1816,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-02-04 06:28:33 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2025-01-19 23:51:06 +0000"
@@ -1902,6 +1944,12 @@
   "mca:recipes/misc/rose_gold_dust": {
     "criteria": {
       "has_item": "2025-01-20 04:59:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_park_bench": {
+    "criteria": {
+      "has_log": "2025-02-04 06:28:33 +0000"
     },
     "done": true
   },
@@ -2031,6 +2079,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-04 06:28:33 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/gold_hook": {
     "criteria": {
       "has_items": "2025-02-04 04:00:47 +0000"
@@ -2091,6 +2145,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_table": {
+    "criteria": {
+      "has_log": "2025-02-04 06:28:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-01-20 00:38:02 +0000"
@@ -2118,6 +2178,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-19 23:30:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_desk": {
+    "criteria": {
+      "has_log": "2025-02-04 06:28:33 +0000"
     },
     "done": true
   },
@@ -2226,6 +2292,12 @@
   "cfm:recipes/cfm/acacia_kitchen_drawer": {
     "criteria": {
       "has_planks": "2025-02-04 04:15:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_cabinet": {
+    "criteria": {
+      "has_log": "2025-02-04 06:28:33 +0000"
     },
     "done": true
   },
@@ -2377,6 +2449,12 @@
   "endrem:main/root": {
     "criteria": {
       "black_eye": "2025-01-21 04:12:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-02-04 06:28:33 +0000"
     },
     "done": true
   },
@@ -2680,6 +2758,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-02-04 06:28:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-02-04 04:49:10 +0000"
@@ -2903,9 +2987,21 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-02-04 06:28:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-01-19 23:47:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_cabinet": {
+    "criteria": {
+      "has_log": "2025-02-04 06:28:33 +0000"
     },
     "done": true
   },
@@ -3133,6 +3229,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_oak_park_bench": {
+    "criteria": {
+      "has_log": "2025-02-04 06:28:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-01-19 23:44:26 +0000"
@@ -3235,6 +3337,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_oak_crate": {
+    "criteria": {
+      "has_planks": "2025-02-04 06:28:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/cyan_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-04 04:15:56 +0000"
@@ -3268,6 +3376,12 @@
   "cfm:recipes/cfm/crimson_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-02-04 04:19:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_chair": {
+    "criteria": {
+      "has_log": "2025-02-04 06:28:33 +0000"
     },
     "done": true
   },
@@ -3352,6 +3466,12 @@
   "knight_quest:kq_quest_find_great_essence": {
     "criteria": {
       "kq_quest_find_great_essence": "2025-01-20 04:29:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-02-04 06:28:33 +0000"
     },
     "done": true
   },
@@ -3966,6 +4086,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-02-04 06:28:33 +0000"
+    },
+    "done": true
+  },
   "infernalexp:recipes/combat/blindsight_tongue_whip": {
     "criteria": {
       "has_molten_gold_cluster": "2025-01-19 23:22:44 +0000"
@@ -3981,6 +4107,12 @@
   "cfm:recipes/cfm/stripped_spruce_park_bench": {
     "criteria": {
       "has_planks": "2025-02-04 04:18:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_table": {
+    "criteria": {
+      "has_planks": "2025-02-04 06:28:33 +0000"
     },
     "done": true
   },
@@ -5040,6 +5172,12 @@
   "cfm:recipes/cfm/fridge_light": {
     "criteria": {
       "has_iron": "2025-02-04 04:00:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_coffee_table": {
+    "criteria": {
+      "has_log": "2025-02-04 06:28:33 +0000"
     },
     "done": true
   },
