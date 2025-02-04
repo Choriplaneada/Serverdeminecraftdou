@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/diving_board": {
+    "criteria": {
+      "has_wheat": "2025-02-04 05:30:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-20 04:57:36 +0000"
@@ -1428,6 +1434,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-02-04 05:30:01 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/jungle_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-02-03 04:23:31 +0000"
@@ -1837,6 +1849,12 @@
   "cfm:recipes/cfm/light_gray_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-03 05:11:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-02-04 05:33:08 +0000"
     },
     "done": true
   },
@@ -2917,6 +2935,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-01-19 23:49:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-02-04 05:33:08 +0000"
     },
     "done": true
   },
@@ -4694,6 +4718,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-02-04 05:29:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-01-20 01:53:55 +0000"
@@ -5149,6 +5179,7 @@
       "cooked_porkchop": "2025-01-19 23:55:09 +0000",
       "cooked_mutton": "2025-01-19 23:46:59 +0000",
       "cooked_beef": "2025-01-20 03:32:17 +0000",
+      "baked_potato": "2025-02-04 05:33:20 +0000",
       "apple": "2025-01-20 01:43:14 +0000",
       "cooked_cod": "2025-01-21 21:52:46 +0000",
       "bread": "2025-01-20 02:01:54 +0000",
@@ -5697,6 +5728,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "potato": "2025-02-04 03:22:32 +0000",
+      "wheat": "2025-02-04 05:29:54 +0000",
       "carrot": "2025-01-20 01:20:20 +0000"
     },
     "done": false
@@ -6196,6 +6228,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-01-20 00:13:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-02-04 05:30:01 +0000"
     },
     "done": true
   },
