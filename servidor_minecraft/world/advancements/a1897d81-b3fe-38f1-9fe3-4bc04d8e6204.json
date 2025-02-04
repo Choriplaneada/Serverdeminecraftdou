@@ -610,6 +610,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-04 06:55:12 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-01-21 03:43:40 +0000"
@@ -861,6 +867,12 @@
       "has_bucket": "2025-02-04 06:31:23 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-04 06:55:12 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
@@ -1121,6 +1133,18 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-02-04 06:44:55 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-04 06:55:12 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/cfm/stripped_birch_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-02-04 06:31:23 +0000"
@@ -1138,6 +1162,12 @@
       "has_cobblestone": "2025-01-21 03:30:21 +0000"
     },
     "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-04 06:55:12 +0000"
+    },
+    "done": false
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
@@ -1212,6 +1242,12 @@
       "has_bucket": "2025-02-04 06:31:23 +0000"
     },
     "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-04 06:55:12 +0000"
+    },
+    "done": false
   },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
@@ -1447,6 +1483,12 @@
       "has_bucket": "2025-02-04 06:31:23 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-04 06:55:12 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
@@ -1945,6 +1987,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-04 06:55:12 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/cfm/stripped_warped_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-02-04 06:31:23 +0000"
@@ -2078,6 +2126,12 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-04 06:55:12 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-01-21 03:30:23 +0000"
@@ -2154,6 +2208,12 @@
       "has_gravel": "2025-01-21 03:32:00 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-04 06:55:12 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
@@ -2566,6 +2626,12 @@
     },
     "done": true
   },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-04 06:55:12 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/cfm/pink_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-02-04 06:31:23 +0000"
@@ -2583,6 +2649,12 @@
       "has_items": "2025-02-04 04:05:39 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-04 06:55:12 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/farmersdelight/golden_knife": {
     "criteria": {
@@ -2613,6 +2685,12 @@
       "has_white_wool": "2025-02-04 06:01:02 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-04 06:55:12 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {

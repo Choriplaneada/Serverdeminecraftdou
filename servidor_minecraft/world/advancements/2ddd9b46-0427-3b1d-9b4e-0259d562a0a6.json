@@ -509,6 +509,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-04 06:56:12 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-01-19 23:55:45 +0000"
@@ -706,6 +712,12 @@
       "has_chiseled_quartz_block": "2025-01-20 04:30:07 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-04 06:56:12 +0000"
+    },
+    "done": false
   },
   "sereneseasons:recipes/tools/calendar": {
     "criteria": {
@@ -928,6 +940,12 @@
       "has_gold_ingot": "2025-01-20 00:38:02 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-04 06:56:12 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/cfm/stripped_birch_kitchen_sink_dark": {
     "criteria": {
@@ -1864,6 +1882,12 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-04 06:56:12 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-01-19 23:35:45 +0000"
@@ -1946,6 +1970,12 @@
       "has_item": "2025-01-20 04:59:36 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-04 06:56:12 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/cfm/oak_park_bench": {
     "criteria": {
@@ -2415,6 +2445,12 @@
       "has_white_wool": "2025-01-19 23:42:05 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-04 06:56:12 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
@@ -3680,6 +3716,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-04 06:56:12 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-01-20 04:29:32 +0000"
@@ -3755,6 +3797,12 @@
       "has_iron_ingot": "2025-01-20 00:03:26 +0000"
     },
     "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-04 06:56:12 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
@@ -3978,6 +4026,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-04 06:56:12 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_chiseled_quartz_block": "2025-01-20 04:30:07 +0000"
@@ -4175,6 +4229,7 @@
       "cooked_porkchop": "2025-01-19 23:51:34 +0000",
       "cooked_mutton": "2025-01-19 23:45:03 +0000",
       "cooked_beef": "2025-01-20 00:10:10 +0000",
+      "baked_potato": "2025-02-04 06:53:53 +0000",
       "apple": "2025-01-21 05:28:54 +0000",
       "bread": "2025-01-20 00:42:47 +0000",
       "golden_apple": "2025-02-04 04:51:48 +0000",
@@ -4393,6 +4448,12 @@
       "has_bucket": "2025-02-04 04:19:38 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-04 06:56:12 +0000"
+    },
+    "done": false
   },
   "aquaculture:recipes/tools/stone_fillet_knife": {
     "criteria": {
@@ -5019,6 +5080,12 @@
     },
     "done": true
   },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-04 06:56:12 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/cfm/pink_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-02-04 04:19:38 +0000"
@@ -5060,6 +5127,12 @@
       "has_items": "2025-02-04 04:00:47 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-04 06:56:12 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/farmersdelight/golden_knife": {
     "criteria": {
