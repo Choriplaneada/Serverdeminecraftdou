@@ -257,9 +257,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-02-04 04:37:44 +0000",
       "baked_potato": "2025-01-21 03:49:36 +0000",
       "cooked_cod": "2025-01-21 05:38:06 +0000",
-      "bread": "2025-01-21 04:18:55 +0000"
+      "bread": "2025-01-21 04:18:55 +0000",
+      "cooked_salmon": "2025-02-04 04:29:15 +0000"
     },
     "done": false
   },
@@ -832,6 +834,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-21 05:13:33 +0000",
+      "minecraft:magma_cube": "2025-02-04 04:30:25 +0000",
       "minecraft:spider": "2025-01-21 04:06:36 +0000"
     },
     "done": false
@@ -1140,6 +1143,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-01-21 03:36:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-02-04 04:32:29 +0000"
     },
     "done": true
   },

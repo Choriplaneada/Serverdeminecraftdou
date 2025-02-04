@@ -3958,6 +3958,7 @@
       "minecraft:pillager": "2025-01-20 00:37:21 +0000",
       "minecraft:skeleton": "2025-01-20 00:01:39 +0000",
       "minecraft:vindicator": "2025-01-20 00:51:09 +0000",
+      "minecraft:magma_cube": "2025-02-04 04:31:15 +0000",
       "minecraft:spider": "2025-01-20 03:17:03 +0000",
       "minecraft:creeper": "2025-02-03 16:42:46 +0000",
       "minecraft:phantom": "2025-02-03 03:43:06 +0000",
@@ -5218,6 +5219,12 @@
   "securitycraft:recipes/securitycraft/track_mine": {
     "criteria": {
       "has_iron": "2025-02-03 03:15:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-02-04 04:36:46 +0000"
     },
     "done": true
   },
@@ -6535,6 +6542,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-01-20 01:20:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-02-04 04:29:18 +0000"
     },
     "done": true
   },
