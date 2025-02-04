@@ -4438,3 +4438,92 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [04Feb2025 05:03:15.416] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lim0ncit0Dulce issued server command: /tpa alexis83
 [04Feb2025 05:03:22.552] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /tpaccept
 [04Feb2025 05:03:46.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexis83 has made the advancement [Local Brewery]
+[04Feb2025 05:05:21.482] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 lost connection: Disconnected
+[04Feb2025 05:05:21.482] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client alexis83
+[04Feb2025 05:05:21.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexis83 left the game
+[04Feb2025 05:07:09.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lim0ncit0Dulce was slain by Blaze
+[04Feb2025 05:07:23.136] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lim0ncit0Dulce issued server command: /tpa PanchikoKW
+[04Feb2025 05:07:26.710] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanchikoKW issued server command: /tpaccept
+[04Feb2025 05:08:52.719] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player alexis83 is d5349a20-7346-31c5-8498-83a2f839afa6
+[04Feb2025 05:08:58.041] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3a2662b3
+[04Feb2025 05:08:58.051] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alexis83[/127.205.233.85:47705] logged in with entity id 37298 at (-70.69999998807907, 44.0, -241.30000001192093)
+[04Feb2025 05:08:58.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexis83 joined the game
+[04Feb2025 05:08:58.367] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of alexis83 (18)
+[04Feb2025 05:08:58.367] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to alexis83
+[04Feb2025 05:09:03.092] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d5349a20-7346-31c5-8498-83a2f839afa6
+[04Feb2025 05:09:04.092] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d5349a20-7346-31c5-8498-83a2f839afa6
+[04Feb2025 05:09:04.092] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player alexis83 (d5349a20-7346-31c5-8498-83a2f839afa6) successfully connected to voice chat
+[04Feb2025 05:09:10.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanchikoKW was slain by Wither Skeleton
+[04Feb2025 05:09:10.569] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[04Feb2025 05:09:10.569] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[04Feb2025 05:09:10.569] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[04Feb2025 05:09:10.569] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[04Feb2025 05:09:10.569] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[04Feb2025 05:09:18.560] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanchikoKW issued server command: /tpa Lim0ncit0Dulce
+[04Feb2025 05:09:21.734] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lim0ncit0Dulce issued server command: /tpaccept
+[04Feb2025 05:12:09.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanchikoKW was slain by Wither Skeleton Girl
+[04Feb2025 05:12:09.873] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[04Feb2025 05:12:09.874] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 6 is dual wielding: false
+[04Feb2025 05:12:09.874] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[04Feb2025 05:12:09.874] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[04Feb2025 05:12:09.874] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[04Feb2025 05:12:14.491] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanchikoKW issued server command: /tpa Lim0ncit0Dulce
+[04Feb2025 05:12:20.386] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lim0ncit0Dulce issued server command: /tpaccept
+[04Feb2025 05:12:54.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lim0ncit0Dulce was slain by Wither Skeleton
+[04Feb2025 05:13:00.371] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lim0ncit0Dulce issued server command: /tpa alexis83
+[04Feb2025 05:13:05.236] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /tpaccept
+[04Feb2025 05:14:11.807] [Craft Scheduler Thread - 32/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[04Feb2025 05:14:35.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lim0ncit0Dulce withered away whilst fighting Wither Skeleton
+[04Feb2025 05:14:41.636] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lim0ncit0Dulce issued server command: /tpa PanchikoKW
+[04Feb2025 05:14:44.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanchikoKW issued server command: /tpaccept
+[04Feb2025 05:16:32.441] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanchikoKW issued server command: /tpa alexis83
+[04Feb2025 05:16:42.136] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /tpaccept
+[04Feb2025 05:17:54.087] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player durooo is 10ba40f4-9431-3355-8ffe-39de4b50c493
+[04Feb2025 05:17:56.437] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanchikoKW lost connection: Disconnected
+[04Feb2025 05:17:56.437] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PanchikoKW
+[04Feb2025 05:17:56.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanchikoKW left the game
+[04Feb2025 05:17:57.999] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6ba99340
+[04Feb2025 05:17:58.005] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: durooo[/127.51.165.174:40275] logged in with entity id 39168 at (399.30000001192093, 21.0, -965.4282673680275)
+[04Feb2025 05:17:58.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: durooo joined the game
+[04Feb2025 05:17:59.213] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of durooo (18)
+[04Feb2025 05:17:59.214] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to durooo
+[04Feb2025 05:18:02.030] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 10ba40f4-9431-3355-8ffe-39de4b50c493
+[04Feb2025 05:18:03.032] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 10ba40f4-9431-3355-8ffe-39de4b50c493
+[04Feb2025 05:18:03.033] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player durooo (10ba40f4-9431-3355-8ffe-39de4b50c493) successfully connected to voice chat
+[04Feb2025 05:18:14.540] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: durooo issued server command: /tpa Lim0ncit0Dulce
+[04Feb2025 05:18:16.155] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lim0ncit0Dulce issued server command: /tpaccept
+[04Feb2025 05:18:30.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: durooo has made the advancement [Diamond is Unbreakable]
+[04Feb2025 05:18:33.960] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lim0ncit0Dulce issued server command: /tpa alexis83
+[04Feb2025 05:18:39.253] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /tpaccept
+[04Feb2025 05:18:50.587] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: durooo issued server command: /tpa alexis83
+[04Feb2025 05:18:51.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: durooo was slain by Wither Skeleton
+[04Feb2025 05:19:39.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexis83 was fireballed by Blaze
+[04Feb2025 05:19:57.535] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /tpa durooo
+[04Feb2025 05:20:11.405] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: durooo issued server command: /tpaccept
+[04Feb2025 05:21:22.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: durooo was slain by Wither Skeleton
+[04Feb2025 05:21:24.864] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player PanchikoKW is 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[04Feb2025 05:21:29.244] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4ed753d3
+[04Feb2025 05:21:29.252] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PanchikoKW[/127.61.240.200:54417] logged in with entity id 41418 at (583.4802791884659, 179.5, -727.6345474997523)
+[04Feb2025 05:21:29.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanchikoKW joined the game
+[04Feb2025 05:21:29.540] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PanchikoKW (18)
+[04Feb2025 05:21:29.540] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PanchikoKW
+[04Feb2025 05:21:32.569] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: durooo issued server command: /tpa alexis83
+[04Feb2025 05:21:34.637] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[04Feb2025 05:21:35.629] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[04Feb2025 05:21:35.629] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PanchikoKW (905d1f7b-6652-3a99-9dd9-a3db220a872b) successfully connected to voice chat
+[04Feb2025 05:21:36.292] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /tpaccept
+[04Feb2025 05:22:03.685] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lim0ncit0Dulce lost connection: Disconnected
+[04Feb2025 05:22:03.686] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lim0ncit0Dulce
+[04Feb2025 05:22:03.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lim0ncit0Dulce left the game
+[04Feb2025 05:23:10.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: durooo has made the advancement [Local Brewery]
+[04Feb2025 05:24:02.119] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /tpa PanchikoKW
+[04Feb2025 05:24:08.488] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanchikoKW issued server command: /tpa alexis83
