@@ -4550,3 +4550,45 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [04Feb2025 05:30:05.778] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 lost connection: Disconnected
 [04Feb2025 05:30:05.778] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client alexis83
 [04Feb2025 05:30:05.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexis83 left the game
+[04Feb2025 05:35:49.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: durooo was slain by Enderman
+[04Feb2025 05:36:04.377] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanchikoKW lost connection: Disconnected
+[04Feb2025 05:36:04.378] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PanchikoKW
+[04Feb2025 05:36:04.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanchikoKW left the game
+[04Feb2025 05:36:46.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: durooo was slain by Enderman
+[04Feb2025 05:37:08.203] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Lim0ncit0Dulce is 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[04Feb2025 05:37:12.285] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@c085ca7
+[04Feb2025 05:37:12.294] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lim0ncit0Dulce[/127.172.79.157:48805] logged in with entity id 47254 at (442.5929751120277, 68.0, -798.8056934542662)
+[04Feb2025 05:37:12.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lim0ncit0Dulce joined the game
+[04Feb2025 05:37:12.574] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Lim0ncit0Dulce (18)
+[04Feb2025 05:37:12.574] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[04Feb2025 05:37:16.282] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[04Feb2025 05:37:17.281] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[04Feb2025 05:37:17.281] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[04Feb2025 05:38:31.123] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player franciscum is a1897d81-b3fe-38f1-9fe3-4bc04d8e6204
+[04Feb2025 05:38:34.982] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2604ee3e
+[04Feb2025 05:38:34.988] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: franciscum[/127.172.79.157:41187] logged in with entity id 48074 at (6.258907158236444, 63.0, -5.886336188113641)
+[04Feb2025 05:38:34.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: franciscum joined the game
+[04Feb2025 05:38:35.234] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of franciscum (18)
+[04Feb2025 05:38:35.235] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to franciscum
+[04Feb2025 05:38:39.798] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a1897d81-b3fe-38f1-9fe3-4bc04d8e6204
+[04Feb2025 05:38:40.804] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a1897d81-b3fe-38f1-9fe3-4bc04d8e6204
+[04Feb2025 05:38:40.804] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player franciscum (a1897d81-b3fe-38f1-9fe3-4bc04d8e6204) successfully connected to voice chat
+[04Feb2025 05:38:52.184] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: franciscum issued server command: /tpa Lim0ncit0Dulce
+[04Feb2025 05:39:04.331] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lim0ncit0Dulce issued server command: /tpaccept
+[04Feb2025 05:44:11.810] [Craft Scheduler Thread - 35/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[04Feb2025 05:44:58.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: durooo has made the advancement [Pic-A-Nic Basket?]
+[04Feb2025 05:52:01.744] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 10ba40f4-9431-3355-8ffe-39de4b50c493 timed out
+[04Feb2025 05:52:01.744] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player durooo
+[04Feb2025 05:52:01.744] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to durooo
+[04Feb2025 05:52:02.252] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 10ba40f4-9431-3355-8ffe-39de4b50c493
+[04Feb2025 05:52:03.253] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 10ba40f4-9431-3355-8ffe-39de4b50c493
+[04Feb2025 05:52:03.253] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player durooo (10ba40f4-9431-3355-8ffe-39de4b50c493) successfully connected to voice chat
