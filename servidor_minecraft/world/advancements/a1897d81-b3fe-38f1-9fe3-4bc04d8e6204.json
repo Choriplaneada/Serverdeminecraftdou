@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-04 04:59:11 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-01-21 03:30:21 +0000"
@@ -77,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-04 04:45:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-21 03:32:00 +0000"
@@ -100,6 +112,12 @@
       "has_gold_ingot": "2025-01-21 05:05:34 +0000"
     },
     "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:inverted_forest": "2025-02-04 04:45:27 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
@@ -195,6 +213,12 @@
     },
     "done": true
   },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:inverted_forest": "2025-02-04 04:45:27 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_spruce_park_bench": {
     "criteria": {
       "has_planks": "2025-02-04 04:13:59 +0000"
@@ -210,6 +234,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-01-21 04:42:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-04 04:45:07 +0000"
     },
     "done": true
   },
@@ -257,6 +287,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-02-04 04:55:37 +0000",
       "cooked_beef": "2025-02-04 04:37:44 +0000",
       "baked_potato": "2025-01-21 03:49:36 +0000",
       "cooked_cod": "2025-01-21 05:38:06 +0000",
@@ -602,6 +633,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-02-04 04:45:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-21 03:30:21 +0000"
@@ -647,6 +684,12 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-01-21 03:36:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-02-04 04:45:07 +0000"
     },
     "done": true
   },
@@ -709,6 +752,12 @@
       "has_stick": "2025-01-21 04:01:29 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-04 04:59:11 +0000"
+    },
+    "done": false
   },
   "knight_quest:kq_quest_source": {
     "criteria": {
@@ -833,15 +882,23 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-02-04 04:49:42 +0000",
       "minecraft:skeleton": "2025-01-21 05:13:33 +0000",
       "minecraft:magma_cube": "2025-02-04 04:30:25 +0000",
-      "minecraft:spider": "2025-01-21 04:06:36 +0000"
+      "minecraft:spider": "2025-01-21 04:06:36 +0000",
+      "minecraft:wither_skeleton": "2025-02-04 04:51:52 +0000"
     },
     "done": false
   },
   "aquaculture:recipes/building_blocks/planks_from_driftwood": {
     "criteria": {
       "has_items": "2025-02-04 04:05:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-04 04:45:26 +0000"
     },
     "done": true
   },
@@ -856,6 +913,12 @@
       "has_bed": "2025-01-21 03:22:36 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-04 04:59:11 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
@@ -916,6 +979,12 @@
       "criterion1": "2025-01-21 04:01:29 +0000"
     },
     "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-04 04:59:11 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
@@ -1024,6 +1093,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-04 04:59:11 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-01-21 05:05:34 +0000"
@@ -1098,6 +1173,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-02-04 04:45:07 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/redstone_hook": {
     "criteria": {
       "has_items": "2025-02-04 04:05:39 +0000"
@@ -1134,6 +1215,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-04 04:59:11 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/securitycraft/sc_manual": {
     "criteria": {
       "has_wood": "2025-02-04 04:13:59 +0000"
@@ -1167,6 +1254,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-01-21 05:09:22 +0000"
+    },
+    "done": true
+  },
+  "shieldexp:get_diamond_shield": {
+    "criteria": {
+      "diamond_shield": "2025-02-04 04:55:27 +0000"
     },
     "done": true
   },
@@ -1254,6 +1347,12 @@
     },
     "done": true
   },
+  "knight_quest:kq_quest_find_great_essence": {
+    "criteria": {
+      "kq_quest_find_great_essence": "2025-02-04 04:45:07 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_andesite": {
     "criteria": {
       "has_cobblestone": "2025-02-04 04:28:13 +0000"
@@ -1287,6 +1386,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-21 04:14:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-02-04 04:45:07 +0000"
     },
     "done": true
   },
@@ -1495,6 +1600,12 @@
     },
     "done": true
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-04 04:59:11 +0000"
+    },
+    "done": false
+  },
   "infernalexp:recipes/combat/glowsilk_bow": {
     "criteria": {
       "has_glowsilk": "2025-01-21 03:10:16 +0000"
@@ -1525,6 +1636,12 @@
       "has_cobblestone": "2025-01-21 03:30:21 +0000"
     },
     "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-04 04:59:11 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/farmersdelight/stuffed_potato": {
     "criteria": {
@@ -1617,9 +1734,21 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-04 04:59:11 +0000"
+    },
+    "done": false
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-01-21 05:33:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-02-04 04:45:07 +0000"
     },
     "done": true
   },
@@ -1647,6 +1776,12 @@
     },
     "done": true
   },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-04 04:59:11 +0000"
+    },
+    "done": false
+  },
   "aquaculture:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_fishing_rod": "2025-02-04 04:05:39 +0000",
@@ -1659,6 +1794,12 @@
       "has_items": "2025-02-04 04:05:39 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-04 04:59:11 +0000"
+    },
+    "done": false
   },
   "aquaculture:recipes/aquaculture/iron_hook": {
     "criteria": {
@@ -1689,6 +1830,12 @@
       "has_item0": "2025-01-21 04:43:21 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-04 04:59:11 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
@@ -1789,6 +1936,12 @@
   "shieldexp:recipes/golden_shield": {
     "criteria": {
       "has_gold_ingot": "2025-01-21 05:05:34 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-02-04 04:45:26 +0000"
     },
     "done": true
   },

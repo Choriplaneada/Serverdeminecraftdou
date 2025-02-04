@@ -17429,3 +17429,211 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [04Feb2025 04:39:47.547] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: franciscum issued server command: /tpa Lim0ncit0Dulce
 [04Feb2025 04:39:52.582] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lim0ncit0Dulce issued server command: /tpaccept
 [04Feb2025 04:40:21.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: durooo has completed the challenge [Quest: Find Three Great Essence]
+[04Feb2025 04:44:11.754] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 04:44:11.766] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 04:44:11.812] [Craft Scheduler Thread - 23/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[04Feb2025 04:44:14.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanchikoKW was slain by mosco gigante
+[04Feb2025 04:44:14.834] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[04Feb2025 04:44:14.834] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[04Feb2025 04:44:14.834] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[04Feb2025 04:44:14.834] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[04Feb2025 04:44:14.834] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[04Feb2025 04:44:21.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexis83 was slain by mosco gigante
+[04Feb2025 04:44:21.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: franciscum was slain by mosco gigante
+[04Feb2025 04:44:21.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: durooo was slain by mosco gigante
+[04Feb2025 04:44:30.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lim0ncit0Dulce was slain by mosco gigante
+[04Feb2025 04:44:37.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: durooo tried to swim in lava
+[04Feb2025 04:44:41.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanchikoKW has completed the challenge [Destroyer of Chads]
+[04Feb2025 04:44:41.589] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EntityWarpedMosco['mosco gigante'/26292, l='ServerLevel[world]', x=406.73, y=19.97, z=-947.97] died: mosco gigante was slain by PanchikoKW
+[04Feb2025 04:44:46.060] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: franciscum issued server command: /tpa Lim0ncit0Dulce
+[04Feb2025 04:44:49.561] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lim0ncit0Dulce issued server command: /tpaccept
+[04Feb2025 04:44:57.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanchikoKW has made the advancement [Incendium]
+[04Feb2025 04:44:57.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanchikoKW has made the advancement [We Need to Go Deeper]
+[04Feb2025 04:44:57.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanchikoKW has made the advancement [Strange Biomes]
+[04Feb2025 04:45:05.920] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: durooo issued server command: /tpa alexis83
+[04Feb2025 04:45:07.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: franciscum has completed the challenge [Quest: Find Three Great Essence]
+[04Feb2025 04:45:07.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: franciscum has made the advancement [Hot Stuff]
+[04Feb2025 04:45:10.950] [Worker-Main-14/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/mojang/math/OctahedralGroup$1
+[04Feb2025 04:45:11.901] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /tpaccept
+[04Feb2025 04:45:12.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: durooo has made the advancement [Incendium]
+[04Feb2025 04:45:12.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: durooo has made the advancement [We Need to Go Deeper]
+[04Feb2025 04:45:12.818] [Worker-Main-28/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/levelgen/structure/structures/MineshaftPieces$1
+[04Feb2025 04:45:13.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: durooo has made the advancement [Strange Biomes]
+[04Feb2025 04:45:25.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lim0ncit0Dulce has made the advancement [Incendium]
+[04Feb2025 04:45:25.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lim0ncit0Dulce has made the advancement [We Need to Go Deeper]
+[04Feb2025 04:45:26.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lim0ncit0Dulce has made the advancement [Strange Biomes]
+[04Feb2025 04:45:26.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: franciscum has made the advancement [Incendium]
+[04Feb2025 04:45:26.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: franciscum has made the advancement [We Need to Go Deeper]
+[04Feb2025 04:45:27.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: franciscum has made the advancement [Strange Biomes]
+[04Feb2025 04:45:31.641] [Worker-Main-12/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[04Feb2025 04:45:31.642] [Worker-Main-12/DEBUG] [Implementer/ASYNC_CATCHER]: Async effect add
+java.lang.IllegalStateException: Asynchronous effect add!
+	at io.izzel.arclight.boot.asm.AsyncCatcher.checkOp(AsyncCatcher.java:235) ~[arclight.jar%2381!/:arclight-1.19.2-1.0.5-696a298] {}
+	at net.minecraft.world.entity.LivingEntity.m_147207_(LivingEntityMixin.java) ~[server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,pl:arclight_implementer:async,pl:arclight_implementer:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.entity.LivingEntityMixin,pl:mixin:APP:citadel.mixins.json:LivingEntityMixin,pl:mixin:APP:shieldexp.mixins.json:LivingEntityMixin,pl:mixin:APP:bettercombat.mixins.json:LivingEntityAccessor,pl:mixin:APP:bettercombat.mixins.json:LivingEntityMixin,pl:mixin:APP:curios.mixins.json:MixinLivingEntity,pl:mixin:APP:crittersandcompanions.mixins.json:LivingEntityMixin,pl:mixin:APP:expandability.mixins.json:swimming.LivingEntityMixin,pl:mixin:APP:expandability-common.mixins.json:swimming.LivingEntityMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:activationrange.entity.LivingEntityMixin_ActivationRange,pl:mixin:APP:mixins.arclight.core.json:world.entity.LivingEntityMixin$ApotheosisCompatMixin,pl:mixin:APP:mixins.arclight.core.json:world.entity.LivingEntityMixin$ObscureApiCompat,pl:mixin:A,pl:arclight_implementer:async,pl:arclight_implementer:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.world.entity.LivingEntity.m_7292_(LivingEntityMixin.java:908) ~[server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,pl:arclight_implementer:async,pl:arclight_implementer:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.entity.LivingEntityMixin,pl:mixin:APP:citadel.mixins.json:LivingEntityMixin,pl:mixin:APP:shieldexp.mixins.json:LivingEntityMixin,pl:mixin:APP:bettercombat.mixins.json:LivingEntityAccessor,pl:mixin:APP:bettercombat.mixins.json:LivingEntityMixin,pl:mixin:APP:curios.mixins.json:MixinLivingEntity,pl:mixin:APP:crittersandcompanions.mixins.json:LivingEntityMixin,pl:mixin:APP:expandability.mixins.json:swimming.LivingEntityMixin,pl:mixin:APP:expandability-common.mixins.json:swimming.LivingEntityMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:activationrange.entity.LivingEntityMixin_ActivationRange,pl:mixin:APP:mixins.arclight.core.json:world.entity.LivingEntityMixin$ApotheosisCompatMixin,pl:mixin:APP:mixins.arclight.core.json:world.entity.LivingEntityMixin$ObscureApiCompat,pl:mixin:A,pl:arclight_implementer:async,pl:arclight_implementer:A,re:mixin,pl:accesstransformer:B}
+	at net.p3pp3rf1y.sophisticatedbackpacks.common.EntityBackpackAdditionHandler.lambda$applyPotions$5(EntityBackpackAdditionHandler.java:251) ~[sophisticatedbackpacks-1.19.2-3.20.2.1035.jar%23261!/:1.19.2-3.20.2.1035] {re:classloading}
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?] {re:mixin}
+	at net.p3pp3rf1y.sophisticatedbackpacks.common.EntityBackpackAdditionHandler.applyPotions(EntityBackpackAdditionHandler.java:249) ~[sophisticatedbackpacks-1.19.2-3.20.2.1035.jar%23261!/:1.19.2-3.20.2.1035] {re:classloading}
+	at net.p3pp3rf1y.sophisticatedbackpacks.common.EntityBackpackAdditionHandler.lambda$addBackpack$0(EntityBackpackAdditionHandler.java:124) ~[sophisticatedbackpacks-1.19.2-3.20.2.1035.jar%23261!/:1.19.2-3.20.2.1035] {re:classloading}
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?] {re:mixin}
+	at net.p3pp3rf1y.sophisticatedbackpacks.common.EntityBackpackAdditionHandler.addBackpack(EntityBackpackAdditionHandler.java:119) ~[sophisticatedbackpacks-1.19.2-3.20.2.1035.jar%23261!/:1.19.2-3.20.2.1035] {re:classloading}
+	at net.p3pp3rf1y.sophisticatedbackpacks.common.CommonEventHandler.onLivingSpecialSpawn(CommonEventHandler.java:203) ~[sophisticatedbackpacks-1.19.2-3.20.2.1035.jar%23261!/:1.19.2-3.20.2.1035] {re:classloading}
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260) ~[eventbus-6.0.3.jar%2384!/:?] {}
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:252) ~[eventbus-6.0.3.jar%2384!/:?] {}
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.3.jar%2384!/:?] {}
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.3.jar%2384!/:?] {}
+	at net.minecraftforge.event.ForgeEventFactory.doSpecialSpawn(ForgeEventFactoryMixin.java:201) ~[forge-1.19.2-43.3.8-universal.jar%23280!/:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.forge.json:ForgeEventFactoryMixin,pl:mixin:A}
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate.lambda$addEntitiesToWorld$5(StructureTemplateMixin.java:423) ~[server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.level.levelgen.structure.templatesystem.StructureTemplateMixin,pl:mixin:APP:betterdungeons.mixins.json:DungeonContextMixin,pl:mixin:A}
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?] {re:mixin}
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate.addEntitiesToWorld(StructureTemplateMixin.java:418) ~[server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.level.levelgen.structure.templatesystem.StructureTemplateMixin,pl:mixin:APP:betterdungeons.mixins.json:DungeonContextMixin,pl:mixin:A}
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate.m_230328_(StructureTemplateMixin.java:337) ~[server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.level.levelgen.structure.templatesystem.StructureTemplateMixin,pl:mixin:APP:betterdungeons.mixins.json:DungeonContextMixin,pl:mixin:A}
+	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.m_213695_(SinglePoolElement.java:127) ~[server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,re:classloading,pl:mixin:APP:waystones.mixins.json:SinglePoolElementMixin,pl:mixin:A}
+	at net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.m_226509_(PoolElementStructurePiece.java:89) ~[server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:classloading}
+	at net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.m_213694_(PoolElementStructurePiece.java:85) ~[server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:classloading}
+	at net.minecraft.world.level.levelgen.structure.StructureStart.m_226850_(StructureStart.java:89) ~[server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,re:classloading}
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_223080_(ChunkGeneratorMixin.java:429) ~[server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.level.chunk.ChunkGeneratorMixin,pl:mixin:APP:citadel.mixins.json:ChunkGeneratorMixin,pl:mixin:A}
+	at com.google.common.collect.ImmutableList.forEach(ImmutableList.java:422) ~[guava-31.0.1-jre.jar%23105!/:?] {re:mixin}
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_213609_(ChunkGeneratorMixin.java:428) ~[server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.level.chunk.ChunkGeneratorMixin,pl:mixin:APP:citadel.mixins.json:ChunkGeneratorMixin,pl:mixin:A}
+	at net.minecraft.world.level.chunk.ChunkStatus.m_223313_(ChunkStatus.java:145) ~[server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.world.level.chunk.ChunkStatus.m_223279_(ChunkStatus.java:292) ~[server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$25(ChunkMapMixin.java:621) ~[server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,xf:OptiFine:default,re:classloading,pl:accesstransformer:B,xf:OptiFine:default,pl:mixin:APP:mixins.arclight.core.json:server.level.ChunkMapMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ChunkMapMixin_Optimize,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:trackingrange.ChunkManagerMixin_TrackingRange,pl:mixin:APP:securitycraft.mixins.json:camera.ChunkMapMixin,pl:mixin:A,pl:arclight_implementer:async,pl:arclight_implementer:A}
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-5.0.28.jar%23108!/:?] {}
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMapMixin.java:619) ~[server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,xf:OptiFine:default,re:classloading,pl:accesstransformer:B,xf:OptiFine:default,pl:mixin:APP:mixins.arclight.core.json:server.level.ChunkMapMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ChunkMapMixin_Optimize,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:trackingrange.ChunkManagerMixin_TrackingRange,pl:mixin:APP:securitycraft.mixins.json:camera.ChunkMapMixin,pl:mixin:A,pl:arclight_implementer:async,pl:arclight_implementer:A}
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?] {}
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:classloading}
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:classloading}
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:classloading}
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:classloading}
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) [?:?] {}
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?] {}
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?] {}
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?] {re:computing_frames}
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?] {re:computing_frames}
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?] {}
+[04Feb2025 04:45:31.650] [Worker-Main-12/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
+[04Feb2025 04:45:31.650] [Worker-Main-12/DEBUG] [Implementer/ASYNC_CATCHER]: Async effect add
+java.lang.IllegalStateException: Asynchronous effect add!
+	at io.izzel.arclight.boot.asm.AsyncCatcher.checkOp(AsyncCatcher.java:235) ~[arclight.jar%2381!/:arclight-1.19.2-1.0.5-696a298] {}
+	at net.minecraft.world.entity.LivingEntity.m_147207_(LivingEntityMixin.java) ~[server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,pl:arclight_implementer:async,pl:arclight_implementer:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.entity.LivingEntityMixin,pl:mixin:APP:citadel.mixins.json:LivingEntityMixin,pl:mixin:APP:shieldexp.mixins.json:LivingEntityMixin,pl:mixin:APP:bettercombat.mixins.json:LivingEntityAccessor,pl:mixin:APP:bettercombat.mixins.json:LivingEntityMixin,pl:mixin:APP:curios.mixins.json:MixinLivingEntity,pl:mixin:APP:crittersandcompanions.mixins.json:LivingEntityMixin,pl:mixin:APP:expandability.mixins.json:swimming.LivingEntityMixin,pl:mixin:APP:expandability-common.mixins.json:swimming.LivingEntityMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:activationrange.entity.LivingEntityMixin_ActivationRange,pl:mixin:APP:mixins.arclight.core.json:world.entity.LivingEntityMixin$ApotheosisCompatMixin,pl:mixin:APP:mixins.arclight.core.json:world.entity.LivingEntityMixin$ObscureApiCompat,pl:mixin:A,pl:arclight_implementer:async,pl:arclight_implementer:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.world.entity.LivingEntity.m_7292_(LivingEntityMixin.java:908) ~[server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,pl:arclight_implementer:async,pl:arclight_implementer:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.entity.LivingEntityMixin,pl:mixin:APP:citadel.mixins.json:LivingEntityMixin,pl:mixin:APP:shieldexp.mixins.json:LivingEntityMixin,pl:mixin:APP:bettercombat.mixins.json:LivingEntityAccessor,pl:mixin:APP:bettercombat.mixins.json:LivingEntityMixin,pl:mixin:APP:curios.mixins.json:MixinLivingEntity,pl:mixin:APP:crittersandcompanions.mixins.json:LivingEntityMixin,pl:mixin:APP:expandability.mixins.json:swimming.LivingEntityMixin,pl:mixin:APP:expandability-common.mixins.json:swimming.LivingEntityMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:activationrange.entity.LivingEntityMixin_ActivationRange,pl:mixin:APP:mixins.arclight.core.json:world.entity.LivingEntityMixin$ApotheosisCompatMixin,pl:mixin:APP:mixins.arclight.core.json:world.entity.LivingEntityMixin$ObscureApiCompat,pl:mixin:A,pl:arclight_implementer:async,pl:arclight_implementer:A,re:mixin,pl:accesstransformer:B}
+	at net.p3pp3rf1y.sophisticatedbackpacks.common.EntityBackpackAdditionHandler.lambda$applyPotions$5(EntityBackpackAdditionHandler.java:251) ~[sophisticatedbackpacks-1.19.2-3.20.2.1035.jar%23261!/:1.19.2-3.20.2.1035] {re:classloading}
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?] {re:mixin}
+	at net.p3pp3rf1y.sophisticatedbackpacks.common.EntityBackpackAdditionHandler.applyPotions(EntityBackpackAdditionHandler.java:249) ~[sophisticatedbackpacks-1.19.2-3.20.2.1035.jar%23261!/:1.19.2-3.20.2.1035] {re:classloading}
+	at net.p3pp3rf1y.sophisticatedbackpacks.common.EntityBackpackAdditionHandler.lambda$addBackpack$0(EntityBackpackAdditionHandler.java:124) ~[sophisticatedbackpacks-1.19.2-3.20.2.1035.jar%23261!/:1.19.2-3.20.2.1035] {re:classloading}
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?] {re:mixin}
+	at net.p3pp3rf1y.sophisticatedbackpacks.common.EntityBackpackAdditionHandler.addBackpack(EntityBackpackAdditionHandler.java:119) ~[sophisticatedbackpacks-1.19.2-3.20.2.1035.jar%23261!/:1.19.2-3.20.2.1035] {re:classloading}
+	at net.p3pp3rf1y.sophisticatedbackpacks.common.CommonEventHandler.onLivingSpecialSpawn(CommonEventHandler.java:203) ~[sophisticatedbackpacks-1.19.2-3.20.2.1035.jar%23261!/:1.19.2-3.20.2.1035] {re:classloading}
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260) ~[eventbus-6.0.3.jar%2384!/:?] {}
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:252) ~[eventbus-6.0.3.jar%2384!/:?] {}
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.3.jar%2384!/:?] {}
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.3.jar%2384!/:?] {}
+	at net.minecraftforge.event.ForgeEventFactory.doSpecialSpawn(ForgeEventFactoryMixin.java:201) ~[forge-1.19.2-43.3.8-universal.jar%23280!/:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.forge.json:ForgeEventFactoryMixin,pl:mixin:A}
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate.lambda$addEntitiesToWorld$5(StructureTemplateMixin.java:423) ~[server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.level.levelgen.structure.templatesystem.StructureTemplateMixin,pl:mixin:APP:betterdungeons.mixins.json:DungeonContextMixin,pl:mixin:A}
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?] {re:mixin}
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate.addEntitiesToWorld(StructureTemplateMixin.java:418) ~[server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.level.levelgen.structure.templatesystem.StructureTemplateMixin,pl:mixin:APP:betterdungeons.mixins.json:DungeonContextMixin,pl:mixin:A}
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate.m_230328_(StructureTemplateMixin.java:337) ~[server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.level.levelgen.structure.templatesystem.StructureTemplateMixin,pl:mixin:APP:betterdungeons.mixins.json:DungeonContextMixin,pl:mixin:A}
+	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.m_213695_(SinglePoolElement.java:127) ~[server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,re:classloading,pl:mixin:APP:waystones.mixins.json:SinglePoolElementMixin,pl:mixin:A}
+	at net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.m_226509_(PoolElementStructurePiece.java:89) ~[server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:classloading}
+	at net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.m_213694_(PoolElementStructurePiece.java:85) ~[server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:classloading}
+	at net.minecraft.world.level.levelgen.structure.StructureStart.m_226850_(StructureStart.java:89) ~[server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,re:classloading}
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_223080_(ChunkGeneratorMixin.java:429) ~[server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.level.chunk.ChunkGeneratorMixin,pl:mixin:APP:citadel.mixins.json:ChunkGeneratorMixin,pl:mixin:A}
+	at com.google.common.collect.ImmutableList.forEach(ImmutableList.java:422) ~[guava-31.0.1-jre.jar%23105!/:?] {re:mixin}
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_213609_(ChunkGeneratorMixin.java:428) ~[server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.level.chunk.ChunkGeneratorMixin,pl:mixin:APP:citadel.mixins.json:ChunkGeneratorMixin,pl:mixin:A}
+	at net.minecraft.world.level.chunk.ChunkStatus.m_223313_(ChunkStatus.java:145) ~[server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.world.level.chunk.ChunkStatus.m_223279_(ChunkStatus.java:292) ~[server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$25(ChunkMapMixin.java:621) ~[server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,xf:OptiFine:default,re:classloading,pl:accesstransformer:B,xf:OptiFine:default,pl:mixin:APP:mixins.arclight.core.json:server.level.ChunkMapMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ChunkMapMixin_Optimize,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:trackingrange.ChunkManagerMixin_TrackingRange,pl:mixin:APP:securitycraft.mixins.json:camera.ChunkMapMixin,pl:mixin:A,pl:arclight_implementer:async,pl:arclight_implementer:A}
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-5.0.28.jar%23108!/:?] {}
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMapMixin.java:619) ~[server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,xf:OptiFine:default,re:classloading,pl:accesstransformer:B,xf:OptiFine:default,pl:mixin:APP:mixins.arclight.core.json:server.level.ChunkMapMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ChunkMapMixin_Optimize,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:trackingrange.ChunkManagerMixin_TrackingRange,pl:mixin:APP:securitycraft.mixins.json:camera.ChunkMapMixin,pl:mixin:A,pl:arclight_implementer:async,pl:arclight_implementer:A}
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?] {}
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:classloading}
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:classloading}
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:classloading}
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) [server-1.19.2-20220805.130853-srg.jar%23275!/:?] {re:classloading}
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) [?:?] {}
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?] {}
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?] {}
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?] {re:computing_frames}
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?] {re:computing_frames}
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?] {}
+[04Feb2025 04:45:38.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lim0ncit0Dulce has made the advancement [Hot Stuff]
+[04Feb2025 04:46:31.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: durooo burned to death
+[04Feb2025 04:46:39.091] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: durooo issued server command: /tpa franciscum
+[04Feb2025 04:46:54.952] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: franciscum issued server command: /tpa Lim0ncit0Dulce
+[04Feb2025 04:46:55.954] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lim0ncit0Dulce issued server command: /tpaccept
+[04Feb2025 04:47:24.033] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: franciscum issued server command: /tpa Lim0ncit0Dulce
+[04Feb2025 04:47:26.190] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: durooo issued server command: /tpa alexis83
+[04Feb2025 04:47:30.533] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: durooo lost connection: Disconnected
+[04Feb2025 04:47:30.535] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of durooo
+[04Feb2025 04:47:30.536] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client durooo
+[04Feb2025 04:47:30.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: durooo left the game
+[04Feb2025 04:47:34.232] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lim0ncit0Dulce issued server command: /tpaccept
+[04Feb2025 04:47:47.683] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: franciscum issued server command: /tpa Lim0ncit0Dulce
+[04Feb2025 04:47:56.070] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lim0ncit0Dulce issued server command: /tpaccept
+[04Feb2025 04:48:03.998] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: franciscum issued server command: /tpa Lim0ncit0Dulce
+[04Feb2025 04:48:07.315] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lim0ncit0Dulce issued server command: /tpaccept
+[04Feb2025 04:48:31.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanchikoKW has made the advancement [Into Fire]
+[04Feb2025 04:48:47.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexis83 has made the advancement [Into Fire]
+[04Feb2025 04:49:11.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 04:49:11.748] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 04:49:18.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanchikoKW fell from a high place
+[04Feb2025 04:49:27.605] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanchikoKW issued server command: /tpa alexis83
+[04Feb2025 04:49:32.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexis83 has made the advancement [Stare Into Despair]
+[04Feb2025 04:49:32.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexis83 has made the advancement [The Beginning of An Adventure]
+[04Feb2025 04:49:37.152] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /tpaccept
+[04Feb2025 04:49:52.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lim0ncit0Dulce was slain by Wither Skeleton
+[04Feb2025 04:50:08.218] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lim0ncit0Dulce issued server command: /tpa franciscum
+[04Feb2025 04:50:18.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: franciscum issued server command: /tpaccept
+[04Feb2025 04:50:35.762] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanchikoKW issued server command: /tpa alexis83
+[04Feb2025 04:50:39.385] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /tpaccept
+[04Feb2025 04:51:55.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: franciscum withered away whilst fighting Wither Skeleton
+[04Feb2025 04:52:03.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lim0ncit0Dulce has made the advancement [Into Fire]
+[04Feb2025 04:52:14.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lim0ncit0Dulce has made the advancement [Spooky Scary Skeleton]
+[04Feb2025 04:52:21.203] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: franciscum issued server command: /tpa Lim0ncit0Dulce
+[04Feb2025 04:52:23.922] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lim0ncit0Dulce issued server command: /tpaccept
+[04Feb2025 04:54:11.754] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 04:54:11.766] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 04:55:27.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: franciscum has made the advancement [Diamond is Unbreakable]
+[04Feb2025 04:55:28.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lim0ncit0Dulce was slain by Wither Skeleton
+[04Feb2025 04:55:28.119] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[04Feb2025 04:55:28.119] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[04Feb2025 04:55:28.119] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[04Feb2025 04:55:28.119] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[04Feb2025 04:55:28.119] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[04Feb2025 04:55:38.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: franciscum withered away whilst fighting Wither Skeleton
+[04Feb2025 04:55:38.317] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lim0ncit0Dulce issued server command: /tpa franciscum
+[04Feb2025 04:55:52.135] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lim0ncit0Dulce issued server command: /tpa alexis83
+[04Feb2025 04:56:30.489] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lim0ncit0Dulce issued server command: /tpa alexis83
+[04Feb2025 04:56:42.616] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /tpaccept
+[04Feb2025 04:56:43.153] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lim0ncit0Dulce issued server command: /tpa alexis83
+[04Feb2025 04:56:44.507] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /tpaccept
+[04Feb2025 04:59:11.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 04:59:11.764] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 04:59:11.813] [Craft Scheduler Thread - 28/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[04Feb2025 04:59:38.334] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: franciscum lost connection: Disconnected
+[04Feb2025 04:59:38.335] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of franciscum
+[04Feb2025 04:59:38.335] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client franciscum
+[04Feb2025 04:59:38.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: franciscum left the game
+[04Feb2025 05:03:07.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lim0ncit0Dulce was burnt to a crisp whilst fighting Blaze
+[04Feb2025 05:03:15.416] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lim0ncit0Dulce issued server command: /tpa alexis83
+[04Feb2025 05:03:22.552] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /tpaccept
+[04Feb2025 05:03:46.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexis83 has made the advancement [Local Brewery]
