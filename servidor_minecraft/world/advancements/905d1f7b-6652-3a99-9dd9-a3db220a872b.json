@@ -1494,6 +1494,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-02-04 03:40:52 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_dark_oak_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2025-02-03 04:07:52 +0000"
@@ -3358,6 +3364,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-02-04 03:41:02 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-01-20 01:10:38 +0000"
@@ -4472,6 +4484,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-02-04 03:42:51 +0000"
+    },
+    "done": true
+  },
   "simplytools:recipes/simplytools/golden_hammer": {
     "criteria": {
       "criterion1": "2025-01-21 23:47:19 +0000"
@@ -4598,6 +4616,7 @@
       "minecraft:old_growth_pine_taiga": "2025-01-20 01:17:43 +0000",
       "minecraft:taiga": "2025-01-20 01:09:54 +0000",
       "minecraft:windswept_hills": "2025-02-03 17:55:51 +0000",
+      "minecraft:savanna_plateau": "2025-02-04 03:41:49 +0000",
       "minecraft:beach": "2025-01-20 01:10:32 +0000",
       "minecraft:dark_forest": "2025-01-20 01:18:57 +0000",
       "minecraft:mangrove_swamp": "2025-02-04 03:34:14 +0000",
@@ -5653,6 +5672,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-01-22 00:56:10 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-02-04 03:41:02 +0000"
     },
     "done": true
   },
