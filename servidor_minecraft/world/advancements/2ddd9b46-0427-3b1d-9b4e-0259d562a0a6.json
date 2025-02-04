@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/diving_board": {
+    "criteria": {
+      "has_wheat": "2025-02-04 06:08:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-21 03:15:04 +0000"
@@ -1077,6 +1083,12 @@
   "cfm:recipes/cfm/light_blue_grill": {
     "criteria": {
       "has_iron": "2025-02-04 04:00:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-02-04 06:08:49 +0000"
     },
     "done": true
   },
@@ -4854,6 +4866,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-01-19 23:47:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-02-04 06:08:49 +0000"
     },
     "done": true
   },

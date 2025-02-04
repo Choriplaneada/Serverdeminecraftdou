@@ -1331,6 +1331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-02-04 06:06:09 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_fishing_rod": "2025-02-03 04:17:14 +0000",
@@ -1527,6 +1533,12 @@
   "incendium:root": {
     "criteria": {
       "requirement": "2025-02-04 04:45:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-02-04 06:06:09 +0000"
     },
     "done": true
   },
@@ -2392,6 +2404,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-02-04 06:06:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-01-19 23:51:00 +0000"
@@ -2622,6 +2640,12 @@
   "simplytools:recipes/simplytools/paper_compress": {
     "criteria": {
       "has_item": "2025-01-21 22:26:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_red_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-02-04 06:06:09 +0000"
     },
     "done": true
   },
@@ -2898,6 +2922,12 @@
   "cfm:recipes/cfm/light_gray_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-02-03 04:23:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-02-04 06:06:09 +0000"
     },
     "done": true
   },
@@ -3906,6 +3936,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_spruce_blinds": {
+    "criteria": {
+      "has_log": "2025-02-04 06:09:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-01-20 04:55:06 +0000"
@@ -4038,6 +4074,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-01-19 23:40:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-02-04 06:06:09 +0000"
     },
     "done": true
   },
@@ -5114,6 +5156,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_red_dye": "2025-02-04 06:06:09 +0000"
+    },
+    "done": true
+  },
   "infernalexp:recipes/combat/blindsight_tongue_whip": {
     "criteria": {
       "has_molten_gold_cluster": "2025-01-19 23:27:37 +0000"
@@ -5307,6 +5355,12 @@
   "cfm:recipes/cfm/gray_cooler": {
     "criteria": {
       "has_chest": "2025-02-03 05:11:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-02-04 06:09:56 +0000"
     },
     "done": true
   },
@@ -5641,6 +5695,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dye_red_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-02-04 06:06:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-20 02:10:53 +0000"
@@ -5710,6 +5770,12 @@
   "infernalexp:recipes/redstone/soul_slate_pressure_plate": {
     "criteria": {
       "has_soul_slate": "2025-01-19 23:27:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-02-04 06:09:56 +0000"
     },
     "done": true
   },
