@@ -155,15 +155,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass_pane_from_glass": {
-    "criteria": {
-      "has_glass": "2025-02-03 05:38:16 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-03 05:12:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-02-03 05:38:16 +0000"
     },
     "done": true
   },
@@ -311,15 +311,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_lime_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-02-03 05:38:16 +0000"
-    },
-    "done": true
-  },
   "aquaculture:recipes/aquaculture/worm_farm": {
     "criteria": {
       "has_items": "2025-02-03 04:17:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-03 05:38:16 +0000"
     },
     "done": true
   },
@@ -551,15 +551,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass_pane_from_glass": {
-    "criteria": {
-      "has_glass": "2025-02-03 05:38:16 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/void_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-03 05:12:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-02-03 05:38:16 +0000"
     },
     "done": true
   },
@@ -610,12 +610,6 @@
       "has_bucket": "2025-02-03 04:23:31 +0000"
     },
     "done": true
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 06:08:46 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -737,6 +731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-04 03:22:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-21 23:13:11 +0000"
@@ -752,6 +752,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-20 03:57:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-04 03:22:06 +0000"
     },
     "done": true
   },
@@ -862,12 +868,6 @@
       "has_chiseled_quartz_block": "2025-01-20 04:29:36 +0000"
     },
     "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 06:08:46 +0000"
-    },
-    "done": false
   },
   "sereneseasons:recipes/tools/calendar": {
     "criteria": {
@@ -1151,12 +1151,6 @@
     },
     "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 06:08:46 +0000"
-    },
-    "done": false
-  },
   "cfm:recipes/cfm/stripped_birch_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-02-03 04:23:31 +0000"
@@ -1404,15 +1398,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/birch_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2025-02-03 05:11:54 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/stripped_spruce_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-02-03 04:23:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-02-03 05:11:54 +0000"
     },
     "done": true
   },
@@ -1744,15 +1738,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/light_gray_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2025-02-03 05:11:54 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/stripped_oak_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-02-03 04:17:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_gray_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-02-03 05:11:54 +0000"
     },
     "done": true
   },
@@ -1804,15 +1798,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_bookshelf": {
-    "criteria": {
-      "has_book": "2025-02-03 06:03:29 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-02-03 05:38:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-03 06:03:29 +0000"
     },
     "done": true
   },
@@ -1834,15 +1828,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_birch_chair": {
-    "criteria": {
-      "has_planks": "2025-02-03 05:50:20 +0000"
-    },
-    "done": true
-  },
   "aquaculture:recipes/tools/diamond_fillet_knife": {
     "criteria": {
       "has_items": "2025-02-03 04:33:32 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_chair": {
+    "criteria": {
+      "has_planks": "2025-02-03 05:50:20 +0000"
     },
     "done": true
   },
@@ -2068,15 +2062,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_brown_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-02-03 05:38:16 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/sonic_security_system": {
     "criteria": {
       "has_stick": "2025-02-03 04:17:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_brown_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-02-03 05:38:16 +0000"
     },
     "done": true
   },
@@ -2170,6 +2164,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-04 03:22:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-19 23:31:10 +0000"
@@ -2197,6 +2197,12 @@
   "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2025-01-20 01:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-04 03:22:06 +0000"
     },
     "done": true
   },
@@ -2241,12 +2247,6 @@
       "has_lapis_block": "2025-01-20 02:09:44 +0000"
     },
     "done": true
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 06:08:46 +0000"
-    },
-    "done": false
   },
   "minecraft:story/upgrade_tools": {
     "criteria": {
@@ -2318,12 +2318,6 @@
       "has_stone_bricks": "2025-01-21 05:45:16 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 06:08:46 +0000"
-    },
-    "done": false
   },
   "cfm:recipes/cfm/oak_park_bench": {
     "criteria": {
@@ -2824,15 +2818,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-02-03 05:38:16 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/gray_grill": {
     "criteria": {
       "has_iron": "2025-02-03 04:34:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-02-03 05:38:16 +0000"
     },
     "done": true
   },
@@ -2895,12 +2889,6 @@
       "has_white_wool": "2025-01-20 04:43:36 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 06:08:46 +0000"
-    },
-    "done": false
   },
   "cfm:recipes/cfm/cyan_grill": {
     "criteria": {
@@ -3648,15 +3636,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_mangrove_kitchen_sink_dark": {
-    "criteria": {
-      "has_bucket": "2025-02-03 04:23:31 +0000"
-    },
-    "done": true
-  },
   "aquaculture:recipes/decorations/acacia_fish_mount": {
     "criteria": {
       "has_items": "2025-02-03 04:17:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_mangrove_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-02-03 04:23:31 +0000"
     },
     "done": true
   },
@@ -4360,12 +4348,6 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 06:08:46 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-20 04:57:36 +0000"
@@ -4453,12 +4435,6 @@
       "has_iron_ingot": "2025-01-20 00:09:22 +0000"
     },
     "done": true
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 06:08:46 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
@@ -4574,15 +4550,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_acacia_mail_box": {
-    "criteria": {
-      "has_chest": "2025-02-03 05:11:54 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/post_box": {
     "criteria": {
       "has_iron": "2025-02-03 04:34:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_mail_box": {
+    "criteria": {
+      "has_chest": "2025-02-03 05:11:54 +0000"
     },
     "done": true
   },
@@ -4640,15 +4616,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/black_cooler": {
-    "criteria": {
-      "has_chest": "2025-02-03 05:11:54 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/spruce_crate": {
     "criteria": {
       "has_log": "2025-02-03 04:17:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/black_cooler": {
+    "criteria": {
+      "has_chest": "2025-02-03 05:11:54 +0000"
     },
     "done": true
   },
@@ -4699,12 +4675,6 @@
       "has_wheat": "2025-01-20 01:33:16 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 06:08:46 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
@@ -5165,12 +5135,6 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 06:08:46 +0000"
-    },
-    "done": false
-  },
   "cfm:recipes/cfm/stripped_warped_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-02-03 04:23:31 +0000"
@@ -5420,6 +5384,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "potato": "2025-02-04 03:22:32 +0000",
       "carrot": "2025-01-20 01:20:20 +0000"
     },
     "done": false
@@ -5538,15 +5503,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/keycard_lv4": {
-    "criteria": {
-      "has_iron": "2025-02-03 04:34:25 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/sc_manual": {
     "criteria": {
       "has_wood": "2025-02-03 04:17:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv4": {
+    "criteria": {
+      "has_iron": "2025-02-03 04:34:25 +0000"
     },
     "done": true
   },
@@ -5898,12 +5863,6 @@
     },
     "done": true
   },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 06:08:46 +0000"
-    },
-    "done": false
-  },
   "cfm:recipes/cfm/pink_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-02-03 04:23:31 +0000"
@@ -5933,12 +5892,6 @@
       "has_iron_ingot": "2025-01-20 00:09:22 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 06:08:46 +0000"
-    },
-    "done": false
   },
   "aquaculture:recipes/aquaculture/iron_hook": {
     "criteria": {
