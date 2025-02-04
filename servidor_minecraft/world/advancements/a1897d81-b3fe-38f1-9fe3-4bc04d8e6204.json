@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-02-04 06:44:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-02-04 04:45:07 +0000"
@@ -643,6 +649,18 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-02-04 06:01:02 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-02-04 06:40:40 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_plains": "2025-02-04 06:40:23 +0000"
     },
     "done": true
   },
@@ -1280,6 +1298,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-04 06:40:35 +0000"
+    },
+    "done": true
+  },
   "simplytools:recipes/simplytools/netherite_excavator": {
     "criteria": {
       "criterion1": "2025-01-21 04:01:29 +0000"
@@ -1355,6 +1379,12 @@
   "cfm:recipes/cfm/spruce_crate": {
     "criteria": {
       "has_planks": "2025-02-04 06:07:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-02-04 06:44:01 +0000"
     },
     "done": true
   },
@@ -2223,6 +2253,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-04 06:40:35 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/sc_manual": {
     "criteria": {
       "has_wood": "2025-02-04 04:13:59 +0000"
@@ -2274,6 +2310,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-01-21 03:30:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-02-04 06:40:35 +0000"
     },
     "done": true
   },
@@ -2530,6 +2572,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-02-04 06:40:35 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/iron_hook": {
     "criteria": {
       "has_items": "2025-02-04 04:05:39 +0000"
@@ -2599,6 +2647,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-04 06:07:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-02-04 06:40:35 +0000"
     },
     "done": true
   },
