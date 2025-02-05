@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-02-05 05:40:08 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/cfm/dark_oak_desk": {
     "criteria": {
       "has_log": "2025-02-05 05:26:20 +0000"
@@ -702,6 +708,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-02-05 05:46:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-01-20 02:52:11 +0000"
@@ -934,6 +946,7 @@
     "criteria": {
       "minecraft:pillager": "2025-02-05 05:24:16 +0000",
       "minecraft:skeleton": "2025-01-20 02:43:49 +0000",
+      "minecraft:guardian": "2025-02-05 05:36:03 +0000",
       "minecraft:zombie": "2025-01-20 02:25:00 +0000"
     },
     "done": false
@@ -1079,6 +1092,12 @@
   "simplytools:recipes/simplytools/diamond_hammer_head": {
     "criteria": {
       "criterion0": "2025-01-22 01:15:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-05 05:46:18 +0000"
     },
     "done": true
   },
@@ -1418,6 +1437,12 @@
     },
     "done": true
   },
+  "knight_quest:kq_quest_find_great_essence": {
+    "criteria": {
+      "kq_quest_find_great_essence": "2025-02-05 05:46:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_table": {
     "criteria": {
       "has_log": "2025-02-05 05:26:20 +0000"
@@ -1682,6 +1707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-05 05:36:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-21 02:48:01 +0000"
@@ -1782,6 +1813,12 @@
   "securitycraft:recipes/securitycraft/limited_use_keycard": {
     "criteria": {
       "has_iron": "2025-02-05 02:39:29 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-02-05 05:40:14 +0000"
     },
     "done": true
   },
@@ -1993,6 +2030,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-02-05 05:36:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_gray_cooler": {
     "criteria": {
       "has_chest": "2025-02-05 04:53:25 +0000"
@@ -2089,6 +2132,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-02-05 05:47:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-01-21 02:45:10 +0000"
@@ -2164,6 +2213,12 @@
   "aquaculture:recipes/decorations/birch_fish_mount": {
     "criteria": {
       "has_items": "2025-02-05 02:30:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-05 05:36:11 +0000"
     },
     "done": true
   },
@@ -2464,6 +2519,12 @@
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2025-02-05 02:39:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-05 05:36:11 +0000"
     },
     "done": true
   },
@@ -3808,6 +3869,12 @@
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-02-05 05:40:08 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "tomato_seeds": "2025-01-21 03:02:39 +0000"
@@ -4412,6 +4479,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2025-01-20 02:24:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-05 05:36:44 +0000"
     },
     "done": true
   },
