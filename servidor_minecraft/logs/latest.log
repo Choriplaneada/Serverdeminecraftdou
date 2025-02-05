@@ -2935,3 +2935,23 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
 	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[05Feb2025 04:42:23.038] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Antoo is 926f7f75-e294-302f-bf87-3723814d111d
+[05Feb2025 04:42:33.066] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@51041757
+[05Feb2025 04:42:33.076] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antoo[/127.143.56.8:44201] logged in with entity id 14143 at (413.1041005466923, 63.0, -705.5378966841246)
+[05Feb2025 04:42:33.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antoo joined the game
+[05Feb2025 04:42:35.084] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Antoo (18)
+[05Feb2025 04:42:35.084] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Antoo
+[05Feb2025 04:42:38.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antoo was blown up by Creeper
+[05Feb2025 04:42:46.321] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 926f7f75-e294-302f-bf87-3723814d111d
+[05Feb2025 04:42:47.327] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 926f7f75-e294-302f-bf87-3723814d111d
+[05Feb2025 04:42:47.327] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antoo (926f7f75-e294-302f-bf87-3723814d111d) successfully connected to voice chat
+[05Feb2025 04:43:30.006] [Craft Scheduler Thread - 20/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
