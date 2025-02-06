@@ -379,7 +379,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_zombie_dungeon": "2025-02-06 04:58:11 +0000"
+      "in_better_zombie_dungeon": "2025-02-06 04:58:11 +0000",
+      "in_better_spider_dungeon": "2025-02-06 05:03:33 +0000"
     },
     "done": false
   },
@@ -771,6 +772,12 @@
   "cfm:recipes/cfm/dark_oak_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2025-02-06 04:12:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-02-06 05:13:05 +0000"
     },
     "done": true
   },
@@ -1534,6 +1541,12 @@
   "cfm:recipes/cfm/spruce_coffee_table": {
     "criteria": {
       "has_planks": "2025-02-06 02:47:16 +0000"
+    },
+    "done": true
+  },
+  "knight_quest:kq_quest_find_great_essence": {
+    "criteria": {
+      "kq_quest_find_great_essence": "2025-02-06 05:22:03 +0000"
     },
     "done": true
   },
@@ -2818,7 +2831,8 @@
       "apple": "2025-01-20 04:40:30 +0000",
       "bread": "2025-01-20 01:32:32 +0000",
       "glow_berries": "2025-01-20 02:04:40 +0000",
-      "beetroot": "2025-01-20 02:21:54 +0000"
+      "beetroot": "2025-01-20 02:21:54 +0000",
+      "carrot": "2025-02-06 05:02:16 +0000"
     },
     "done": false
   },
@@ -3035,6 +3049,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-01-20 01:32:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/white_sofa": {
+    "criteria": {
+      "has_wool": "2025-02-06 05:15:22 +0000"
     },
     "done": true
   },
@@ -3551,6 +3571,12 @@
       "has_hoe": "2025-02-06 02:06:36 +0000",
       "has_boots": "2025-02-06 02:06:36 +0000",
       "has_pickaxe": "2025-02-06 02:06:36 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-02-06 05:03:33 +0000"
     },
     "done": true
   },
