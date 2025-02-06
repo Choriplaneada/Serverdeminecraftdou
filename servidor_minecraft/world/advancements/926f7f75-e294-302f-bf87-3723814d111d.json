@@ -523,7 +523,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-06 07:38:47 +0000"
+      "log_spam_fixer": "2025-02-06 07:58:47 +0000"
     },
     "done": false
   },
@@ -781,7 +781,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-06 07:38:47 +0000"
+      "log_spam_fixer": "2025-02-06 07:58:47 +0000"
     },
     "done": false
   },
@@ -1021,7 +1021,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-02-06 07:38:47 +0000"
+      "log_spam_fixer": "2025-02-06 07:58:47 +0000"
     },
     "done": false
   },
@@ -2082,7 +2082,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-06 07:38:47 +0000"
+      "log_spam_fixer": "2025-02-06 07:58:47 +0000"
     },
     "done": false
   },
@@ -2153,7 +2153,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-02-06 07:38:47 +0000"
+      "log_spam_fixer": "2025-02-06 07:58:47 +0000"
     },
     "done": false
   },
@@ -2688,7 +2688,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-02-06 07:38:47 +0000"
+      "log_spam_fixer": "2025-02-06 07:58:47 +0000"
     },
     "done": false
   },
@@ -4095,7 +4095,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-06 07:38:47 +0000"
+      "log_spam_fixer": "2025-02-06 07:58:47 +0000"
     },
     "done": false
   },
@@ -4182,7 +4182,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-06 07:38:47 +0000"
+      "log_spam_fixer": "2025-02-06 07:58:47 +0000"
     },
     "done": false
   },
@@ -4243,6 +4243,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-02-06 02:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-02-06 07:51:10 +0000"
     },
     "done": true
   },
@@ -4440,7 +4446,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-02-06 07:38:47 +0000"
+      "log_spam_fixer": "2025-02-06 07:58:47 +0000"
     },
     "done": false
   },
@@ -4901,7 +4907,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-06 07:38:47 +0000"
+      "log_spam_fixer": "2025-02-06 07:58:47 +0000"
     },
     "done": false
   },
@@ -5588,7 +5594,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-06 07:38:47 +0000"
+      "log_spam_fixer": "2025-02-06 07:58:47 +0000"
     },
     "done": false
   },
@@ -5618,7 +5624,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-02-06 07:38:47 +0000"
+      "log_spam_fixer": "2025-02-06 07:58:47 +0000"
     },
     "done": false
   },
