@@ -2824,3 +2824,25 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [06Feb2025 18:46:24.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antoo tried to swim in lava
 [06Feb2025 18:48:32.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antoo tried to swim in lava
 [06Feb2025 18:49:12.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antoo tried to swim in lava
+[06Feb2025 18:50:00.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antoo tried to swim in lava
+[06Feb2025 18:50:36.507] [Craft Scheduler Thread - 6/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[06Feb2025 18:50:46.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antoo tried to swim in lava
+[06Feb2025 18:52:10.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antoo tried to swim in lava to escape Melty Monster
+[06Feb2025 18:53:10.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antoo tried to swim in lava
+[06Feb2025 18:53:36.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antoo tried to swim in lava to escape Melty Monster
+[06Feb2025 18:54:19.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antoo tried to swim in lava to escape Melty Monster
+[06Feb2025 18:56:14.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antoo tried to swim in lava to escape Melty Monster
+[06Feb2025 18:56:45.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antoo was fireballed by Melty Monster
+[06Feb2025 18:58:07.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antoo tried to swim in lava to escape Melty Monster
+[06Feb2025 18:58:48.249] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antoo lost connection: Disconnected
+[06Feb2025 18:58:48.253] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Antoo
+[06Feb2025 18:58:48.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antoo left the game
