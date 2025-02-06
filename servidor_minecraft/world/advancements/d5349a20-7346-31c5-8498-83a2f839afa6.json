@@ -2518,6 +2518,13 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2025-02-06 02:36:03 +0000",
+      "minecraft:chicken": "2025-02-06 02:36:48 +0000"
+    },
+    "done": false
+  },
   "aquaculture:recipes/misc/neptunium_ingot_from_neptunium_block": {
     "criteria": {
       "has_items": "2025-02-02 18:51:23 +0000"
@@ -7943,6 +7950,12 @@
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2025-02-03 05:12:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-02-06 02:36:03 +0000"
     },
     "done": true
   },
