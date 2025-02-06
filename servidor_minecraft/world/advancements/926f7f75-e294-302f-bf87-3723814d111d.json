@@ -798,6 +798,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-02-06 02:44:48 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_dark_oak_table": {
     "criteria": {
       "has_planks": "2025-02-05 05:26:20 +0000"
@@ -1260,6 +1266,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-01-20 03:48:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-02-06 02:44:48 +0000"
     },
     "done": true
   },
@@ -2798,6 +2810,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-02-06 02:44:55 +0000",
       "cooked_beef": "2025-01-20 02:33:58 +0000",
       "baked_potato": "2025-01-21 02:42:46 +0000",
       "bread": "2025-01-20 03:41:06 +0000",
@@ -4028,6 +4041,12 @@
   "cfm:recipes/cfm/stripped_spruce_chair": {
     "criteria": {
       "has_log": "2025-02-05 02:30:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-02-06 02:44:48 +0000"
     },
     "done": true
   },
