@@ -521,12 +521,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-06 08:08:47 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-06 04:58:49 +0000"
@@ -575,15 +569,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_bricks": {
-    "criteria": {
-      "has_polished_deepslate": "2025-02-06 04:59:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-06 04:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-06 04:59:08 +0000"
     },
     "done": true
   },
@@ -778,12 +772,6 @@
       "has_quartz_block": "2025-02-06 04:17:50 +0000"
     },
     "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-06 08:08:47 +0000"
-    },
-    "done": false
   },
   "sereneseasons:recipes/tools/calendar": {
     "criteria": {
@@ -1018,12 +1006,6 @@
       "has_gold_ingot": "2025-01-20 03:49:14 +0000"
     },
     "done": true
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-06 08:08:47 +0000"
-    },
-    "done": false
   },
   "cfm:recipes/cfm/stripped_birch_kitchen_sink_dark": {
     "criteria": {
@@ -1558,6 +1540,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/rock_path": {
+    "criteria": {
+      "has_andesite": "2025-02-06 08:18:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-01-22 01:15:15 +0000"
@@ -1912,15 +1900,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-02-06 04:59:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-06 04:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-06 04:59:08 +0000"
     },
     "done": true
   },
@@ -2032,6 +2020,12 @@
     },
     "done": true
   },
+  "mca:friend": {
+    "criteria": {
+      "baby": "2025-02-06 08:22:28 +0000"
+    },
+    "done": true
+  },
   "simplytools:recipes/simplytools/wooden_excavator_head": {
     "criteria": {
       "criterion0": "2025-01-21 02:33:04 +0000"
@@ -2079,12 +2073,6 @@
       "has_gold_nugget": "2025-01-21 03:02:39 +0000"
     },
     "done": true
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-06 08:08:47 +0000"
-    },
-    "done": false
   },
   "minecraft:story/upgrade_tools": {
     "criteria": {
@@ -2150,12 +2138,6 @@
       "has_stone_bricks": "2025-02-06 03:47:56 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-06 08:08:47 +0000"
-    },
-    "done": false
   },
   "cfm:recipes/cfm/oak_park_bench": {
     "criteria": {
@@ -2686,12 +2668,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-06 08:08:47 +0000"
-    },
-    "done": false
-  },
   "cfm:recipes/cfm/cyan_grill": {
     "criteria": {
       "has_iron": "2025-02-05 02:39:29 +0000"
@@ -2794,15 +2770,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/black_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-02-06 06:04:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2025-02-06 02:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-06 06:04:13 +0000"
     },
     "done": true
   },
@@ -4093,12 +4069,6 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-06 08:08:47 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-06 04:58:49 +0000"
@@ -4179,12 +4149,6 @@
       "has_iron_ingot": "2025-01-21 02:45:10 +0000"
     },
     "done": true
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-06 08:08:47 +0000"
-    },
-    "done": false
   },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
@@ -4443,12 +4407,6 @@
       "has_wheat": "2025-01-20 03:12:05 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-06 08:08:47 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
@@ -4905,12 +4863,6 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-06 08:08:47 +0000"
-    },
-    "done": false
-  },
   "aquaculture:recipes/tools/stone_fillet_knife": {
     "criteria": {
       "has_items": "2025-02-05 02:30:17 +0000"
@@ -5086,15 +5038,15 @@
     },
     "done": true
   },
-  "betterdungeons:spider_dungeon": {
-    "criteria": {
-      "in_better_spider_dungeon": "2025-02-06 04:27:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-02-06 02:42:39 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-02-06 04:27:42 +0000"
     },
     "done": true
   },
@@ -5400,15 +5352,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
-    "criteria": {
-      "has_polished_deepslate": "2025-02-06 04:59:08 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/laser_block": {
     "criteria": {
       "has_stone": "2025-02-06 02:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-06 04:59:08 +0000"
     },
     "done": true
   },
@@ -5592,12 +5544,6 @@
     },
     "done": true
   },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-06 08:08:47 +0000"
-    },
-    "done": false
-  },
   "cfm:recipes/cfm/pink_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-02-05 02:39:17 +0000"
@@ -5621,12 +5567,6 @@
       "has_items": "2025-02-05 02:30:17 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-06 08:08:47 +0000"
-    },
-    "done": false
   },
   "farmersdelight:recipes/farmersdelight/golden_knife": {
     "criteria": {
