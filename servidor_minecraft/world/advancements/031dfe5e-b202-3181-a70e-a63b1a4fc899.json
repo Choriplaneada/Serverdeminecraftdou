@@ -377,6 +377,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-02-06 04:58:11 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/cfm/dark_oak_desk": {
     "criteria": {
       "has_log": "2025-02-06 02:06:36 +0000"
@@ -3881,6 +3887,12 @@
   "cfm:recipes/cfm/spatula": {
     "criteria": {
       "has_iron": "2025-02-06 02:06:36 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-02-06 04:58:11 +0000"
     },
     "done": true
   },

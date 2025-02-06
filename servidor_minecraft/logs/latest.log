@@ -3452,3 +3452,20 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [06Feb2025 04:49:21.203] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PanchikoKW (905d1f7b-6652-3a99-9dd9-a3db220a872b) successfully connected to voice chat
 [06Feb2025 04:49:31.007] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
 [06Feb2025 04:49:31.008] [Async Chat Thread - #24/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antoo> voy a tu casa
+[06Feb2025 04:49:48.257] [Netty Epoll Server IO #1/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[06Feb2025 04:49:48.259] [Async Chat Thread - #24/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> ¿Alguna quería hormigón negro?
+[06Feb2025 04:50:06.746] [Netty Epoll Server IO #5/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[06Feb2025 04:50:06.752] [Async Chat Thread - #24/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignaciiaa> nono ya tengo algo similiar jiji
+[06Feb2025 04:50:12.632] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[06Feb2025 04:50:12.633] [Async Chat Thread - #24/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antoo> noop
+[06Feb2025 04:50:15.761] [Netty Epoll Server IO #1/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[06Feb2025 04:50:15.762] [Async Chat Thread - #24/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> Weno
+[06Feb2025 04:50:23.401] [Netty Epoll Server IO #1/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[06Feb2025 04:50:23.402] [Async Chat Thread - #24/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> Si alguna quiere que me avise :p
+[06Feb2025 04:57:57.380] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignaciiaa issued server command: /tpa antoo}
+[06Feb2025 04:58:01.664] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignaciiaa issued server command: /tpa antoo
+[06Feb2025 04:58:10.413] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antoo issued server command: /tpaccept
+[06Feb2025 04:58:11.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignaciiaa has made the advancement [When in Rome]
+[06Feb2025 04:58:33.058] [Netty Epoll Server IO #5/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[06Feb2025 04:58:33.059] [Async Chat Thread - #25/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignaciiaa> deja busco audifonos
+[06Feb2025 04:59:32.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antoo has made the advancement [Take Aim]
