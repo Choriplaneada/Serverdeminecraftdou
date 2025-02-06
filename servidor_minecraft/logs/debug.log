@@ -14758,3 +14758,17 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
 [06Feb2025 22:10:38.571] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Feb2025 22:10:38.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Feb2025 22:15:38.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Feb2025 22:15:38.584] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Feb2025 22:20:38.572] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Feb2025 22:20:38.583] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Feb2025 22:20:38.626] [Craft Scheduler Thread - 32/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
