@@ -2590,6 +2590,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "interact": "2025-02-06 02:30:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_gray_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-02-03 04:37:21 +0000"
@@ -4869,6 +4875,7 @@
       "minecraft:magma_cube": "2025-01-20 04:27:11 +0000",
       "minecraft:spider": "2025-01-20 00:52:15 +0000",
       "minecraft:creeper": "2025-01-20 03:55:38 +0000",
+      "minecraft:slime": "2025-02-06 02:13:14 +0000",
       "minecraft:phantom": "2025-01-22 00:40:20 +0000",
       "minecraft:witch": "2025-01-20 02:00:27 +0000",
       "minecraft:wither_skeleton": "2025-02-04 04:48:17 +0000",

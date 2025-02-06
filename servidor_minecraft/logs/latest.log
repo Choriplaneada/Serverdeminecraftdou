@@ -2647,3 +2647,254 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [06Feb2025 01:57:14.870] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7486e4f3
 [06Feb2025 01:57:14.881] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PanchikoKW[/127.61.240.200:49039] logged in with entity id 1437 at (620.1054962632752, 154.0, -728.8295675948308)
 [06Feb2025 01:57:14.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanchikoKW joined the game
+[06Feb2025 01:57:16.485] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PanchikoKW (18)
+[06Feb2025 01:57:16.486] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PanchikoKW
+[06Feb2025 01:57:20.721] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[06Feb2025 01:57:21.724] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[06Feb2025 01:57:21.724] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PanchikoKW (905d1f7b-6652-3a99-9dd9-a3db220a872b) successfully connected to voice chat
+[06Feb2025 01:58:15.923] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anto issued server command: /tpa alexis83
+[06Feb2025 01:58:18.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anto has made the advancement [Alex's Mobs]
+[06Feb2025 01:58:21.986] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /tpaccept
+[06Feb2025 01:58:46.545] [Netty Epoll Server IO #3/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[06Feb2025 01:58:46.552] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> Zzz
+[06Feb2025 01:59:50.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anto has made the advancement [Stone Age]
+[06Feb2025 02:00:02.665] [Netty Epoll Server IO #3/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[06Feb2025 02:00:02.666] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> Che ale
+[06Feb2025 02:00:05.982] [Netty Epoll Server IO #5/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[06Feb2025 02:00:05.983] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexis83> si?
+[06Feb2025 02:00:20.411] [Netty Epoll Server IO #3/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[06Feb2025 02:00:20.412] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> Me parece que hubo un rollback
+[06Feb2025 02:00:28.106] [Netty Epoll Server IO #3/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[06Feb2025 02:00:28.107] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> Yo tenia una mochila llena de diamantes
+[06Feb2025 02:00:32.897] [Netty Epoll Server IO #5/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[06Feb2025 02:00:32.899] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexis83> mentira
+[06Feb2025 02:00:33.596] [Netty Epoll Server IO #3/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[06Feb2025 02:00:33.601] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> Dewr
+[06Feb2025 02:00:48.475] [Netty Epoll Server IO #3/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[06Feb2025 02:00:48.475] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> ¿Tan para ds?
+[06Feb2025 02:00:53.918] [Netty Epoll Server IO #5/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[06Feb2025 02:00:53.919] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexis83> vamo
+[06Feb2025 02:01:30.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anto fell from a high place
+[06Feb2025 02:01:57.810] [Netty Epoll Server IO #1/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[06Feb2025 02:01:57.811] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anto> Ya voyy
+[06Feb2025 02:01:59.201] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anto lost connection: Disconnected
+[06Feb2025 02:01:59.203] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anto
+[06Feb2025 02:01:59.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anto left the game
+[06Feb2025 02:03:39.334] [Craft Scheduler Thread - 6/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: java.io.IOException: Base resource not found: aft$2.class
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.Patcher.applyPatch(Patcher.java:146)
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourcePatched(OptiFineTransformer.java:396)
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStreamPatched(OptiFineTransformer.java:368)
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStream(OptiFineTransformer.java:291)
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResource(OptiFineTransformer.java:260)
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:171)
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:1)
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformerHolder.transform(TransformerHolder.java:41)
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.performVote(ClassTransformer.java:179)
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:98)
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ChunkMap.m_183726_(ChunkMapMixin.java:305)
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646)
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614)
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:653)
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62)
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157)
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_6367_(ServerChunkCache_MainThreadExecutorMixin.java:535)
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131)
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_7245_(ServerChunkCache_MainThreadExecutorMixin.java:629)
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ServerChunkCache.m_8466_(ServerChunkCacheMixin.java:267)
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:751)
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:740)
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116)
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:725)
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2131)
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:244)
+[06Feb2025 02:05:06.570] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[06Feb2025 02:05:43.432] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Ignaciiaa is 031dfe5e-b202-3181-a70e-a63b1a4fc899
+[06Feb2025 02:06:13.454] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@183d74e9[id=031dfe5e-b202-3181-a70e-a63b1a4fc899,name=Ignaciiaa,properties={},legacy=false] (/127.143.56.8:37143): Took too long to log in
+[06Feb2025 02:06:13.454] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@183d74e9[id=031dfe5e-b202-3181-a70e-a63b1a4fc899,name=Ignaciiaa,properties={},legacy=false] (/127.143.56.8:37143) lost connection: Took too long to log in
+[06Feb2025 02:06:13.509] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Feb2025 02:06:22.963] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Ignaciiaa is 031dfe5e-b202-3181-a70e-a63b1a4fc899
+[06Feb2025 02:06:36.506] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@8b07fe3
+[06Feb2025 02:06:36.512] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ignaciiaa[/127.143.56.8:57567] logged in with entity id 4058 at (-289.6179680058267, 71.0, 196.1558657623738)
+[06Feb2025 02:06:36.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignaciiaa joined the game
+[06Feb2025 02:07:01.305] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ignaciiaa (18)
+[06Feb2025 02:07:01.305] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ignaciiaa
+[06Feb2025 02:07:08.028] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 031dfe5e-b202-3181-a70e-a63b1a4fc899
+[06Feb2025 02:07:09.066] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 031dfe5e-b202-3181-a70e-a63b1a4fc899
+[06Feb2025 02:07:09.066] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ignaciiaa (031dfe5e-b202-3181-a70e-a63b1a4fc899) successfully connected to voice chat
+[06Feb2025 02:09:26.761] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Anto is 0799939e-6142-3a43-b3a9-0b1f961903c5
+[06Feb2025 02:09:27.007] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignaciiaa issued server command: /tpa alexis83
+[06Feb2025 02:09:33.653] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@50157dfe
+[06Feb2025 02:09:33.658] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anto[/127.143.56.8:48733] logged in with entity id 5875 at (19.55787328458363, 68.0, 20.620562802214607)
+[06Feb2025 02:09:33.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anto joined the game
+[06Feb2025 02:09:35.067] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anto (18)
+[06Feb2025 02:09:35.067] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anto
+[06Feb2025 02:09:46.133] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /tpaccept
+[06Feb2025 02:09:48.770] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0799939e-6142-3a43-b3a9-0b1f961903c5
+[06Feb2025 02:09:49.773] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0799939e-6142-3a43-b3a9-0b1f961903c5
+[06Feb2025 02:09:49.773] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anto (0799939e-6142-3a43-b3a9-0b1f961903c5) successfully connected to voice chat
+[06Feb2025 02:10:03.401] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignaciiaa lost connection: Disconnected
+[06Feb2025 02:10:03.401] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ignaciiaa
+[06Feb2025 02:10:03.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignaciiaa left the game
+[06Feb2025 02:10:24.964] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Ignaciiaa is 031dfe5e-b202-3181-a70e-a63b1a4fc899
+[06Feb2025 02:10:27.651] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anto lost connection: Disconnected
+[06Feb2025 02:10:27.651] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anto
+[06Feb2025 02:10:27.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anto left the game
+[06Feb2025 02:10:33.955] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@71e17728
+[06Feb2025 02:10:33.961] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ignaciiaa[/127.143.56.8:53217] logged in with entity id 6517 at (697.9988051429215, 100.0, -748.3909232831054)
+[06Feb2025 02:10:33.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignaciiaa joined the game
+[06Feb2025 02:10:35.051] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ignaciiaa (18)
+[06Feb2025 02:10:35.052] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ignaciiaa
+[06Feb2025 02:10:46.955] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 031dfe5e-b202-3181-a70e-a63b1a4fc899
+[06Feb2025 02:10:47.960] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 031dfe5e-b202-3181-a70e-a63b1a4fc899
+[06Feb2025 02:10:47.960] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ignaciiaa (031dfe5e-b202-3181-a70e-a63b1a4fc899) successfully connected to voice chat
+[06Feb2025 02:11:10.517] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /tpa PanchikoKW
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: java.io.IOException: Base resource not found: cay.class
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.Patcher.applyPatch(Patcher.java:146)
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourcePatched(OptiFineTransformer.java:396)
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStreamPatched(OptiFineTransformer.java:368)
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStream(OptiFineTransformer.java:291)
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResource(OptiFineTransformer.java:260)
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:171)
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:1)
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformerHolder.transform(TransformerHolder.java:41)
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.performVote(ClassTransformer.java:179)
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:98)
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.item.BucketItem.m_7203_(BucketItemMixin.java:77)
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.item.ItemStack.m_41682_(ItemStackMixin.java:266)
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameModeMixin.java:286)
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerPlayNetHandlerMixin.java:2712)
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:29)
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:7)
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.network.protocol.PacketUtils.md4d4687$lambda$ensureRunningOnSameThread$0$0(PacketThreadUtilMixin.java:537)
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.TickTask.run(TickTask.java:18)
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157)
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:763)
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:157)
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131)
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:746)
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:740)
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116)
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:725)
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2131)
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:244)
+[06Feb2025 02:13:58.104] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[06Feb2025 02:14:08.290] [Netty Epoll Server IO #5/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[06Feb2025 02:14:08.291] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexis83> a
+[06Feb2025 02:14:33.898] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Antoo is 926f7f75-e294-302f-bf87-3723814d111d
+[06Feb2025 02:14:44.659] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@236fbcb8
+[06Feb2025 02:14:44.666] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antoo[/127.143.56.8:55849] logged in with entity id 8266 at (-498.69999998807907, 35.0, -1331.300000011921)
+[06Feb2025 02:14:44.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antoo joined the game
+[06Feb2025 02:14:46.645] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Antoo (18)
+[06Feb2025 02:14:46.645] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Antoo
+[06Feb2025 02:14:52.859] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 926f7f75-e294-302f-bf87-3723814d111d
+[06Feb2025 02:14:53.885] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 926f7f75-e294-302f-bf87-3723814d111d
+[06Feb2025 02:14:53.886] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antoo (926f7f75-e294-302f-bf87-3723814d111d) successfully connected to voice chat
+[06Feb2025 02:15:34.851] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignaciiaa lost connection: Disconnected
+[06Feb2025 02:15:34.852] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ignaciiaa
+[06Feb2025 02:15:34.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignaciiaa left the game
+[06Feb2025 02:16:09.355] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[06Feb2025 02:16:09.356] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antoo> ALEEEE
+[06Feb2025 02:16:11.340] [Netty Epoll Server IO #5/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[06Feb2025 02:16:11.341] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexis83> q
+[06Feb2025 02:16:27.452] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[06Feb2025 02:16:27.453] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antoo> hijo de puta, hiceron rolback de nuevo????????
+[06Feb2025 02:16:31.083] [Netty Epoll Server IO #5/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[06Feb2025 02:16:31.084] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexis83> no
+[06Feb2025 02:16:37.130] [Netty Epoll Server IO #5/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[06Feb2025 02:16:37.130] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexis83> te olvidaste la cuenta vos
+[06Feb2025 02:16:38.324] [Netty Epoll Server IO #5/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[06Feb2025 02:16:38.325] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexis83> no?
+[06Feb2025 02:16:42.608] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[06Feb2025 02:16:42.609] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antoo> como que no
+[06Feb2025 02:16:46.012] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[06Feb2025 02:16:46.012] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antoo> nonono
+[06Feb2025 02:17:33.576] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[06Feb2025 02:17:33.576] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antoo> por que tenia varias cosas antes y estaba explorando y tenia mi inventario ordenadito, y ahora no esta asi
+[06Feb2025 02:17:51.212] [Netty Epoll Server IO #5/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[06Feb2025 02:17:51.213] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexis83> puede ser que haya habido un mini rolback sisi
+[06Feb2025 02:18:04.433] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[06Feb2025 02:18:04.434] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antoo> MARACA PUTA
+[06Feb2025 02:18:22.447] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/10576, l='ServerLevel[world]', x=-478.50, y=44.00, z=-1267.50]
+[06Feb2025 02:18:39.304] [Craft Scheduler Thread - 10/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[06Feb2025 02:19:51.737] [Netty Epoll Server IO #3/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[06Feb2025 02:19:51.738] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> Zzzz
+[06Feb2025 02:20:56.627] [Netty Epoll Server IO #3/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[06Feb2025 02:20:56.628] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> Antoo dormi
+[06Feb2025 02:21:00.571] [Netty Epoll Server IO #3/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[06Feb2025 02:21:00.572] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> Porfis plis
+[06Feb2025 02:22:30.569] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanchikoKW issued server command: /tpa alexis83
+[06Feb2025 02:22:34.611] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /tpaccept
+[06Feb2025 02:23:47.922] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Ignaciiaa is 031dfe5e-b202-3181-a70e-a63b1a4fc899
+[06Feb2025 02:24:00.559] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@69532b76
+[06Feb2025 02:24:00.566] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ignaciiaa[/127.143.56.8:38659] logged in with entity id 12947 at (146.30000001192093, 67.0, -536.0689368877794)
+[06Feb2025 02:24:00.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignaciiaa joined the game
+[06Feb2025 02:24:02.412] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ignaciiaa (18)
+[06Feb2025 02:24:02.412] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ignaciiaa
+[06Feb2025 02:24:10.529] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 031dfe5e-b202-3181-a70e-a63b1a4fc899
+[06Feb2025 02:24:11.524] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 031dfe5e-b202-3181-a70e-a63b1a4fc899
+[06Feb2025 02:24:11.524] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ignaciiaa (031dfe5e-b202-3181-a70e-a63b1a4fc899) successfully connected to voice chat
+[06Feb2025 02:29:15.198] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/16155, l='ServerLevel[world]', x=-471.50, y=45.00, z=-1269.50]
+[06Feb2025 02:29:26.550] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/16327, l='ServerLevel[world]', x=-479.50, y=49.00, z=-1265.50]
+[06Feb2025 02:30:16.920] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /tpa PanchikoKW
+[06Feb2025 02:30:21.820] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanchikoKW issued server command: /tpaccept
+[06Feb2025 02:30:46.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexis83 has made the advancement [Pic-A-Nic Basket?]
+[06Feb2025 02:31:07.310] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1c004b6e
+[06Feb2025 02:31:48.334] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2440ms or 48 ticks behind
+[06Feb2025 02:32:50.355] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Hindrikus'/18402, l='ServerLevel[world]', x=131.51, y=63.00, z=-744.16] died, message: 'Hindrikus was slain by Zombie'
+[06Feb2025 02:32:50.357] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Hindrikus'/18402, l='ServerLevel[world]', x=131.51, y=63.00, z=-744.16] died: Hindrikus was slain by Zombie
+[06Feb2025 02:32:50.697] [Netty Epoll Server IO #6/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[06Feb2025 02:32:50.706] [Async Chat Thread - #8/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignaciiaa> zzzz
+[06Feb2025 02:32:52.868] [Netty Epoll Server IO #6/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[06Feb2025 02:32:52.868] [Async Chat Thread - #8/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignaciiaa> zzzzz
+[06Feb2025 02:32:56.138] [Netty Epoll Server IO #6/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[06Feb2025 02:32:56.140] [Async Chat Thread - #8/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignaciiaa> zzzzzzzzzzzzzzzzzz
+[06Feb2025 02:32:58.453] [Netty Epoll Server IO #6/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[06Feb2025 02:32:58.454] [Async Chat Thread - #8/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignaciiaa> zzzzzzzzzz
+[06Feb2025 02:33:41.695] [Craft Scheduler Thread - 14/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[06Feb2025 02:34:36.250] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/19622, l='ServerLevel[world]', x=-478.50, y=51.00, z=-1269.50]
+[06Feb2025 02:36:03.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexis83 has made the advancement [The Parrots and the Bats]
