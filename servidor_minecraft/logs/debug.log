@@ -13298,3 +13298,1017 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [07Feb2025 00:56:36.280] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.19.2-1.0.5-696a298/io.izzel.arclight.common.mod.util.remapper.GlobalClassRepo.findMinecraft(GlobalClassRepo.java:67)
 [07Feb2025 00:56:36.280] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.19.2-1.0.5-696a298/io.izzel.arclight.common.mod.util.remapper.GlobalClassRepo.lambda$findParallel$3(GlobalClassRepo.java:62)
 [07Feb2025 00:56:36.280] [Server thread/ERROR] [STDERR/]: 	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+[07Feb2025 00:56:36.280] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.19.2-1.0.5-696a298/io.izzel.arclight.common.mod.util.remapper.GlobalClassRepo.findParallel(GlobalClassRepo.java:62)
+[07Feb2025 00:56:36.280] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/com.google.common@31.0.1-jre/com.google.common.cache.CacheLoader$FunctionToCacheLoader.load(CacheLoader.java:169)
+[07Feb2025 00:56:36.280] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/com.google.common@31.0.1-jre/com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3533)
+[07Feb2025 00:56:36.280] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/com.google.common@31.0.1-jre/com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2282)
+[07Feb2025 00:56:36.280] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/com.google.common@31.0.1-jre/com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2159)
+[07Feb2025 00:56:36.280] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/com.google.common@31.0.1-jre/com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2049)
+[07Feb2025 00:56:36.280] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/com.google.common@31.0.1-jre/com.google.common.cache.LocalCache.get(LocalCache.java:3966)
+[07Feb2025 00:56:36.280] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/com.google.common@31.0.1-jre/com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:3989)
+[07Feb2025 00:56:36.280] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/com.google.common@31.0.1-jre/com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:4950)
+[07Feb2025 00:56:36.280] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.19.2-1.0.5-696a298/io.izzel.arclight.common.mod.util.remapper.GlobalClassRepo.findClass(GlobalClassRepo.java:36)
+[07Feb2025 00:56:36.280] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.19.2-1.0.5-696a298/io.izzel.arclight.common.mod.util.remapper.PluginInheritanceProvider.getAll(PluginInheritanceProvider.java:42)
+[07Feb2025 00:56:36.280] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.19.2-1.0.5-696a298/io.izzel.arclight.common.mod.util.remapper.PluginInheritanceProvider.getAll(PluginInheritanceProvider.java:48)
+[07Feb2025 00:56:36.280] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.19.2-1.0.5-696a298/io.izzel.arclight.common.mod.util.remapper.PluginInheritanceProvider.getAll(PluginInheritanceProvider.java:48)
+[07Feb2025 00:56:36.280] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.19.2-1.0.5-696a298/io.izzel.arclight.common.mod.util.remapper.ClassLoaderRemapper.shouldRemap(ClassLoaderRemapper.java:246)
+[07Feb2025 00:56:36.280] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.19.2-1.0.5-696a298/io.izzel.arclight.common.mod.util.remapper.ClassLoaderRemapper.tryMapFieldToSrg(ClassLoaderRemapper.java:215)
+[07Feb2025 00:56:36.280] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.19.2-1.0.5-696a298/io.izzel.arclight.common.mod.util.remapper.generated.ArclightReflectionHandler_0.handleClassGetField(ArclightReflectionHandler.java:247)
+[07Feb2025 00:56:36.280] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.19.2-1.0.5-696a298/io.izzel.arclight.common.mod.util.remapper.generated.ArclightReflectionHandler_0.handleClassGetDeclaredField(ArclightReflectionHandler.java:258)
+[07Feb2025 00:56:36.280] [Server thread/ERROR] [STDERR/]: 	at com.neomechanical.neoperformance.performance.utils.tps.TPSReflection.getRecentTpsRefl(TPSReflection.java:21)
+[07Feb2025 00:56:36.280] [Server thread/ERROR] [STDERR/]: 	at com.neomechanical.neoperformance.performance.performanceHeartBeat.HeartBeat.setTPS(HeartBeat.java:81)
+[07Feb2025 00:56:36.280] [Server thread/ERROR] [STDERR/]: 	at com.neomechanical.neoperformance.performance.performanceHeartBeat.HeartBeat.access$000(HeartBeat.java:18)
+[07Feb2025 00:56:36.280] [Server thread/ERROR] [STDERR/]: 	at com.neomechanical.neoperformance.performance.performanceHeartBeat.HeartBeat$1.run(HeartBeat.java:46)
+[07Feb2025 00:56:36.280] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.19.2-1.0.5-696a298/org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82)
+[07Feb2025 00:56:36.280] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.19.2-1.0.5-696a298/org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftSchedulerMixin.java:415)
+[07Feb2025 00:56:36.280] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.handler$zhj000$arclight$runScheduler(MinecraftServerMixin.java:2370)
+[07Feb2025 00:56:36.280] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java)
+[07Feb2025 00:56:36.280] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:292)
+[07Feb2025 00:56:36.280] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:806)
+[07Feb2025 00:56:36.280] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2127)
+[07Feb2025 00:56:36.280] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:244)
+[07Feb2025 00:56:36.280] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[07Feb2025 00:56:36.295] [Server thread/DEBUG] [mixin/]: Mixing CraftEventFactoryMixin from mixins.arclight.bukkit.json into org.bukkit.craftbukkit.v1_19_R1.event.CraftEventFactory
+[07Feb2025 00:56:36.474] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$event$block$Action()[I class org/bukkit/craftbukkit/v1_19_R1/event/CraftEventFactory
+[07Feb2025 00:56:36.474] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$event$entity$CreatureSpawnEvent$SpawnReason()[I class org/bukkit/craftbukkit/v1_19_R1/event/CraftEventFactory
+[07Feb2025 00:56:36.474] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$Material()[I class org/bukkit/craftbukkit/v1_19_R1/event/CraftEventFactory
+[07Feb2025 00:56:36.474] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Find switch(enum org/bukkit/Material) table method $SWITCH_TABLE$org$bukkit$Material()[I in class org/bukkit/craftbukkit/v1_19_R1/event/CraftEventFactory
+[07Feb2025 00:56:36.474] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Inject method in method org/bukkit/craftbukkit/v1_19_R1/event/CraftEventFactory:$SWITCH_TABLE$org$bukkit$Material()[I, switch table field is $SWITCH_TABLE$org$bukkit$Material[I
+[07Feb2025 00:56:36.474] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$entity$EntityType()[I class org/bukkit/craftbukkit/v1_19_R1/event/CraftEventFactory
+[07Feb2025 00:56:36.474] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Find switch(enum org/bukkit/entity/EntityType) table method $SWITCH_TABLE$org$bukkit$entity$EntityType()[I in class org/bukkit/craftbukkit/v1_19_R1/event/CraftEventFactory
+[07Feb2025 00:56:36.474] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Inject method in method org/bukkit/craftbukkit/v1_19_R1/event/CraftEventFactory:$SWITCH_TABLE$org$bukkit$entity$EntityType()[I, switch table field is $SWITCH_TABLE$org$bukkit$entity$EntityType[I
+[07Feb2025 00:56:36.474] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$Statistic()[I class org/bukkit/craftbukkit/v1_19_R1/event/CraftEventFactory
+[07Feb2025 00:56:36.474] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Find switch(enum org/bukkit/Statistic) table method $SWITCH_TABLE$org$bukkit$Statistic()[I in class org/bukkit/craftbukkit/v1_19_R1/event/CraftEventFactory
+[07Feb2025 00:56:36.474] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Inject method in method org/bukkit/craftbukkit/v1_19_R1/event/CraftEventFactory:$SWITCH_TABLE$org$bukkit$Statistic()[I, switch table field is $SWITCH_TABLE$org$bukkit$Statistic[I
+[07Feb2025 00:56:36.528] [Craft Scheduler Thread - 0/INFO] [Minecraft/]: [NeoPerformance] NeoPerformance v1.15.5 is out. Download it at: https://www.spigotmc.org/resources/neoperformance.103183/
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: java.io.IOException: Base resource not found: alg.class
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.Patcher.applyPatch(Patcher.java:146)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourcePatched(OptiFineTransformer.java:396)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStreamPatched(OptiFineTransformer.java:368)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStream(OptiFineTransformer.java:291)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResource(OptiFineTransformer.java:260)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:171)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:1)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformerHolder.transform(TransformerHolder.java:41)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.performVote(ClassTransformer.java:179)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:98)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.entity.EntitySection.<init>(EntitySection.java:21)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.entity.EntitySectionStorage.m_156901_(EntitySectionStorage.java:110)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/it.unimi.dsi.fastutil@8.5.6/it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap.computeIfAbsent(Long2ObjectOpenHashMap.java:499)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.entity.EntitySectionStorage.m_156893_(EntitySectionStorage.java:98)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.entity.PersistentEntitySectionManager.addEntityWithoutEvent(PersistentEntitySectionManagerMixin.java:88)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157538_(PersistentEntitySectionManagerMixin.java:80)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157533_(PersistentEntitySectionManagerMixin.java:71)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ServerLevel.m_8872_(ServerLevelMixin.java:805)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ServerLevel.m_7967_(ServerLevelMixin.java:760)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.ServerLevelAccessor.m_47205_(IServerWorldMixin.java:538)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ServerLevel.m_8860_(ServerLevelMixin.java:818)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.commands.SummonCommand.m_138820_(SummonCommandMixin.java:62)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.commands.SummonCommand.m_138816_(SummonCommandMixin.java:38)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/brigadier@1.0.18/com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:263)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.commands.CommandFunction$CommandEntry.m_164875_(CommandFunction.java:96)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.commands.CommandFunction$CommandEntry.m_142134_(CommandFunction.java:90)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.ServerFunctionManager$QueuedCommand.m_179985_(ServerFunctionManager.java:135)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.ServerFunctionManager$ExecutionContext.m_179977_(ServerFunctionManager.java:185)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.ServerFunctionManager.m_179960_(ServerFunctionManagerMixin.java:85)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.ServerFunctionManager.m_136112_(ServerFunctionManagerMixin.java:69)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.ServerFunctionManager.m_136115_(ServerFunctionManagerMixin.java:63)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.ServerFunctionManager.m_136128_(ServerFunctionManagerMixin.java:56)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:848)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:292)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:806)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2127)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:244)
+[07Feb2025 00:56:36.558] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[07Feb2025 00:56:36.558] [Server thread/DEBUG] [mixin/]: Mixing ClassInheritanceMultiMapMixin from mixins.arclight.impl.forge.optimization.json into net.minecraft.util.ClassInstanceMultiMap
+[07Feb2025 00:56:36.608] [Server thread/DEBUG] [mixin/]: Mixing world.spawner.NaturalSpawnerMixin from mixins.arclight.core.json into net.minecraft.world.level.NaturalSpawner
+[07Feb2025 00:56:36.619] [Server thread/DEBUG] [mixin/]: Mixing world.spawner.WorldEntitySpawner_EntityDensityManagerMixin from mixins.arclight.core.json into net.minecraft.world.level.NaturalSpawner$SpawnState
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: java.io.IOException: Base resource not found: aft$b.class
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.Patcher.applyPatch(Patcher.java:146)
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourcePatched(OptiFineTransformer.java:396)
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStreamPatched(OptiFineTransformer.java:368)
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStream(OptiFineTransformer.java:291)
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResource(OptiFineTransformer.java:260)
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:171)
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:1)
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformerHolder.transform(TransformerHolder.java:41)
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.performVote(ClassTransformer.java:179)
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:98)
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ChunkMap.m_140199_(ChunkMapMixin.java:1126)
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ServerChunkCache.m_8463_(ServerChunkCacheMixin.java:459)
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ServerLevel$EntityCallbacks.m_141985_(ServerLevel_EntityCallbacksMixin.java:1576)
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ServerLevel$EntityCallbacks.m_141985_(ServerLevel_EntityCallbacksMixin.java:1559)
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157575_(PersistentEntitySectionManagerMixin.java:136)
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.entity.PersistentEntitySectionManager.addEntityWithoutEvent(PersistentEntitySectionManagerMixin.java:97)
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157538_(PersistentEntitySectionManagerMixin.java:80)
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157592_(PersistentEntitySectionManagerMixin.java:260)
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at java.base/java.util.Collections$2.tryAdvance(Collections.java:4853)
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at java.base/java.util.Collections$2.forEachRemaining(Collections.java:4861)
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762)
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157582_(PersistentEntitySectionManagerMixin.java:259)
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157506_(PersistentEntitySectionManagerMixin.java:269)
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ServerLevel.m_8793_(ServerLevelMixin.java:335)
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:866)
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:292)
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:806)
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2127)
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:244)
+[07Feb2025 00:56:36.637] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[07Feb2025 00:56:36.637] [Server thread/DEBUG] [mixin/]: Mixing server.level.ChunkMap_TrackedEntityMixin from mixins.arclight.core.json into net.minecraft.server.level.ChunkMap$TrackedEntity
+[07Feb2025 00:56:36.638] [Server thread/DEBUG] [mixin/]: Mixing network.ChunkMapMixin_Optimize$TrackedEntityMixin from mixins.arclight.impl.forge.optimization.json into net.minecraft.server.level.ChunkMap$TrackedEntity
+[07Feb2025 00:56:36.640] [Server thread/DEBUG] [mixin/]: Mixing camera.TrackedEntityMixin from securitycraft.mixins.json into net.minecraft.server.level.ChunkMap$TrackedEntity
+[07Feb2025 00:56:36.643] [Server thread/DEBUG] [Implementer/ASYNC_CATCHER]: Injecting net/minecraft/server/level/ChunkMap$TrackedEntity/m_140485_(Lnet/minecraft/server/level/ServerPlayer;)V for reason player tracker clear
+[07Feb2025 00:56:36.643] [Server thread/DEBUG] [Implementer/ASYNC_CATCHER]: Defined impl callback class net/minecraft/server/level/ChunkMap$TrackedEntity$AsyncCatcher$12
+[07Feb2025 00:56:36.644] [Server thread/DEBUG] [Implementer/ASYNC_CATCHER]: Injecting net/minecraft/server/level/ChunkMap$TrackedEntity/m_140497_(Lnet/minecraft/server/level/ServerPlayer;)V for reason player tracker update
+[07Feb2025 00:56:36.644] [Server thread/DEBUG] [Implementer/ASYNC_CATCHER]: Defined impl callback class net/minecraft/server/level/ChunkMap$TrackedEntity$AsyncCatcher$13
+[07Feb2025 00:56:36.648] [Server thread/DEBUG] [mixin/]: Mixing server.level.ServerEntityMixin from mixins.arclight.core.json into net.minecraft.server.level.ServerEntity
+[07Feb2025 00:56:36.657] [Craft Scheduler Thread - 3/WARN] [JustTPA/]: Failed to check for updates (no supported versions found)
+[07Feb2025 00:56:36.770] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/state/BlockBehaviour$1
+[07Feb2025 00:56:36.771] [Server thread/DEBUG] [mixin/]: Mixing world.entity.ai.brain.BrainUtilMixin from mixins.arclight.core.json into net.minecraft.world.entity.ai.behavior.BehaviorUtils
+[07Feb2025 00:56:37.114] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/LivingEntity$1
+[07Feb2025 00:56:37.130] [Server thread/DEBUG] [mixin/]: Mixing world.effect.MobEffectUtilMixin from mixins.arclight.core.json into net.minecraft.world.effect.MobEffectUtil
+[07Feb2025 00:56:37.202] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/vehicle/AbstractMinecart$1
+[07Feb2025 00:56:37.212] [Server thread/DEBUG] [mixin/]: Mixing PacketDistributorMixin from mixins.arclight.forge.json into net.minecraftforge.network.PacketDistributor
+[07Feb2025 00:56:37.212] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$playerConsumer$0(Ljava/util/function/Supplier;Lnet/minecraft/network/protocol/Packet;)V to md54e2f1$lambda$playerConsumer$0$0 in mixins.arclight.forge.json:PacketDistributorMixin
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: java.io.IOException: Base resource not found: cge$1.class
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.Patcher.applyPatch(Patcher.java:146)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourcePatched(OptiFineTransformer.java:396)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStreamPatched(OptiFineTransformer.java:368)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStream(OptiFineTransformer.java:291)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResource(OptiFineTransformer.java:260)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:171)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:1)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformerHolder.transform(TransformerHolder.java:41)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.performVote(ClassTransformer.java:179)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:98)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.ChunkPos.m_45599_(ChunkPos.java:183)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.ChunkPos.m_45596_(ChunkPos.java:175)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.ai.village.poi.PoiManager.m_27166_(PoiManager.java:73)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.ai.village.poi.PoiManager.m_27181_(PoiManager.java:83)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.ai.village.poi.PoiManager.m_27138_(PoiManager.java:95)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/alexsmobs@1.20.2/com.github.alexthe666.alexsmobs.entity.EntityHummingbird.getNearbyFeeders(EntityHummingbird.java:218)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/alexsmobs@1.20.2/com.github.alexthe666.alexsmobs.entity.EntityHummingbird$AIUseFeeder.m_8036_(EntityHummingbird.java:364)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.ai.goal.WrappedGoal.m_8036_(WrappedGoal.java:22)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.ai.goal.GoalSelector.m_25373_(GoalSelector.java:98)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.Mob.m_6140_(MobMixin.java:725)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.LivingEntity.m_8107_(LivingEntityMixin.java:2546)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.Mob.m_8107_(MobMixin.java:517)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.AgeableMob.m_8107_(AgeableMobMixin.java:127)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.animal.Animal.m_8107_(AnimalMixin.java:53)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2291)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.Mob.m_8119_(MobMixin.java:318)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/alexsmobs@1.20.2/com.github.alexthe666.alexsmobs.entity.EntityHummingbird.m_8119_(EntityHummingbird.java:248)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ServerLevel.m_8647_(ServerLevelMixin.java:658)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.Level.m_46653_(LevelMixin.java:457)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ServerLevel.m_184063_(ServerLevelMixin.java:323)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ServerLevel.m_8793_(ServerLevelMixin.java:303)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:866)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:292)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:806)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2127)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:244)
+[07Feb2025 00:56:37.223] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[07Feb2025 00:58:24.663] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing network.ServerHandshakeNetHandlerMixin from mixins.arclight.core.json into net.minecraft.server.network.ServerHandshakePacketListenerImpl
+[07Feb2025 00:58:24.664] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Renaming synthetic method lambda$handleIntention$0(JLjava/util/Map$Entry;)Z to md54e2f1$lambda$handleIntention$0$0 in mixins.arclight.core.json:network.ServerHandshakeNetHandlerMixin
+[07Feb2025 00:58:24.686] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing network.protocol.handshake.CHandshakePacketMixin from mixins.arclight.core.json into net.minecraft.network.protocol.handshake.ClientIntentionPacket
+[07Feb2025 00:58:24.732] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing network.protocol.game.ClientboundSectionBlocksUpdatePacketMixin from mixins.arclight.core.json into net.minecraft.network.protocol.game.ClientboundSectionBlocksUpdatePacket
+[07Feb2025 00:58:24.880] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.maxCapacityPerThread: 4096
+[07Feb2025 00:58:24.880] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.ratio: 8
+[07Feb2025 00:58:24.880] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.chunkSize: 32
+[07Feb2025 00:58:24.880] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.blocking: false
+[07Feb2025 00:58:24.891] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing NetworkHooksMixin from mixins.arclight.forge.json into net.minecraftforge.network.NetworkHooks
+[07Feb2025 00:58:24.897] [Netty Epoll Server IO #1/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/izzel/arclight/common/mixin/core/network/ServerHandshakeNetHandlerMixin$1
+[07Feb2025 00:58:24.897] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing network.ServerStatusNetHandlerMixin from mixins.arclight.core.json into net.minecraft.server.network.ServerStatusPacketListenerImpl
+[07Feb2025 00:58:27.122] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 29 messages to dispatch.
+[07Feb2025 00:58:27.123] [Netty Epoll Server IO #2/DEBUG] [mixin/]: Mixing network.ServerLoginNetHandlerMixin from mixins.arclight.core.json into net.minecraft.server.network.ServerLoginPacketListenerImpl
+[07Feb2025 00:58:27.124] [Netty Epoll Server IO #2/DEBUG] [mixin/]: Renaming synthetic method lambda$handleAcceptedLogin$0()V to md54e2f1$lambda$handleAcceptedLogin$0$0 in mixins.arclight.core.json:network.ServerLoginNetHandlerMixin
+[07Feb2025 00:58:27.157] [Netty Epoll Server IO #2/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/server/network/ServerLoginPacketListenerImpl$2Handler$c156fb15cc4240adbc8bf53b09ebc6b1 (originally io/izzel/arclight/common/mixin/core/network/ServerLoginNetHandlerMixin$2Handler)
+[07Feb2025 00:58:27.159] [Netty Epoll Server IO #2/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/server/network/ServerLoginPacketListenerImpl$1SyncPreLogin$575a6470e7b34694b882b4cea6503a57 (originally io/izzel/arclight/common/mixin/core/network/ServerLoginNetHandlerMixin$1SyncPreLogin)
+[07Feb2025 00:58:27.457] [Netty Epoll Server IO #2/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/server/network/ServerLoginPacketListenerImpl$1Handler$ba9ad16c061f402aaa0bc5f33783cd49 (originally io/izzel/arclight/common/mixin/core/network/ServerLoginNetHandlerMixin$1Handler)
+[07Feb2025 00:58:27.480] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player PanchikoKW is 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[07Feb2025 00:58:27.503] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[07Feb2025 00:58:27.552] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[07Feb2025 00:58:27.602] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[07Feb2025 00:58:27.652] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[07Feb2025 00:58:27.703] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[07Feb2025 00:58:27.752] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[07Feb2025 00:58:27.802] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[07Feb2025 00:58:27.814] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[07Feb2025 00:58:27.817] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[07Feb2025 00:58:27.817] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [betterdungeons, wandering_bags, supermartijn642configlib, rechiseled, infernalexp, playeranimator, incendium, sophisticatedcore, waystones, buildersdelight, citadel, alexsmobs, artifacts, sereneseasons, yungsapi, libx, decorative_blocks, mixinextras, redeco, sophisticatedbackpacks, balm, terralith, fusion, shieldexp, knight_quest, dungeons_andtaverns_mr, cloth_config, forge, advancementplaques, dungeons_arise, minecraft, farmersdelight, voicechat, sound_physics_remastered, ambientsounds, bettercombat, endrem, creativecore, supermartijn642corelib, born_in_chaos_v1, roughlyenoughitems, philipsruins, curios, iceberg, xaerominimap, hmag, gravestone, securitycraft, framedblocks, simplytools, argentinas_delight, cfm, architectury, mca, simplyswords, appleskin, alexsdelight, moremobvariants, aquaculture, t_and_t, expandability, geckolib3, crittersandcompanions, phantasm, lumberjack, presencefootsteps]
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:cui' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'shieldexp:packets' : Version test of '1.0' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cfm:network' : Version test of '1' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bettercombat:network' : Version test of '1.0' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'argentinas_delight:argentinas_delight' : Version test of '1' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1.0' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'knight_quest:knight_quest' : Version test of '1' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'infernalexp:main' : Version test of '1' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:internal' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sereneseasons:main_channel' : Version test of '0' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'wandering_bags:wandering_bags' : Version test of '1' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'phantasm:phantasm' : Version test of '1' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.9.6.1' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'born_in_chaos_v1:born_in_chaos_v1' : Version test of '1' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'rechiseled:main' : Version test of '1' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'libx:netchannel' : Version test of '9' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'appleskin:sync' : Version test of '1' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framedblocks:main' : Version test of '2' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supermartijn642configlib:sync_configs' : Version test of '1.1.8' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mca:main' : Version test of '1' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'gravestone:default' : Version test of '1.0.0' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'artifacts:main' : Version test of '1' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib3:main' : Version test of '0' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of '1.0' from client : ACCEPTED
+[07Feb2025 00:58:27.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[07Feb2025 00:58:27.819] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[07Feb2025 00:58:27.819] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[07Feb2025 00:58:27.819] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 00:58:27.819] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 00:58:27.852] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[07Feb2025 00:58:27.853] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[07Feb2025 00:58:27.853] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 00:58:27.853] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 00:58:27.902] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[07Feb2025 00:58:27.952] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[07Feb2025 00:58:28.001] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[07Feb2025 00:58:28.053] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[07Feb2025 00:58:28.102] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 12
+[07Feb2025 00:58:28.106] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[07Feb2025 00:58:28.107] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 00:58:28.107] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 00:58:28.149] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[07Feb2025 00:58:28.149] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 00:58:28.149] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 00:58:28.152] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 13
+[07Feb2025 00:58:28.156] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[07Feb2025 00:58:28.156] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 00:58:28.156] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 00:58:28.202] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 14
+[07Feb2025 00:58:28.252] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 15
+[07Feb2025 00:58:28.302] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry framedblocks:camo_containers' to 'fml:handshake' sequence 16
+[07Feb2025 00:58:28.352] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 17
+[07Feb2025 00:58:28.401] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 18
+[07Feb2025 00:58:28.451] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[07Feb2025 00:58:28.451] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 00:58:28.451] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 00:58:28.451] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[07Feb2025 00:58:28.451] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 00:58:28.451] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 00:58:28.451] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 19
+[07Feb2025 00:58:28.458] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[07Feb2025 00:58:28.458] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 00:58:28.458] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 00:58:28.459] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[07Feb2025 00:58:28.459] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 00:58:28.459] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 00:58:28.459] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[07Feb2025 00:58:28.459] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 00:58:28.459] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 00:58:28.502] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 20
+[07Feb2025 00:58:28.551] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 21
+[07Feb2025 00:58:28.601] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config framedblocks-server.toml' to 'fml:handshake' sequence 22
+[07Feb2025 00:58:28.608] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[07Feb2025 00:58:28.609] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 00:58:28.609] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 00:58:28.609] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[07Feb2025 00:58:28.609] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 00:58:28.609] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 00:58:28.609] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[07Feb2025 00:58:28.609] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 00:58:28.609] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 00:58:28.609] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[07Feb2025 00:58:28.609] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 00:58:28.609] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 00:58:28.617] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[07Feb2025 00:58:28.617] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 00:58:28.617] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 00:58:28.617] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[07Feb2025 00:58:28.617] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 00:58:28.617] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 00:58:28.651] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[07Feb2025 00:58:28.651] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 00:58:28.651] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 00:58:28.651] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[07Feb2025 00:58:28.651] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 00:58:28.651] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 00:58:28.653] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 23
+[07Feb2025 00:58:28.702] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config artifacts-server.toml' to 'fml:handshake' sequence 24
+[07Feb2025 00:58:28.751] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config gravestone-server.toml' to 'fml:handshake' sequence 25
+[07Feb2025 00:58:28.801] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sereneseasons-server.toml' to 'fml:handshake' sequence 26
+[07Feb2025 00:58:28.851] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 27
+[07Feb2025 00:58:28.901] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 28
+[07Feb2025 00:58:32.007] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[07Feb2025 00:58:32.007] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 00:58:32.007] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 00:58:32.047] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[07Feb2025 00:58:32.047] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 00:58:32.047] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 00:58:32.047] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[07Feb2025 00:58:32.047] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 00:58:32.047] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 00:58:32.048] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[07Feb2025 00:58:32.048] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 00:58:32.048] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 00:58:32.048] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[07Feb2025 00:58:32.048] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 00:58:32.048] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 00:58:32.048] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[07Feb2025 00:58:32.048] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 00:58:32.048] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 00:58:32.048] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[07Feb2025 00:58:32.048] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 00:58:32.048] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 00:58:32.048] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[07Feb2025 00:58:32.048] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 00:58:32.048] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 00:58:32.048] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[07Feb2025 00:58:32.048] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 00:58:32.048] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 00:58:32.053] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[07Feb2025 00:58:32.102] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/player/Player$1
+[07Feb2025 00:58:32.127] [Server thread/ERROR] [STDERR/]: java.io.IOException: Base resource not found: abb$a.class
+[07Feb2025 00:58:32.127] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.Patcher.applyPatch(Patcher.java:146)
+[07Feb2025 00:58:32.127] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourcePatched(OptiFineTransformer.java:396)
+[07Feb2025 00:58:32.127] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStreamPatched(OptiFineTransformer.java:368)
+[07Feb2025 00:58:32.127] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStream(OptiFineTransformer.java:291)
+[07Feb2025 00:58:32.127] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResource(OptiFineTransformer.java:260)
+[07Feb2025 00:58:32.127] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:171)
+[07Feb2025 00:58:32.127] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:1)
+[07Feb2025 00:58:32.127] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformerHolder.transform(TransformerHolder.java:41)
+[07Feb2025 00:58:32.127] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.performVote(ClassTransformer.java:179)
+[07Feb2025 00:58:32.127] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:98)
+[07Feb2025 00:58:32.127] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+[07Feb2025 00:58:32.127] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+[07Feb2025 00:58:32.127] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+[07Feb2025 00:58:32.127] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+[07Feb2025 00:58:32.127] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+[07Feb2025 00:58:32.127] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+[07Feb2025 00:58:32.127] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+[07Feb2025 00:58:32.127] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.PlayerAdvancements.<clinit>(PlayerAdvancementsMixin.java:55)
+[07Feb2025 00:58:32.127] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.players.PlayerList.m_11296_(PlayerListMixin.java:811)
+[07Feb2025 00:58:32.127] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ServerPlayer.<init>(ServerPlayerMixin.java:244)
+[07Feb2025 00:58:32.127] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.players.PlayerList.bridge$canPlayerLogin(PlayerListMixin.java:1149)
+[07Feb2025 00:58:32.127] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.network.ServerLoginPacketListenerImpl.m_10055_(ServerLoginNetHandlerMixin.java:606)
+[07Feb2025 00:58:32.127] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.network.ServerLoginPacketListenerImpl.m_9933_(ServerLoginNetHandlerMixin.java:75)
+[07Feb2025 00:58:32.127] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:248)
+[07Feb2025 00:58:32.127] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143)
+[07Feb2025 00:58:32.127] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:880)
+[07Feb2025 00:58:32.127] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:292)
+[07Feb2025 00:58:32.127] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:806)
+[07Feb2025 00:58:32.127] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2127)
+[07Feb2025 00:58:32.127] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:244)
+[07Feb2025 00:58:32.127] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[07Feb2025 00:58:32.182] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5230aa9b
+[07Feb2025 00:58:32.224] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PanchikoKW[/127.61.240.200:51431] logged in with entity id 149 at (590.5, 173.9875, -733.5)
+[07Feb2025 00:58:32.233] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@69d4e4b8 into net.minecraft.network.Connection@548eb0ee
+[07Feb2025 00:58:32.311] [Server thread/DEBUG] [mixin/]: Mixing network.protocol.game.ClientboundCommandsPacket_ArgumentNodeStubMixin from mixins.arclight.core.json into net.minecraft.network.protocol.game.ClientboundCommandsPacket$ArgumentNodeStub
+[07Feb2025 00:58:32.319] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/network/chat/Component$1Func$8754e7266c84438e90e321cdbb2cf81c (originally io/izzel/arclight/common/mixin/core/network/chat/ComponentMixin$1Func)
+[07Feb2025 00:58:32.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanchikoKW joined the game
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: java.io.IOException: Base resource not found: te.class
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.Patcher.applyPatch(Patcher.java:146)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourcePatched(OptiFineTransformer.java:396)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStreamPatched(OptiFineTransformer.java:368)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStream(OptiFineTransformer.java:291)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResource(OptiFineTransformer.java:260)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:171)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:1)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformerHolder.transform(TransformerHolder.java:41)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.performVote(ClassTransformer.java:179)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:98)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_5617_(ServerPlayNetHandlerMixin.java:1770)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.network.protocol.game.ServerboundClientInformationPacket.m_5797_(ServerboundClientInformationPacket.java:48)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.network.protocol.game.ServerboundClientInformationPacket.m_5797_(ServerboundClientInformationPacket.java:8)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.network.Connection.m_129517_(ConnectionMixin.java:163)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.network.Connection.channelRead0(ConnectionMixin.java:148)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.network.Connection.channelRead0(ConnectionMixin.java:48)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/io.netty.transport@4.1.77.Final/io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:99)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/io.netty.transport@4.1.77.Final/io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/io.netty.transport@4.1.77.Final/io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/io.netty.transport@4.1.77.Final/io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/io.netty.codec@4.1.77.Final/io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:327)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/io.netty.codec@4.1.77.Final/io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:299)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/io.netty.transport@4.1.77.Final/io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/io.netty.transport@4.1.77.Final/io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/io.netty.transport@4.1.77.Final/io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/io.netty.codec@4.1.77.Final/io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:327)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/io.netty.codec@4.1.77.Final/io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:299)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/io.netty.transport@4.1.77.Final/io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/io.netty.transport@4.1.77.Final/io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/io.netty.transport@4.1.77.Final/io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/io.netty.codec@4.1.77.Final/io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:327)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/io.netty.codec@4.1.77.Final/io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:314)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/io.netty.codec@4.1.77.Final/io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:435)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/io.netty.codec@4.1.77.Final/io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:279)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/io.netty.transport@4.1.77.Final/io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/io.netty.transport@4.1.77.Final/io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/io.netty.transport@4.1.77.Final/io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/io.netty.handler@4.1.77.Final/io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/io.netty.transport@4.1.77.Final/io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/io.netty.transport@4.1.77.Final/io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/io.netty.transport@4.1.77.Final/io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/io.netty.transport@4.1.77.Final/io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/io.netty.transport@4.1.77.Final/io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/io.netty.transport@4.1.77.Final/io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/io.netty.transport@4.1.77.Final/io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:487)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.77.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:385)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/io.netty.common@4.1.77.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:995)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/io.netty.common@4.1.77.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[07Feb2025 00:58:33.208] [Netty Epoll Server IO #2/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[07Feb2025 00:58:33.209] [Netty Epoll Server IO #2/DEBUG] [mixin/]: Mixing network.protocol.PacketThreadUtilMixin from mixins.arclight.core.json into net.minecraft.network.protocol.PacketUtils
+[07Feb2025 00:58:33.209] [Netty Epoll Server IO #2/DEBUG] [mixin/]: Renaming synthetic method lambda$ensureRunningOnSameThread$0(Lnet/minecraft/network/PacketListener;Lnet/minecraft/network/protocol/Packet;)V to md54e2f1$lambda$ensureRunningOnSameThread$0$0 in mixins.arclight.core.json:network.protocol.PacketThreadUtilMixin
+[07Feb2025 00:58:35.654] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of PanchikoKW: {disabled=false, disconnected=true, uuid=905d1f7b-6652-3a99-9dd9-a3db220a872b, name=PanchikoKW, group=null}
+[07Feb2025 00:58:35.654] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PanchikoKW (18)
+[07Feb2025 00:58:35.655] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to PanchikoKW
+[07Feb2025 00:58:35.655] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with PanchikoKW
+[07Feb2025 00:58:35.655] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with PanchikoKW
+[07Feb2025 00:58:35.656] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PanchikoKW
+[07Feb2025 00:58:35.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3533ms or 70 ticks behind
+[07Feb2025 00:58:35.701] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/NaturalSpawner$1
+[07Feb2025 00:58:35.704] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class sereneseasons/handler/season/RandomUpdateHandler$1
+[07Feb2025 00:58:35.707] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class be/florens/expandability/forge/EventDispatcherImpl$1
+[07Feb2025 00:58:35.736] [Server thread/DEBUG] [mixin/]: Mixing world.level.saveddata.maps.MapItemSavedData_HoldingPlayerMixin from mixins.arclight.core.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[07Feb2025 00:58:35.740] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class be/florens/expandability/Util$1
+[07Feb2025 00:58:35.741] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.Statistic
+[07Feb2025 00:58:35.810] [Server thread/DEBUG] [io.netty.util.internal.ThreadLocalRandom/]: -Dio.netty.initialSeedUniquifier: 0x18fc560bc9eb74ae
+[07Feb2025 00:58:35.972] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class sereneseasons/season/SeasonHooks$1
+[07Feb2025 00:58:36.846] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$block$BlockFace()[I class org/bukkit/craftbukkit/v1_19_R1/block/impl/CraftBanner
+[07Feb2025 00:58:36.869] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$block$BlockFace()[I class org/bukkit/craftbukkit/v1_19_R1/block/impl/CraftFloorSign
+[07Feb2025 00:58:36.888] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$block$BlockFace()[I class org/bukkit/craftbukkit/v1_19_R1/block/impl/CraftRedstoneWire
+[07Feb2025 00:58:36.893] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$block$BlockFace()[I class org/bukkit/craftbukkit/v1_19_R1/block/impl/CraftSkull
+[07Feb2025 00:58:36.894] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$block$BlockFace()[I class org/bukkit/craftbukkit/v1_19_R1/block/impl/CraftSkullPlayer
+[07Feb2025 00:58:36.908] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$block$BlockFace()[I class org/bukkit/craftbukkit/v1_19_R1/block/impl/CraftWitherSkull
+[07Feb2025 00:58:38.139] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[07Feb2025 00:58:39.135] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[07Feb2025 00:58:39.136] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of PanchikoKW to connected: {disabled=false, disconnected=false, uuid=905d1f7b-6652-3a99-9dd9-a3db220a872b, name=PanchikoKW, group=null}
+[07Feb2025 00:58:39.139] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PanchikoKW (905d1f7b-6652-3a99-9dd9-a3db220a872b) successfully connected to voice chat
+[07Feb2025 00:58:39.289] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of PanchikoKW: {disabled=false, disconnected=false, uuid=905d1f7b-6652-3a99-9dd9-a3db220a872b, name=PanchikoKW, group=null}
+[07Feb2025 00:58:41.860] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/server/network/ServerGamePacketListenerImpl$2
+[07Feb2025 00:58:46.309] [Server thread/DEBUG] [mixin/]: Mixing CraftLegacyUtilMixin from mixins.arclight.bukkit.json into org.bukkit.craftbukkit.v1_19_R1.util.CraftLegacy
+[07Feb2025 00:58:46.309] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$modern_values$1(I)[Lorg/bukkit/Material; to md54e2f1$lambda$modern_values$1$0 in mixins.arclight.bukkit.json:CraftLegacyUtilMixin
+[07Feb2025 00:58:46.309] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$modern_values$0(Lorg/bukkit/Material;)Z to md54e2f1$lambda$modern_values$0$1 in mixins.arclight.bukkit.json:CraftLegacyUtilMixin
+[07Feb2025 00:58:46.316] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.Material
+[07Feb2025 00:58:51.356] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/SnowLayerBlock$1
+[07Feb2025 00:58:57.242] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/sk89q/worldedit/extension/platform/PlatformManager$1
+[07Feb2025 00:58:57.245] [Server thread/DEBUG] [mixin/]: Mixing world.CompoundContainerMixin from mixins.arclight.core.json into net.minecraft.world.CompoundContainer
+[07Feb2025 00:58:57.248] [Server thread/DEBUG] [mixin/]: Mixing world.level.block.ChestBlock2_1Mixin from mixins.arclight.core.json into net.minecraft.world.level.block.ChestBlock$2$1
+[07Feb2025 00:58:57.264] [Server thread/DEBUG] [mixin/]: Mixing world.entity.monster.piglin.PiglinAiMixin from mixins.arclight.core.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[07Feb2025 00:58:57.266] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[07Feb2025 00:59:11.602] [Server thread/DEBUG] [mixin/]: Mixing CraftBlockStateMixin from mixins.arclight.bukkit.json into org.bukkit.craftbukkit.v1_19_R1.block.CraftBlockState
+[07Feb2025 00:59:11.607] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$SkullType()[I class org/bukkit/craftbukkit/v1_19_R1/block/CraftSkull
+[07Feb2025 00:59:11.607] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$Material()[I class org/bukkit/craftbukkit/v1_19_R1/block/CraftSkull
+[07Feb2025 00:59:11.607] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Find switch(enum org/bukkit/Material) table method $SWITCH_TABLE$org$bukkit$Material()[I in class org/bukkit/craftbukkit/v1_19_R1/block/CraftSkull
+[07Feb2025 00:59:11.607] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Inject method in method org/bukkit/craftbukkit/v1_19_R1/block/CraftSkull:$SWITCH_TABLE$org$bukkit$Material()[I, switch table field is $SWITCH_TABLE$org$bukkit$Material[I
+[07Feb2025 00:59:11.650] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$Material()[I class org/bukkit/craftbukkit/v1_19_R1/block/CraftBed
+[07Feb2025 00:59:11.650] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Find switch(enum org/bukkit/Material) table method $SWITCH_TABLE$org$bukkit$Material()[I in class org/bukkit/craftbukkit/v1_19_R1/block/CraftBed
+[07Feb2025 00:59:11.650] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Inject method in method org/bukkit/craftbukkit/v1_19_R1/block/CraftBed:$SWITCH_TABLE$org$bukkit$Material()[I, switch table field is $SWITCH_TABLE$org$bukkit$Material[I
+[07Feb2025 01:00:48.640] [Server thread/DEBUG] [mixin/]: Mixing world.level.block.PortalShapeMixin from mixins.arclight.core.json into net.minecraft.world.level.portal.PortalShape
+[07Feb2025 01:00:48.640] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$arclight$buildPortal$0(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/core/BlockPos;)V to md54e2f1$lambda$arclight$buildPortal$0$0 in mixins.arclight.core.json:world.level.block.PortalShapeMixin
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: java.io.IOException: Base resource not found: aft$2.class
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.Patcher.applyPatch(Patcher.java:146)
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourcePatched(OptiFineTransformer.java:396)
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStreamPatched(OptiFineTransformer.java:368)
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStream(OptiFineTransformer.java:291)
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResource(OptiFineTransformer.java:260)
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:171)
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:1)
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformerHolder.transform(TransformerHolder.java:41)
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.performVote(ClassTransformer.java:179)
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:98)
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ChunkMap.m_183726_(ChunkMapMixin.java:305)
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646)
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614)
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:653)
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62)
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157)
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_6367_(ServerChunkCache_MainThreadExecutorMixin.java:535)
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131)
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_7245_(ServerChunkCache_MainThreadExecutorMixin.java:629)
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ServerChunkCache.m_8466_(ServerChunkCacheMixin.java:267)
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:751)
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:740)
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116)
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:725)
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2131)
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:244)
+[07Feb2025 01:00:52.035] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[07Feb2025 01:00:53.065] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/izzel/arclight/common/mixin/core/world/level/block/PressurePlateBlockMixin$1
+[07Feb2025 01:01:04.856] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/izzel/arclight/common/mixin/core/network/ServerPlayNetHandlerMixin$2
+[07Feb2025 01:01:20.904] [Worker-Main-9/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/levelgen/structure/placement/RandomSpreadType$1
+[07Feb2025 01:01:20.906] [Worker-Main-9/DEBUG] [mixin/]: Mixing world.gen.WorldGenRegionMixin from mixins.arclight.core.json into net.minecraft.server.level.WorldGenRegion
+[07Feb2025 01:01:20.906] [Worker-Main-9/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[07Feb2025 01:01:20.906] [Worker-Main-9/DEBUG] [mixin/]: Mixing common.WorldGenRegionAccessor from infernal-expansion.mixins.json into net.minecraft.server.level.WorldGenRegion
+[07Feb2025 01:01:20.907] [Worker-Main-9/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[07Feb2025 01:01:20.928] [Worker-Main-9/ERROR] [STDERR/]: java.io.IOException: Base resource not found: dbr.class
+[07Feb2025 01:01:20.928] [Worker-Main-9/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.Patcher.applyPatch(Patcher.java:146)
+[07Feb2025 01:01:20.928] [Worker-Main-9/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourcePatched(OptiFineTransformer.java:396)
+[07Feb2025 01:01:20.928] [Worker-Main-9/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStreamPatched(OptiFineTransformer.java:368)
+[07Feb2025 01:01:20.928] [Worker-Main-9/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStream(OptiFineTransformer.java:291)
+[07Feb2025 01:01:20.928] [Worker-Main-9/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResource(OptiFineTransformer.java:260)
+[07Feb2025 01:01:20.928] [Worker-Main-9/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:171)
+[07Feb2025 01:01:20.928] [Worker-Main-9/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:1)
+[07Feb2025 01:01:20.928] [Worker-Main-9/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformerHolder.transform(TransformerHolder.java:41)
+[07Feb2025 01:01:20.928] [Worker-Main-9/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.performVote(ClassTransformer.java:179)
+[07Feb2025 01:01:20.928] [Worker-Main-9/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:98)
+[07Feb2025 01:01:20.928] [Worker-Main-9/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+[07Feb2025 01:01:20.928] [Worker-Main-9/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+[07Feb2025 01:01:20.928] [Worker-Main-9/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+[07Feb2025 01:01:20.928] [Worker-Main-9/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+[07Feb2025 01:01:20.928] [Worker-Main-9/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+[07Feb2025 01:01:20.928] [Worker-Main-9/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+[07Feb2025 01:01:20.928] [Worker-Main-9/ERROR] [STDERR/]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+[07Feb2025 01:01:20.928] [Worker-Main-9/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.ChunkStatus.m_223349_(ChunkStatus.java:87)
+[07Feb2025 01:01:20.928] [Worker-Main-9/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.ChunkStatus.m_223279_(ChunkStatus.java:292)
+[07Feb2025 01:01:20.928] [Worker-Main-9/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$25(ChunkMapMixin.java:621)
+[07Feb2025 01:01:20.928] [Worker-Main-9/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/datafixerupper@5.0.28/com.mojang.datafixers.util.Either$Left.map(Either.java:38)
+[07Feb2025 01:01:20.928] [Worker-Main-9/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMapMixin.java:619)
+[07Feb2025 01:01:20.928] [Worker-Main-9/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150)
+[07Feb2025 01:01:20.928] [Worker-Main-9/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
+[07Feb2025 01:01:20.928] [Worker-Main-9/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62)
+[07Feb2025 01:01:20.928] [Worker-Main-9/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91)
+[07Feb2025 01:01:20.928] [Worker-Main-9/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146)
+[07Feb2025 01:01:20.928] [Worker-Main-9/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102)
+[07Feb2025 01:01:20.928] [Worker-Main-9/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395)
+[07Feb2025 01:01:20.928] [Worker-Main-9/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[07Feb2025 01:01:20.928] [Worker-Main-9/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[07Feb2025 01:01:20.928] [Worker-Main-9/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[07Feb2025 01:01:20.928] [Worker-Main-9/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[07Feb2025 01:01:20.928] [Worker-Main-9/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[07Feb2025 01:01:20.930] [Worker-Main-9/ERROR] [STDERR/]: java.io.IOException: Base resource not found: dbr$1.class
+[07Feb2025 01:01:20.931] [Worker-Main-9/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.Patcher.applyPatch(Patcher.java:146)
+[07Feb2025 01:01:20.931] [Worker-Main-9/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourcePatched(OptiFineTransformer.java:396)
+[07Feb2025 01:01:20.931] [Worker-Main-9/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStreamPatched(OptiFineTransformer.java:368)
+[07Feb2025 01:01:20.931] [Worker-Main-9/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStream(OptiFineTransformer.java:291)
+[07Feb2025 01:01:20.931] [Worker-Main-9/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResource(OptiFineTransformer.java:260)
+[07Feb2025 01:01:20.931] [Worker-Main-9/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:171)
+[07Feb2025 01:01:20.931] [Worker-Main-9/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:1)
+[07Feb2025 01:01:20.931] [Worker-Main-9/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformerHolder.transform(TransformerHolder.java:41)
+[07Feb2025 01:01:20.931] [Worker-Main-9/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.performVote(ClassTransformer.java:179)
+[07Feb2025 01:01:20.931] [Worker-Main-9/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:98)
+[07Feb2025 01:01:20.931] [Worker-Main-9/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+[07Feb2025 01:01:20.931] [Worker-Main-9/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+[07Feb2025 01:01:20.931] [Worker-Main-9/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+[07Feb2025 01:01:20.931] [Worker-Main-9/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+[07Feb2025 01:01:20.931] [Worker-Main-9/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+[07Feb2025 01:01:20.931] [Worker-Main-9/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+[07Feb2025 01:01:20.931] [Worker-Main-9/ERROR] [STDERR/]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+[07Feb2025 01:01:20.931] [Worker-Main-9/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.ChunkStatus.m_223349_(ChunkStatus.java:87)
+[07Feb2025 01:01:20.931] [Worker-Main-9/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.ChunkStatus.m_223279_(ChunkStatus.java:292)
+[07Feb2025 01:01:20.931] [Worker-Main-9/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$25(ChunkMapMixin.java:621)
+[07Feb2025 01:01:20.931] [Worker-Main-9/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/datafixerupper@5.0.28/com.mojang.datafixers.util.Either$Left.map(Either.java:38)
+[07Feb2025 01:01:20.931] [Worker-Main-9/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMapMixin.java:619)
+[07Feb2025 01:01:20.931] [Worker-Main-9/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150)
+[07Feb2025 01:01:20.931] [Worker-Main-9/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
+[07Feb2025 01:01:20.931] [Worker-Main-9/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62)
+[07Feb2025 01:01:20.931] [Worker-Main-9/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91)
+[07Feb2025 01:01:20.931] [Worker-Main-9/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146)
+[07Feb2025 01:01:20.931] [Worker-Main-9/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102)
+[07Feb2025 01:01:20.931] [Worker-Main-9/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395)
+[07Feb2025 01:01:20.931] [Worker-Main-9/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[07Feb2025 01:01:20.931] [Worker-Main-9/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[07Feb2025 01:01:20.931] [Worker-Main-9/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[07Feb2025 01:01:20.931] [Worker-Main-9/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[07Feb2025 01:01:20.931] [Worker-Main-9/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[07Feb2025 01:01:21.447] [Worker-Main-9/ERROR] [STDERR/]: java.io.IOException: Base resource not found: dbr$a.class
+[07Feb2025 01:01:21.447] [Worker-Main-9/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.Patcher.applyPatch(Patcher.java:146)
+[07Feb2025 01:01:21.447] [Worker-Main-9/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourcePatched(OptiFineTransformer.java:396)
+[07Feb2025 01:01:21.447] [Worker-Main-9/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStreamPatched(OptiFineTransformer.java:368)
+[07Feb2025 01:01:21.447] [Worker-Main-9/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStream(OptiFineTransformer.java:291)
+[07Feb2025 01:01:21.447] [Worker-Main-9/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResource(OptiFineTransformer.java:260)
+[07Feb2025 01:01:21.447] [Worker-Main-9/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:171)
+[07Feb2025 01:01:21.447] [Worker-Main-9/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:1)
+[07Feb2025 01:01:21.447] [Worker-Main-9/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformerHolder.transform(TransformerHolder.java:41)
+[07Feb2025 01:01:21.447] [Worker-Main-9/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.performVote(ClassTransformer.java:179)
+[07Feb2025 01:01:21.447] [Worker-Main-9/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:98)
+[07Feb2025 01:01:21.447] [Worker-Main-9/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+[07Feb2025 01:01:21.447] [Worker-Main-9/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+[07Feb2025 01:01:21.447] [Worker-Main-9/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+[07Feb2025 01:01:21.447] [Worker-Main-9/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+[07Feb2025 01:01:21.447] [Worker-Main-9/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+[07Feb2025 01:01:21.447] [Worker-Main-9/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+[07Feb2025 01:01:21.447] [Worker-Main-9/ERROR] [STDERR/]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+[07Feb2025 01:01:21.447] [Worker-Main-9/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.NoiseChunk.<init>(NoiseChunk.java:58)
+[07Feb2025 01:01:21.447] [Worker-Main-9/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.NoiseChunk.m_224352_(NoiseChunk.java:111)
+[07Feb2025 01:01:21.447] [Worker-Main-9/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.NoiseBasedChunkGenerator.m_224256_(NoiseBasedChunkGenerator.java:112)
+[07Feb2025 01:01:21.447] [Worker-Main-9/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.NoiseBasedChunkGenerator.m_224336_(NoiseBasedChunkGenerator.java:104)
+[07Feb2025 01:01:21.447] [Worker-Main-9/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.ChunkAccess.m_223012_(ChunkAccessMixin.java:345)
+[07Feb2025 01:01:21.447] [Worker-Main-9/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.NoiseBasedChunkGenerator.m_224291_(NoiseBasedChunkGenerator.java:104)
+[07Feb2025 01:01:21.447] [Worker-Main-9/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.NoiseBasedChunkGenerator.m_224331_(NoiseBasedChunkGenerator.java:98)
+[07Feb2025 01:01:21.447] [Worker-Main-9/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+[07Feb2025 01:01:21.447] [Worker-Main-9/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+[07Feb2025 01:01:21.447] [Worker-Main-9/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[07Feb2025 01:01:21.447] [Worker-Main-9/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[07Feb2025 01:01:21.447] [Worker-Main-9/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[07Feb2025 01:01:21.447] [Worker-Main-9/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[07Feb2025 01:01:21.447] [Worker-Main-9/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[07Feb2025 01:01:21.470] [Worker-Main-9/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/levelgen/NoiseChunk$2
+[07Feb2025 01:01:21.772] [Worker-Main-18/DEBUG] [mixin/]: Mixing common.SurfaceRulesContextAccessor from infernal-expansion.mixins.json into net.minecraft.world.level.levelgen.SurfaceRules$Context
+[07Feb2025 01:01:37.660] [Server thread/DEBUG] [mixin/]: Mixing world.inventory.ContainerLevelAccessMixin from mixins.arclight.core.json into net.minecraft.world.inventory.ContainerLevelAccess
+[07Feb2025 01:01:37.662] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/inventory/ContainerLevelAccess$1Anonymous$cb3ebfdb1c804e76934f3ebde811c31b (originally io/izzel/arclight/common/mixin/core/world/inventory/ContainerLevelAccessMixin$1Anonymous)
+[07Feb2025 01:01:39.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Feb2025 01:01:39.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Feb2025 01:01:52.815] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/server/network/ServerGamePacketListenerImpl$1Handler$8fc9e48f851547d683cd7c53a59d5364 (originally io/izzel/arclight/common/mixin/core/network/ServerPlayNetHandlerMixin$1Handler)
+[07Feb2025 01:01:52.822] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/vehicle/Boat$1
+[07Feb2025 01:04:07.055] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.entity.EntityType
+[07Feb2025 01:04:25.707] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.Material
+[07Feb2025 01:05:28.614] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraftforge/common/ForgeHooks$2
+[07Feb2025 01:06:26.814] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[07Feb2025 01:06:26.814] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[07Feb2025 01:06:26.814] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[07Feb2025 01:06:26.814] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[07Feb2025 01:06:26.814] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[07Feb2025 01:06:26.814] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[07Feb2025 01:06:26.814] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[07Feb2025 01:06:26.814] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[07Feb2025 01:06:26.814] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[07Feb2025 01:06:26.814] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[07Feb2025 01:06:26.814] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[07Feb2025 01:06:26.814] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[07Feb2025 01:06:26.814] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[07Feb2025 01:06:26.814] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[07Feb2025 01:06:26.814] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[07Feb2025 01:06:26.814] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[07Feb2025 01:06:26.814] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[07Feb2025 01:06:26.814] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[07Feb2025 01:06:26.814] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[07Feb2025 01:06:26.815] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[07Feb2025 01:06:26.815] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[07Feb2025 01:06:26.815] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[07Feb2025 01:06:26.815] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[07Feb2025 01:06:26.815] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[07Feb2025 01:06:26.815] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[07Feb2025 01:06:26.815] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[07Feb2025 01:06:26.815] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[07Feb2025 01:06:26.815] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[07Feb2025 01:06:26.815] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[07Feb2025 01:06:26.815] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[07Feb2025 01:06:26.815] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[07Feb2025 01:06:26.815] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[07Feb2025 01:06:26.815] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[07Feb2025 01:06:26.815] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[07Feb2025 01:06:26.815] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[07Feb2025 01:06:26.815] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[07Feb2025 01:06:26.815] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[07Feb2025 01:06:39.775] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Feb2025 01:06:39.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Feb2025 01:07:09.187] [Server thread/DEBUG] [mixin/]: Mixing world.item.MerchantOfferMixin from mixins.arclight.core.json into net.minecraft.world.item.trading.MerchantOffer
+[07Feb2025 01:07:44.941] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/blay09/mods/waystones/core/PlayerWaystoneManager$1
+[07Feb2025 01:08:11.324] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$net$minecraft$world$entity$player$EntityHuman$EnumBedResult()[I class org/bukkit/craftbukkit/v1_19_R1/event/CraftEventFactory$1
+[07Feb2025 01:08:42.561] [Server thread/DEBUG] [Implementer/INVENTORY]: Found implemented class org/bukkit/craftbukkit/v1_19_R1/inventory/CraftInventoryCustom$MinecraftInventory
+[07Feb2025 01:08:42.562] [Server thread/DEBUG] [mixin/]: Mixing world.inventory.MerchantInventoryMixin from mixins.arclight.core.json into net.minecraft.world.inventory.MerchantContainer
+[07Feb2025 01:08:42.565] [Server thread/DEBUG] [mixin/]: Mixing world.level.block.entity.LecternTileEntity1Mixin from mixins.arclight.core.json into net.minecraft.world.level.block.entity.LecternBlockEntity$1
+[07Feb2025 01:08:42.569] [Server thread/DEBUG] [mixin/]: Mixing world.level.block.ComposterBlock_EmptyContainerMixin from mixins.arclight.core.json into net.minecraft.world.level.block.ComposterBlock$EmptyContainer
+[07Feb2025 01:08:42.570] [Server thread/DEBUG] [mixin/]: Mixing world.level.block.ComposterBlock_InputContainerMixin from mixins.arclight.core.json into net.minecraft.world.level.block.ComposterBlock$InputContainer
+[07Feb2025 01:08:42.571] [Server thread/DEBUG] [Implementer/INVENTORY]: Implementing inventory for class net/minecraft/world/level/block/ComposterBlock$InputContainer
+[07Feb2025 01:08:42.571] [Server thread/DEBUG] [mixin/]: Mixing world.level.block.ComposterBlock_OutputContainerMixin from mixins.arclight.core.json into net.minecraft.world.level.block.ComposterBlock$OutputContainer
+[07Feb2025 01:08:42.572] [Server thread/DEBUG] [Implementer/INVENTORY]: Implementing inventory for class net/minecraft/world/level/block/ComposterBlock$OutputContainer
+[07Feb2025 01:11:39.764] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Feb2025 01:11:39.779] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Feb2025 01:11:39.823] [Craft Scheduler Thread - 3/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[07Feb2025 01:13:51.494] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/p3pp3rf1y/sophisticatedbackpacks/backpack/wrapper/BackpackWrapper$2
+[07Feb2025 01:16:39.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Feb2025 01:16:39.782] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Feb2025 01:18:14.573] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 29 messages to dispatch.
+[07Feb2025 01:18:14.575] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Ignaciiaa is 031dfe5e-b202-3181-a70e-a63b1a4fc899
+[07Feb2025 01:18:14.606] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[07Feb2025 01:18:14.655] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[07Feb2025 01:18:14.705] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[07Feb2025 01:18:14.755] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[07Feb2025 01:18:14.805] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[07Feb2025 01:18:14.854] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[07Feb2025 01:18:14.906] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[07Feb2025 01:18:14.929] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[07Feb2025 01:18:14.929] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[07Feb2025 01:18:14.929] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [betterdungeons, wandering_bags, supermartijn642configlib, rechiseled, infernalexp, playeranimator, incendium, sophisticatedcore, waystones, buildersdelight, citadel, alexsmobs, artifacts, sereneseasons, yungsapi, libx, decorative_blocks, mixinextras, redeco, sophisticatedbackpacks, balm, terralith, fusion, shieldexp, knight_quest, dungeons_andtaverns_mr, cloth_config, forge, tlskincape, advancementplaques, dungeons_arise, minecraft, farmersdelight, voicechat, sound_physics_remastered, ambientsounds, bettercombat, endrem, creativecore, supermartijn642corelib, born_in_chaos_v1, roughlyenoughitems, philipsruins, curios, iceberg, xaerominimap, hmag, gravestone, securitycraft, framedblocks, simplytools, argentinas_delight, cfm, architectury, mca, simplyswords, appleskin, alexsdelight, moremobvariants, aquaculture, t_and_t, expandability, geckolib3, crittersandcompanions, phantasm, lumberjack, presencefootsteps]
+[07Feb2025 01:18:14.929] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:cui' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[07Feb2025 01:18:14.929] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[07Feb2025 01:18:14.929] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[07Feb2025 01:18:14.929] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[07Feb2025 01:18:14.929] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'shieldexp:packets' : Version test of '1.0' from client : ACCEPTED
+[07Feb2025 01:18:14.929] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cfm:network' : Version test of '1' from client : ACCEPTED
+[07Feb2025 01:18:14.929] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[07Feb2025 01:18:14.929] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[07Feb2025 01:18:14.929] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[07Feb2025 01:18:14.929] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[07Feb2025 01:18:14.929] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bettercombat:network' : Version test of '1.0' from client : ACCEPTED
+[07Feb2025 01:18:14.929] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'argentinas_delight:argentinas_delight' : Version test of '1' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1.0' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'knight_quest:knight_quest' : Version test of '1' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'infernalexp:main' : Version test of '1' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:internal' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sereneseasons:main_channel' : Version test of '0' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'wandering_bags:wandering_bags' : Version test of '1' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'phantasm:phantasm' : Version test of '1' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.9.6.1' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'born_in_chaos_v1:born_in_chaos_v1' : Version test of '1' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'rechiseled:main' : Version test of '1' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'libx:netchannel' : Version test of '9' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'appleskin:sync' : Version test of '1' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framedblocks:main' : Version test of '2' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supermartijn642configlib:sync_configs' : Version test of '1.1.8' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mca:main' : Version test of '1' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'gravestone:default' : Version test of '1.0.0' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'artifacts:main' : Version test of '1' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib3:main' : Version test of '0' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of '1.0' from client : ACCEPTED
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[07Feb2025 01:18:14.930] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[07Feb2025 01:18:14.955] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[07Feb2025 01:18:14.975] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[07Feb2025 01:18:14.975] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 01:18:14.975] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 01:18:15.004] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[07Feb2025 01:18:15.005] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[07Feb2025 01:18:15.005] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 01:18:15.005] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 01:18:15.056] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[07Feb2025 01:18:15.107] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[07Feb2025 01:18:15.154] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[07Feb2025 01:18:15.207] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 12
+[07Feb2025 01:18:15.255] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 13
+[07Feb2025 01:18:15.290] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[07Feb2025 01:18:15.290] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 01:18:15.290] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 01:18:15.290] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[07Feb2025 01:18:15.290] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 01:18:15.290] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 01:18:15.294] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[07Feb2025 01:18:15.294] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 01:18:15.294] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 01:18:15.305] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 14
+[07Feb2025 01:18:15.354] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 15
+[07Feb2025 01:18:15.405] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry framedblocks:camo_containers' to 'fml:handshake' sequence 16
+[07Feb2025 01:18:15.454] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 17
+[07Feb2025 01:18:15.504] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 18
+[07Feb2025 01:18:15.555] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 19
+[07Feb2025 01:18:15.595] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[07Feb2025 01:18:15.595] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 01:18:15.595] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 01:18:15.595] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[07Feb2025 01:18:15.595] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 01:18:15.595] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 01:18:15.605] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 20
+[07Feb2025 01:18:15.605] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[07Feb2025 01:18:15.605] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 01:18:15.605] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 01:18:15.605] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[07Feb2025 01:18:15.605] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 01:18:15.605] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 01:18:15.605] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[07Feb2025 01:18:15.605] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 01:18:15.605] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 01:18:15.655] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 21
+[07Feb2025 01:18:15.704] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config framedblocks-server.toml' to 'fml:handshake' sequence 22
+[07Feb2025 01:18:15.755] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 23
+[07Feb2025 01:18:15.805] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config artifacts-server.toml' to 'fml:handshake' sequence 24
+[07Feb2025 01:18:15.831] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[07Feb2025 01:18:15.831] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 01:18:15.831] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 01:18:15.831] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[07Feb2025 01:18:15.831] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 01:18:15.831] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 01:18:15.840] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[07Feb2025 01:18:15.840] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 01:18:15.840] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 01:18:15.840] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[07Feb2025 01:18:15.840] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 01:18:15.840] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 01:18:15.840] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[07Feb2025 01:18:15.840] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 01:18:15.840] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 01:18:15.840] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[07Feb2025 01:18:15.840] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 01:18:15.840] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 01:18:15.840] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[07Feb2025 01:18:15.841] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 01:18:15.841] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 01:18:15.841] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[07Feb2025 01:18:15.841] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 01:18:15.841] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 01:18:15.855] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config gravestone-server.toml' to 'fml:handshake' sequence 25
+[07Feb2025 01:18:15.905] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sereneseasons-server.toml' to 'fml:handshake' sequence 26
+[07Feb2025 01:18:15.954] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 27
+[07Feb2025 01:18:16.004] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 28
+[07Feb2025 01:18:23.295] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[07Feb2025 01:18:23.295] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 01:18:23.295] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 01:18:23.335] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[07Feb2025 01:18:23.335] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 01:18:23.335] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 01:18:23.335] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[07Feb2025 01:18:23.335] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 01:18:23.335] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 01:18:23.335] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[07Feb2025 01:18:23.335] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 01:18:23.335] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 01:18:23.337] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[07Feb2025 01:18:23.337] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 01:18:23.337] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 01:18:26.632] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[07Feb2025 01:18:26.632] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 01:18:26.632] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 01:18:26.632] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[07Feb2025 01:18:26.632] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 01:18:26.632] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 01:18:26.647] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[07Feb2025 01:18:26.647] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 01:18:26.647] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 01:18:26.651] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[07Feb2025 01:18:26.651] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Feb2025 01:18:26.651] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Feb2025 01:18:26.655] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[07Feb2025 01:18:26.720] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@308eac7e
+[07Feb2025 01:18:26.730] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ignaciiaa[/127.143.56.8:40695] logged in with entity id 3966 at (652.5, 73.0, -578.5)
+[07Feb2025 01:18:26.730] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@cd58898 into net.minecraft.network.Connection@590511ca
+[07Feb2025 01:18:26.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignaciiaa joined the game
+[07Feb2025 01:18:26.756] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of Ignaciiaa: {disabled=false, disconnected=true, uuid=031dfe5e-b202-3181-a70e-a63b1a4fc899, name=Ignaciiaa, group=null}
+[07Feb2025 01:18:28.382] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ignaciiaa (18)
+[07Feb2025 01:18:28.382] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Ignaciiaa
+[07Feb2025 01:18:28.382] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Ignaciiaa
+[07Feb2025 01:18:28.382] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Ignaciiaa
+[07Feb2025 01:18:28.382] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ignaciiaa
+[07Feb2025 01:18:38.688] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 031dfe5e-b202-3181-a70e-a63b1a4fc899
+[07Feb2025 01:18:39.694] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 031dfe5e-b202-3181-a70e-a63b1a4fc899
+[07Feb2025 01:18:39.694] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Ignaciiaa to connected: {disabled=false, disconnected=false, uuid=031dfe5e-b202-3181-a70e-a63b1a4fc899, name=Ignaciiaa, group=null}
+[07Feb2025 01:18:39.694] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ignaciiaa (031dfe5e-b202-3181-a70e-a63b1a4fc899) successfully connected to voice chat
+[07Feb2025 01:18:39.859] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Ignaciiaa: {disabled=false, disconnected=false, uuid=031dfe5e-b202-3181-a70e-a63b1a4fc899, name=Ignaciiaa, group=null}
+[07Feb2025 01:20:36.809] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=584, y=174, z=-728} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[07Feb2025 01:21:36.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignaciiaa has made the advancement [What a Deal!]
+[07Feb2025 01:21:39.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Feb2025 01:21:39.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Feb2025 01:22:43.861] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignaciiaa lost connection: Disconnected
+[07Feb2025 01:22:43.862] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Ignaciiaa
+[07Feb2025 01:22:43.863] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ignaciiaa
+[07Feb2025 01:22:43.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignaciiaa left the game
+[07Feb2025 01:26:28.582] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.Material
+[07Feb2025 01:26:39.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Feb2025 01:26:39.772] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Feb2025 01:26:39.825] [Craft Scheduler Thread - 6/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[07Feb2025 01:26:57.156] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/FaceAttachedHorizontalDirectionalBlock$1
+[07Feb2025 01:27:37.438] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 905d1f7b-6652-3a99-9dd9-a3db220a872b timed out
+[07Feb2025 01:34:23.379] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PanchikoKW
+[07Feb2025 01:27:57.201] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[07Feb2025 01:27:37.768] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 29 messages to dispatch.
+[07Feb2025 01:34:23.379] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to PanchikoKW
+[07Feb2025 01:34:23.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 446179ms or 8923 ticks behind
+[07Feb2025 01:34:23.380] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[07Feb2025 01:34:23.381] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with PanchikoKW
+[07Feb2025 01:34:23.382] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with PanchikoKW
+[07Feb2025 01:34:23.383] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PanchikoKW
+[07Feb2025 01:34:23.384] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 905d1f7b-6652-3a99-9dd9-a3db220a872b to disconnected: {disabled=false, disconnected=true, uuid=905d1f7b-6652-3a99-9dd9-a3db220a872b, name=PanchikoKW, group=null}
+[07Feb2025 01:34:23.390] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanchikoKW lost connection: Disconnected
+[07Feb2025 01:34:23.390] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of PanchikoKW
+[07Feb2025 01:34:23.390] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PanchikoKW
+[07Feb2025 01:34:24.625] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player PanchikoKW is 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[07Feb2025 01:34:24.636] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[07Feb2025 01:34:24.636] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[07Feb2025 01:34:24.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanchikoKW left the game
+[07Feb2025 01:34:24.670] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@42297bdf
+[07Feb2025 01:34:24.670] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@30946e09
+[07Feb2025 01:34:24.676] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6425411f[id=905d1f7b-6652-3a99-9dd9-a3db220a872b,name=PanchikoKW,properties={},legacy=false] (/127.61.240.200:35829) lost connection: Disconnected
+[07Feb2025 01:34:24.775] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[07Feb2025 01:34:24.775] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[07Feb2025 01:34:24.972] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID deb9c9f9-b25b-4169-92bb-fed0a711348f
+[07Feb2025 01:34:29.310] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID f06a6812-8f8f-4b76-9128-7dde179c3739
+[07Feb2025 01:34:29.319] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/choricraft78/servidor_minecraft/./crash-reports/crash-2025-02-07_01.34.29-server.txt
+[07Feb2025 01:34:29.322] [JLine Shutdown Hook/DEBUG] [org.jline/]: Running all shutdown-hook tasks
+[07Feb2025 01:34:29.322] [JLine Shutdown Hook/DEBUG] [org.jline/]: Running task: org.jline.terminal.impl.PosixSysTerminal$$Lambda$313/0x000071fa681dad18@27a57f63
+[07Feb2025 01:34:29.323] [JLine Shutdown Hook/DEBUG] [org.jline/]: Removing shutdown-hook: Thread[JLine Shutdown Hook,5,main]
+[07Feb2025 01:34:29.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Feb2025 01:34:29.391] [Server thread/INFO] [Sleeper/]: Disabling Sleeper v1.6.1
+[07Feb2025 01:34:29.391] [Server thread/INFO] [Sleeper/]: Sleeper Has Been Disabled!
+[07Feb2025 01:34:29.393] [Server thread/INFO] [JustTPA/]: Disabling JustTPA vv20240420-beta
+[07Feb2025 01:34:29.393] [Server thread/INFO] [JustTPA/]: JustTPA disabled
+[07Feb2025 01:34:29.394] [Server thread/INFO] [SkinMe/]: Disabling SkinMe v1.3.1
+[07Feb2025 01:34:29.394] [Server thread/INFO] [LuckPerms/]: Disabling LuckPerms v5.4.152
+[07Feb2025 01:34:29.394] [Server thread/INFO] [LuckPerms/]: Starting shutdown process...
+[07Feb2025 01:34:29.402] [Server thread/INFO] [LuckPerms/]: Closing storage...
+[07Feb2025 01:34:29.406] [Server thread/INFO] [LuckPerms/]: Goodbye!
+[07Feb2025 01:34:29.408] [Server thread/INFO] [NeoPerformance/]: Disabling NeoPerformance v1.15.4
+[07Feb2025 01:34:29.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Feb2025 01:34:29.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Feb2025 01:34:29.547] [Thread-7/ERROR] [STDERR/]: java.lang.NoClassDefFoundError: org/h2/api/ErrorCode
+[07Feb2025 01:34:29.547] [Thread-7/ERROR] [STDERR/]: 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:475)
+[07Feb2025 01:34:29.547] [Thread-7/ERROR] [STDERR/]: 	at org.h2.message.DbException.get(DbException.java:212)
+[07Feb2025 01:34:29.547] [Thread-7/ERROR] [STDERR/]: 	at org.h2.mvstore.db.Store.close(Store.java:402)
+[07Feb2025 01:34:29.547] [Thread-7/ERROR] [STDERR/]: 	at org.h2.engine.Database.closeOpenFilesAndUnlock(Database.java:1261)
+[07Feb2025 01:34:29.547] [Thread-7/ERROR] [STDERR/]: 	at org.h2.engine.Database.closeImpl(Database.java:1225)
+[07Feb2025 01:34:29.547] [Thread-7/ERROR] [STDERR/]: 	at org.h2.engine.Database.close(Database.java:1144)
+[07Feb2025 01:34:29.547] [Thread-7/ERROR] [STDERR/]: 	at org.h2.engine.OnExitDatabaseCloser.onShutdown(OnExitDatabaseCloser.java:85)
+[07Feb2025 01:34:29.547] [Thread-7/ERROR] [STDERR/]: 	at org.h2.engine.OnExitDatabaseCloser.run(OnExitDatabaseCloser.java:114)
+[07Feb2025 01:34:29.547] [Thread-7/ERROR] [STDERR/]: Caused by: java.lang.ClassNotFoundException: org.h2.api.ErrorCode
+[07Feb2025 01:34:29.547] [Thread-7/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.19.2-1.0.5-696a298/io.izzel.arclight.common.mod.util.remapper.generated.RemappingURLClassLoader.findClass(RemappingURLClassLoader.java:90)
+[07Feb2025 01:34:29.547] [Thread-7/ERROR] [STDERR/]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:592)
+[07Feb2025 01:34:29.547] [Thread-7/ERROR] [STDERR/]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+[07Feb2025 01:34:29.547] [Thread-7/ERROR] [STDERR/]: 	... 8 more
+[07Feb2025 01:34:30.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Feb2025 01:34:30.956] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Feb2025 01:34:30.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Feb2025 01:34:31.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether
+[07Feb2025 01:34:31.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end
+[07Feb2025 01:34:31.088] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[07Feb2025 01:34:31.088] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[07Feb2025 01:34:31.089] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file sereneseasons-server.toml changed, sending notifies
