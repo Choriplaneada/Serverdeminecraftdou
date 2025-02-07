@@ -3078,3 +3078,12 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
 	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[06Feb2025 23:58:55.724] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Ignaciiaa is 031dfe5e-b202-3181-a70e-a63b1a4fc899
+[06Feb2025 23:59:08.654] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3473c1a3
+[06Feb2025 23:59:08.663] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ignaciiaa[/127.143.56.8:50175] logged in with entity id 23334 at (27.42893502360094, 117.0, 95.69999998807907)
+[06Feb2025 23:59:08.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignaciiaa joined the game
+[06Feb2025 23:59:10.048] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ignaciiaa (18)
+[06Feb2025 23:59:10.048] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ignaciiaa
+[06Feb2025 23:59:29.486] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 031dfe5e-b202-3181-a70e-a63b1a4fc899
+[06Feb2025 23:59:30.591] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 031dfe5e-b202-3181-a70e-a63b1a4fc899
+[06Feb2025 23:59:30.591] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ignaciiaa (031dfe5e-b202-3181-a70e-a63b1a4fc899) successfully connected to voice chat
