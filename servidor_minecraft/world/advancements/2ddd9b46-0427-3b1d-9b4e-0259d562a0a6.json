@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-08 05:24:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_white_tulip": "2025-01-21 02:52:12 +0000"
@@ -293,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-08 05:24:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-21 03:15:04 +0000"
@@ -398,6 +410,12 @@
   "cfm:recipes/cfm/brown_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-04 04:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-08 05:24:08 +0000"
     },
     "done": true
   },
@@ -527,6 +545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-08 05:24:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-01-19 23:55:45 +0000"
@@ -572,6 +596,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-02-04 04:26:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-08 05:24:08 +0000"
     },
     "done": true
   },
@@ -959,6 +989,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-08 05:24:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-01-19 23:23:28 +0000"
@@ -1052,6 +1088,12 @@
   "cfm:recipes/cfm/oak_desk_cabinet": {
     "criteria": {
       "has_log": "2025-02-04 06:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-08 05:24:08 +0000"
     },
     "done": true
   },
@@ -1179,6 +1221,12 @@
   "aquaculture:recipes/aquaculture/bobber": {
     "criteria": {
       "has_items": "2025-02-04 04:00:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-08 05:24:08 +0000"
     },
     "done": true
   },
@@ -1375,6 +1423,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/dark_oak_support": {
     "criteria": {
       "has_plank": "2025-01-21 03:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-08 05:24:08 +0000"
     },
     "done": true
   },
@@ -1729,6 +1783,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-01-20 00:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-08 05:24:08 +0000"
     },
     "done": true
   },
@@ -2620,6 +2680,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-08 05:24:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2025-02-04 04:26:08 +0000"
@@ -2689,6 +2755,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-20 04:29:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-08 05:24:08 +0000"
     },
     "done": true
   },
@@ -2827,6 +2899,12 @@
   "cfm:recipes/cfm/oak_bedside_cabinet": {
     "criteria": {
       "has_log": "2025-02-04 06:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-08 05:24:08 +0000"
     },
     "done": true
   },
@@ -3373,6 +3451,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-08 05:24:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-01-19 23:40:35 +0000"
@@ -3679,6 +3763,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-08 05:24:08 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:small_dungeon": {
     "criteria": {
       "in_better_monster_room": "2025-01-20 05:00:27 +0000"
@@ -3740,6 +3830,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-08 05:24:08 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2025-02-04 04:58:17 +0000"
@@ -3785,6 +3881,12 @@
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-01-19 23:35:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-08 05:24:08 +0000"
     },
     "done": true
   },
@@ -3940,6 +4042,12 @@
   "cfm:recipes/cfm/red_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-04 04:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-02-08 05:24:26 +0000"
     },
     "done": true
   },
@@ -4378,6 +4486,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-08 05:24:08 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2025-01-19 23:22:45 +0000"
@@ -4510,6 +4624,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-08 05:24:08 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/red_mushroom_from_fish": {
     "criteria": {
       "has_items": "2025-02-04 04:00:47 +0000"
@@ -4628,6 +4748,12 @@
   "cfm:recipes/cfm/jungle_mail_box": {
     "criteria": {
       "has_chest": "2025-02-04 04:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-08 05:24:08 +0000"
     },
     "done": true
   },
@@ -4973,9 +5099,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-02-08 05:24:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-01-21 03:46:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/laser_block": {
+    "criteria": {
+      "has_stone": "2025-02-08 05:28:08 +0000"
     },
     "done": true
   },
