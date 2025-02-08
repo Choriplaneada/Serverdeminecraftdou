@@ -1415,6 +1415,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-02-08 01:13:53 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_fishing_rod": "2025-02-03 03:15:10 +0000",
@@ -1630,6 +1636,12 @@
   "incendium:root": {
     "criteria": {
       "requirement": "2025-02-04 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-02-08 01:13:53 +0000"
     },
     "done": true
   },
@@ -2597,6 +2609,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-02-08 01:13:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-01-19 23:41:13 +0000"
@@ -2863,6 +2881,12 @@
   "simplytools:recipes/simplytools/paper_compress": {
     "criteria": {
       "has_item": "2025-02-03 05:41:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_red_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-02-08 01:13:53 +0000"
     },
     "done": true
   },
@@ -3163,6 +3187,12 @@
   "cfm:recipes/cfm/light_gray_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-02-03 17:31:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-02-08 01:13:53 +0000"
     },
     "done": true
   },
@@ -4586,6 +4616,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-02-08 01:13:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2025-02-03 04:44:35 +0000"
@@ -5790,6 +5826,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_red_dye": "2025-02-08 01:13:53 +0000"
+    },
+    "done": true
+  },
   "infernalexp:recipes/combat/blindsight_tongue_whip": {
     "criteria": {
       "has_molten_gold_cluster": "2025-01-19 23:23:24 +0000"
@@ -6045,6 +6087,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-19 23:41:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-02-08 01:13:53 +0000"
     },
     "done": true
   },
@@ -6346,6 +6394,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-02-03 19:34:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_red_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-02-08 01:13:53 +0000"
     },
     "done": true
   },
