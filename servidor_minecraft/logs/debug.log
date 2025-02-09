@@ -16507,3 +16507,31 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
 	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[09Feb2025 20:11:13.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[09Feb2025 20:11:13.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Feb2025 20:11:13.532] [Server thread/INFO] [Sleeper/]: Disabling Sleeper v1.6.1
+[09Feb2025 20:11:13.535] [Server thread/INFO] [Sleeper/]: Sleeper Has Been Disabled!
+[09Feb2025 20:11:13.537] [Server thread/INFO] [JustTPA/]: Disabling JustTPA vv20240420-beta
+[09Feb2025 20:11:13.537] [Server thread/INFO] [JustTPA/]: JustTPA disabled
+[09Feb2025 20:11:13.538] [Server thread/INFO] [SkinMe/]: Disabling SkinMe v1.3.1
+[09Feb2025 20:11:13.539] [Server thread/INFO] [LuckPerms/]: Disabling LuckPerms v5.4.152
+[09Feb2025 20:11:13.539] [Server thread/INFO] [LuckPerms/]: Starting shutdown process...
+[09Feb2025 20:11:13.551] [Server thread/INFO] [LuckPerms/]: Closing storage...
+[09Feb2025 20:11:13.579] [Server thread/INFO] [LuckPerms/]: Goodbye!
+[09Feb2025 20:11:13.580] [Server thread/INFO] [NeoPerformance/]: Disabling NeoPerformance v1.15.4
+[09Feb2025 20:11:13.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Feb2025 20:11:13.609] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lim0ncit0Dulce lost connection: Server closed
+[09Feb2025 20:11:13.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lim0ncit0Dulce left the game.
+[09Feb2025 20:11:13.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09Feb2025 20:11:15.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09Feb2025 20:11:16.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Feb2025 20:11:16.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Feb2025 20:11:16.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether
+[09Feb2025 20:11:16.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end
+[09Feb2025 20:11:16.909] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[09Feb2025 20:11:16.909] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[09Feb2025 20:11:16.910] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file sereneseasons-server.toml changed, sending notifies
+[09Feb2025 20:11:16.911] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file sereneseasons-server.toml changed, sending notifies
+[09Feb2025 20:11:16.913] [Server thread/DEBUG] [org.jline/]: Removing shutdown-hook: Thread[JLine Shutdown Hook,5,main]
+[09Feb2025 20:11:21.915] [Exit Thread/DEBUG] [Arclight/]: Threads bStats-Metrics, bStats-Metrics, bStats-Metrics not shutting down
+[09Feb2025 20:11:21.915] [Exit Thread/INFO] [Arclight/]: 3 threads not shutting down correctly, force exiting

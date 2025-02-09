@@ -3092,3 +3092,23 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
 	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[09Feb2025 20:11:13.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[09Feb2025 20:11:13.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Feb2025 20:11:13.532] [Server thread/INFO] [Sleeper/]: Disabling Sleeper v1.6.1
+[09Feb2025 20:11:13.535] [Server thread/INFO] [Sleeper/]: Sleeper Has Been Disabled!
+[09Feb2025 20:11:13.537] [Server thread/INFO] [JustTPA/]: Disabling JustTPA vv20240420-beta
+[09Feb2025 20:11:13.537] [Server thread/INFO] [JustTPA/]: JustTPA disabled
+[09Feb2025 20:11:13.538] [Server thread/INFO] [SkinMe/]: Disabling SkinMe v1.3.1
+[09Feb2025 20:11:13.539] [Server thread/INFO] [LuckPerms/]: Disabling LuckPerms v5.4.152
+[09Feb2025 20:11:13.539] [Server thread/INFO] [LuckPerms/]: Starting shutdown process...
+[09Feb2025 20:11:13.551] [Server thread/INFO] [LuckPerms/]: Closing storage...
+[09Feb2025 20:11:13.579] [Server thread/INFO] [LuckPerms/]: Goodbye!
+[09Feb2025 20:11:13.580] [Server thread/INFO] [NeoPerformance/]: Disabling NeoPerformance v1.15.4
+[09Feb2025 20:11:13.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Feb2025 20:11:13.609] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lim0ncit0Dulce lost connection: Server closed
+[09Feb2025 20:11:13.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lim0ncit0Dulce left the game.
+[09Feb2025 20:11:13.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09Feb2025 20:11:15.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09Feb2025 20:11:16.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether
+[09Feb2025 20:11:16.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end
+[09Feb2025 20:11:21.915] [Exit Thread/INFO] [Arclight/]: 3 threads not shutting down correctly, force exiting
