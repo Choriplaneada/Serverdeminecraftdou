@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/diving_board": {
+    "criteria": {
+      "has_wheat": "2025-02-09 17:40:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-20 03:56:38 +0000"
@@ -1818,6 +1824,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-02-09 17:40:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-02-06 03:37:18 +0000",
@@ -2600,6 +2612,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:pig": "2025-02-06 02:36:03 +0000",
+      "minecraft:sheep": "2025-02-09 17:44:26 +0000",
+      "minecraft:cow": "2025-02-09 17:44:30 +0000",
       "minecraft:chicken": "2025-02-06 02:36:48 +0000"
     },
     "done": false
@@ -7386,6 +7400,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "onion": "2025-02-09 17:40:48 +0000",
       "sugar_cane": "2025-01-20 04:10:58 +0000",
       "potato": "2025-01-20 04:13:03 +0000",
       "wheat": "2025-02-06 02:58:46 +0000",
@@ -8116,6 +8131,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-01-19 23:50:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-02-09 17:40:15 +0000"
     },
     "done": true
   },
