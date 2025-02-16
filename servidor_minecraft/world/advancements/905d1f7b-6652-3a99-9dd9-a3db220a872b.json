@@ -983,6 +983,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_horizontal_pane": {
+    "criteria": {
+      "hasFramedPane": "2025-02-16 05:07:02 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_kitchen_sink_dark": {
     "criteria": {
       "has_top": "2025-02-03 05:16:17 +0000"
@@ -3443,6 +3449,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_trapdoor": {
+    "criteria": {
+      "has_the_recipe": "2025-02-16 05:05:02 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/oak_fish_mount": {
     "criteria": {
       "has_items": "2025-02-03 03:15:10 +0000"
@@ -4016,6 +4028,12 @@
   "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-03 16:44:08 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_iron_trapdoor": {
+    "criteria": {
+      "hasFramedTrapdoor": "2025-02-16 05:05:02 +0000"
     },
     "done": true
   },
@@ -6811,6 +6829,12 @@
   "cfm:recipes/cfm/dye_light_gray_picket_fence": {
     "criteria": {
       "has_dye": "2025-02-04 04:13:38 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_large_button": {
+    "criteria": {
+      "hasFramedButton": "2025-02-16 05:08:27 +0000"
     },
     "done": true
   },
