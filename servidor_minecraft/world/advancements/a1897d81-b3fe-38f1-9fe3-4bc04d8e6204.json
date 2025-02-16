@@ -401,6 +401,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-02-16 04:17:24 +0000"
+    },
+    "done": true
+  },
   "simplytools:recipes/simplytools/iron_hammer": {
     "criteria": {
       "criterion1": "2025-01-21 04:01:29 +0000"
@@ -708,6 +714,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_dark_oak_table": {
+    "criteria": {
+      "has_planks": "2025-02-16 04:17:24 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_coffee_table": {
     "criteria": {
       "has_planks": "2025-02-09 18:43:26 +0000"
@@ -756,6 +768,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-02-16 04:17:24 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/iron_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2025-02-04 04:05:39 +0000"
@@ -777,6 +795,12 @@
   "minecraft:recipes/building_blocks/ice_from_freezing": {
     "criteria": {
       "has_water": "2025-02-04 04:05:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-02-16 04:17:24 +0000"
     },
     "done": true
   },
@@ -1132,6 +1156,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-02-16 04:17:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-01-21 05:28:21 +0000"
@@ -1381,6 +1411,18 @@
   "cfm:recipes/cfm/spruce_mail_box": {
     "criteria": {
       "has_chest": "2025-02-09 18:48:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_blinds": {
+    "criteria": {
+      "has_log": "2025-02-16 04:17:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_cabinet": {
+    "criteria": {
+      "has_log": "2025-02-16 04:17:24 +0000"
     },
     "done": true
   },
@@ -1768,6 +1810,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-01-21 05:33:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_crate": {
+    "criteria": {
+      "has_planks": "2025-02-16 04:17:24 +0000"
     },
     "done": true
   },
@@ -2539,6 +2587,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_dark_oak_park_bench": {
+    "criteria": {
+      "has_log": "2025-02-16 04:17:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/redstone_module": {
     "criteria": {
       "has_iron": "2025-02-09 18:38:13 +0000"
@@ -2578,6 +2632,12 @@
   "cfm:recipes/cfm/gray_cooler": {
     "criteria": {
       "has_chest": "2025-02-09 18:48:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-16 04:17:24 +0000"
     },
     "done": true
   },
@@ -2680,6 +2740,12 @@
   "aquaculture:recipes/aquaculture/light_hook": {
     "criteria": {
       "has_items": "2025-02-04 04:05:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-02-16 04:17:24 +0000"
     },
     "done": true
   },
@@ -2824,6 +2890,12 @@
   "aquaculture:recipes/tools/diamond_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2025-02-04 04:05:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_desk": {
+    "criteria": {
+      "has_planks": "2025-02-16 04:17:24 +0000"
     },
     "done": true
   },
@@ -3570,6 +3642,12 @@
   "cfm:recipes/cfm/orange_cooler": {
     "criteria": {
       "has_chest": "2025-02-09 18:48:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-16 04:17:24 +0000"
     },
     "done": true
   },
