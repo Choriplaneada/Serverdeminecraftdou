@@ -2665,3 +2665,25 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [16Feb2025 03:51:06.365] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2131)
 [16Feb2025 03:51:06.365] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:244)
 [16Feb2025 03:51:06.365] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[16Feb2025 03:52:30.508] [Netty Epoll Server IO #4/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[16Feb2025 03:52:30.524] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lim0ncit0Dulce> zzz
+[16Feb2025 03:53:37.315] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1cc1444
+[16Feb2025 03:59:20.692] [Craft Scheduler Thread - 3/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[16Feb2025 04:00:17.901] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player franciscum is a1897d81-b3fe-38f1-9fe3-4bc04d8e6204
+[16Feb2025 04:00:22.972] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@43803d6e
+[16Feb2025 04:00:22.982] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: franciscum[/127.92.136.39:34209] logged in with entity id 6571 at (443.188557075664, 68.0, -795.5011294897313)
+[16Feb2025 04:00:22.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: franciscum joined the game
+[16Feb2025 04:00:24.091] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of franciscum (18)
+[16Feb2025 04:00:24.092] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to franciscum
+[16Feb2025 04:00:28.639] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a1897d81-b3fe-38f1-9fe3-4bc04d8e6204
+[16Feb2025 04:00:29.646] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a1897d81-b3fe-38f1-9fe3-4bc04d8e6204
+[16Feb2025 04:00:29.646] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player franciscum (a1897d81-b3fe-38f1-9fe3-4bc04d8e6204) successfully connected to voice chat
