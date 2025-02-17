@@ -3268,6 +3268,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-17 04:30:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/crimson_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-02-04 04:19:38 +0000"
