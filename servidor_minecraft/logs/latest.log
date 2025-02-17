@@ -2658,3 +2658,46 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
 [17Feb2025 19:03:31.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanchikoKW was doomed to fall by Skeleton
 [17Feb2025 19:04:14.099] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Jolanta'/4856, l='ServerLevel[world]', x=631.42, y=154.00, z=-741.39] died: Jolanta burned to death
+[17Feb2025 19:11:46.293] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Lim0ncit0Dulce is 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[17Feb2025 19:11:51.121] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@620bfac7
+[17Feb2025 19:11:51.132] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lim0ncit0Dulce[/127.5.198.131:45269] logged in with entity id 7621 at (622.4383812684362, 82.0, -662.2925334928092)
+[17Feb2025 19:11:51.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lim0ncit0Dulce joined the game
+[17Feb2025 19:11:54.082] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Lim0ncit0Dulce (18)
+[17Feb2025 19:11:54.083] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[17Feb2025 19:11:58.021] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[17Feb2025 19:11:59.015] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[17Feb2025 19:11:59.015] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[17Feb2025 19:12:03.489] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[17Feb2025 19:12:03.500] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> :v
+[17Feb2025 19:12:36.109] [Netty Epoll Server IO #4/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[17Feb2025 19:12:36.122] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lim0ncit0Dulce> que onda
+[17Feb2025 19:12:42.347] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[17Feb2025 19:12:42.358] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> Que onda loco
+[17Feb2025 19:12:47.179] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[17Feb2025 19:12:47.180] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> ¿Tenes huevos?
+[17Feb2025 19:13:02.592] [Netty Epoll Server IO #4/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[17Feb2025 19:13:02.593] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lim0ncit0Dulce> tenes tinte verde o azul ??
+[17Feb2025 19:13:18.724] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[17Feb2025 19:13:18.724] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> Eeee
+[17Feb2025 19:13:21.792] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[17Feb2025 19:13:21.792] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> Azul
+[17Feb2025 19:13:39.054] [Netty Epoll Server IO #4/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[17Feb2025 19:13:39.055] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lim0ncit0Dulce> uuuuu me convidas ??
+[17Feb2025 19:14:47.290] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[17Feb2025 19:14:47.291] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> Ontas
+[17Feb2025 19:14:52.263] [Netty Epoll Server IO #4/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[17Feb2025 19:14:52.264] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lim0ncit0Dulce> en mi casa
+[17Feb2025 19:15:09.558] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[17Feb2025 19:15:09.559] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> where
+[17Feb2025 19:15:17.293] [Netty Epoll Server IO #4/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[17Feb2025 19:15:17.294] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lim0ncit0Dulce> en lso cofres
+[17Feb2025 19:16:17.276] [Craft Scheduler Thread - 7/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}

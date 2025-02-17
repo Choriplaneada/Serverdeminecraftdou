@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dye_blue_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-02-17 19:13:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-01-19 23:38:05 +0000"
@@ -974,6 +980,12 @@
   "framedblocks:recipes/framed_blocks/framed_secret_storage": {
     "criteria": {
       "hasFramedBlock": "2025-02-03 05:14:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-02-17 19:13:58 +0000"
     },
     "done": true
   },
@@ -1858,6 +1870,12 @@
   "cfm:recipes/cfm/white_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-02-03 17:31:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2025-02-17 19:13:58 +0000"
     },
     "done": true
   },
@@ -3388,6 +3406,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dye_blue_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-02-17 19:13:58 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
       "killed_by": "2025-02-16 04:36:23 +0000"
@@ -3458,6 +3482,12 @@
   "framedblocks:recipes/framed_blocks/framed_trapdoor": {
     "criteria": {
       "has_the_recipe": "2025-02-16 05:05:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_blue_dye": "2025-02-17 19:13:58 +0000"
     },
     "done": true
   },
