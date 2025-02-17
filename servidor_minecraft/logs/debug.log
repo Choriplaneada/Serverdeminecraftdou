@@ -14367,3 +14367,34 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
 	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[17Feb2025 03:44:04.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Feb2025 03:44:04.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Feb2025 03:49:04.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Feb2025 03:49:04.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Feb2025 03:54:04.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Feb2025 03:54:04.822] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Feb2025 03:54:04.866] [Craft Scheduler Thread - 10/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[17Feb2025 03:54:15.162] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=445, y=68, z=-786} BlockPos{x=444, y=66, z=-787}
+[17Feb2025 03:54:15.611] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=446, y=68, z=-788} BlockPos{x=446, y=66, z=-789}
+[17Feb2025 03:54:15.656] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=446, y=68, z=-788} BlockPos{x=446, y=66, z=-789}
+[17Feb2025 03:54:55.216] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=457, y=67, z=-771} BlockPos{x=457, y=65, z=-772}
+[17Feb2025 03:54:55.249] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=457, y=67, z=-771} BlockPos{x=457, y=65, z=-772}
+[17Feb2025 03:54:57.799] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=462, y=66, z=-766} BlockPos{x=463, y=64, z=-765}
+[17Feb2025 03:55:53.446] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=455, y=65, z=-769} BlockPos{x=455, y=64, z=-768}
+[17Feb2025 03:57:02.155] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=500, y=65, z=-767} BlockPos{x=500, y=65, z=-766}
+[17Feb2025 03:57:02.204] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=500, y=65, z=-767} BlockPos{x=500, y=65, z=-766}
+[17Feb2025 03:57:22.855] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=492, y=68, z=-748} BlockPos{x=491, y=66, z=-748}
+[17Feb2025 03:57:22.906] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=492, y=68, z=-748} BlockPos{x=491, y=66, z=-748}
+[17Feb2025 03:57:25.056] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=491, y=68, z=-750} BlockPos{x=491, y=66, z=-751}
+[17Feb2025 03:57:28.806] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=494, y=68, z=-758} BlockPos{x=494, y=66, z=-758}
+[17Feb2025 03:59:04.814] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Feb2025 03:59:04.825] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
