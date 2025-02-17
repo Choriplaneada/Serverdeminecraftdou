@@ -2439,6 +2439,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "killed": "2025-02-17 04:53:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-02-17 03:21:16 +0000"
