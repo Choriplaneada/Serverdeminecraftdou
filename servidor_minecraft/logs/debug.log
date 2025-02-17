@@ -14504,3 +14504,49 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
 	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[17Feb2025 04:44:04.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Feb2025 04:44:04.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Feb2025 04:49:04.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Feb2025 04:49:04.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Feb2025 04:51:24.917] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/blay09/mods/waystones/core/PlayerWaystoneManager$1
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: java.io.IOException: Base resource not found: aft$2.class
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.Patcher.applyPatch(Patcher.java:146)
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourcePatched(OptiFineTransformer.java:396)
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStreamPatched(OptiFineTransformer.java:368)
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStream(OptiFineTransformer.java:291)
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResource(OptiFineTransformer.java:260)
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:171)
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:1)
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformerHolder.transform(TransformerHolder.java:41)
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.performVote(ClassTransformer.java:179)
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:98)
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ChunkMap.m_183726_(ChunkMapMixin.java:305)
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646)
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614)
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:653)
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62)
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157)
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_6367_(ServerChunkCache_MainThreadExecutorMixin.java:535)
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131)
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_7245_(ServerChunkCache_MainThreadExecutorMixin.java:629)
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ServerChunkCache.m_8466_(ServerChunkCacheMixin.java:267)
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:751)
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:740)
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116)
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:725)
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2131)
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:244)
+[17Feb2025 04:51:24.966] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[17Feb2025 04:51:25.441] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/izzel/arclight/common/mixin/core/world/level/block/PressurePlateBlockMixin$1
+[17Feb2025 04:51:51.661] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/FenceGateBlock$1
+[17Feb2025 04:53:02.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lim0ncit0Dulce has made the advancement [Convergent Evolution...]
+[17Feb2025 04:53:33.598] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/bettercombat/mixin/ServerPlayNetworkHandlerMixin$1
