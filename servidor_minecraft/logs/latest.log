@@ -2901,3 +2901,100 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [17Feb2025 19:49:57.642] [Worker-Main-60/WARN] [Implementer/ASYNC_CATCHER]: Async effect add
 [17Feb2025 19:50:39.208] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
 [17Feb2025 19:50:39.209] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> Fa
+[17Feb2025 19:50:43.283] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[17Feb2025 19:50:43.284] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> Suerte gordis
+[17Feb2025 19:50:48.919] [Worker-Main-33/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Feb2025 19:50:48.919] [Worker-Main-33/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Feb2025 19:50:48.919] [Worker-Main-33/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Feb2025 19:50:48.919] [Worker-Main-33/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Feb2025 19:50:57.920] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[17Feb2025 19:50:57.921] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> El desierto a penas aparece en el server
+[17Feb2025 19:51:03.488] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[17Feb2025 19:51:03.489] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> Traeme girasoles si ves
+[17Feb2025 19:51:21.285] [Server thread/ERROR] [STDERR/]: java.io.IOException: Base resource not found: cay.class
+[17Feb2025 19:51:21.285] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.Patcher.applyPatch(Patcher.java:146)
+[17Feb2025 19:51:21.285] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourcePatched(OptiFineTransformer.java:396)
+[17Feb2025 19:51:21.285] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStreamPatched(OptiFineTransformer.java:368)
+[17Feb2025 19:51:21.285] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStream(OptiFineTransformer.java:291)
+[17Feb2025 19:51:21.285] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResource(OptiFineTransformer.java:260)
+[17Feb2025 19:51:21.285] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:171)
+[17Feb2025 19:51:21.285] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:1)
+[17Feb2025 19:51:21.285] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformerHolder.transform(TransformerHolder.java:41)
+[17Feb2025 19:51:21.285] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.performVote(ClassTransformer.java:179)
+[17Feb2025 19:51:21.285] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:98)
+[17Feb2025 19:51:21.285] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+[17Feb2025 19:51:21.285] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+[17Feb2025 19:51:21.285] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+[17Feb2025 19:51:21.285] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+[17Feb2025 19:51:21.285] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+[17Feb2025 19:51:21.285] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+[17Feb2025 19:51:21.286] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+[17Feb2025 19:51:21.286] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.item.BucketItem.m_7203_(BucketItemMixin.java:77)
+[17Feb2025 19:51:21.286] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.item.ItemStack.m_41682_(ItemStackMixin.java:266)
+[17Feb2025 19:51:21.286] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameModeMixin.java:286)
+[17Feb2025 19:51:21.286] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerPlayNetHandlerMixin.java:2712)
+[17Feb2025 19:51:21.288] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:29)
+[17Feb2025 19:51:21.288] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:7)
+[17Feb2025 19:51:21.288] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.network.protocol.PacketUtils.md1c0c40$lambda$ensureRunningOnSameThread$0$0(PacketThreadUtilMixin.java:537)
+[17Feb2025 19:51:21.288] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.TickTask.run(TickTask.java:18)
+[17Feb2025 19:51:21.288] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157)
+[17Feb2025 19:51:21.288] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[17Feb2025 19:51:21.288] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:763)
+[17Feb2025 19:51:21.288] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:157)
+[17Feb2025 19:51:21.288] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131)
+[17Feb2025 19:51:21.288] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:746)
+[17Feb2025 19:51:21.288] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:740)
+[17Feb2025 19:51:21.288] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140)
+[17Feb2025 19:51:21.288] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:726)
+[17Feb2025 19:51:21.288] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2131)
+[17Feb2025 19:51:21.288] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:244)
+[17Feb2025 19:51:21.288] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[17Feb2025 19:51:34.624] [Worker-Main-59/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-4636, y=39, z=-1262}
+[17Feb2025 19:51:38.339] [Worker-Main-61/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-4642, y=39, z=-1268}
+[17Feb2025 19:52:04.918] [Netty Epoll Server IO #4/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[17Feb2025 19:52:04.920] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lim0ncit0Dulce> encotnre uno solo
+[17Feb2025 19:52:11.479] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[17Feb2025 19:52:11.480] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> Sirve
+[17Feb2025 19:52:21.129] [Netty Epoll Server IO #4/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[17Feb2025 19:52:21.130] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lim0ncit0Dulce> ya tengo 5
+[17Feb2025 19:53:34.644] [Netty Epoll Server IO #4/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[17Feb2025 19:53:34.645] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lim0ncit0Dulce> y una aldea
+[17Feb2025 19:53:36.256] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Harke'/29612, l='ServerLevel[world]', x=-4630.50, y=71.00, z=-1218.13] died, message: 'Harke was shot by Pillager'
+[17Feb2025 19:54:17.401] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lars'/29614, l='ServerLevel[world]', x=-4628.65, y=75.00, z=-1203.10] died, message: 'Lars was shot by Pillager'
+[17Feb2025 19:54:19.154] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Hylke'/29615, l='ServerLevel[world]', x=-4631.43, y=75.00, z=-1211.36] died, message: 'Hylke was shot by Pillager'
+[17Feb2025 19:54:34.340] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Elfriede'/29741, l='ServerLevel[world]', x=-4610.90, y=69.00, z=-1212.09] died, message: 'Elfriede was shot by Pillager'
+[17Feb2025 19:54:34.341] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Elfriede'/29741, l='ServerLevel[world]', x=-4610.90, y=69.00, z=-1212.09] died: Elfriede was shot by Pillager
+[17Feb2025 19:54:48.314] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Viola'/29790, l='ServerLevel[world]', x=-4614.27, y=69.00, z=-1217.72] died, message: 'Viola was shot by Pillager'
+[17Feb2025 19:55:09.306] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ike'/29740, l='ServerLevel[world]', x=-4581.08, y=76.00, z=-1191.68] died, message: 'Ike was shot by Pillager'
+[17Feb2025 19:55:09.306] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ike'/29740, l='ServerLevel[world]', x=-4581.08, y=76.00, z=-1191.68] died: Ike was shot by Pillager
+[17Feb2025 19:55:33.156] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Falko'/29596, l='ServerLevel[world]', x=-4631.03, y=71.00, z=-1232.51] died, message: 'Falko was shot by Pillager'
+[17Feb2025 19:55:35.312] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Birte'/29758, l='ServerLevel[world]', x=-4625.73, y=74.00, z=-1193.92] died, message: 'Birte was shot by Pillager'
+[17Feb2025 19:55:35.312] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Birte'/29758, l='ServerLevel[world]', x=-4625.73, y=74.00, z=-1193.92] died: Birte was shot by Pillager
+[17Feb2025 19:55:37.252] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Marita'/29734, l='ServerLevel[world]', x=-4591.57, y=69.00, z=-1207.41] died, message: 'Marita was shot by Pillager'
+[17Feb2025 19:55:37.252] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Marita'/29734, l='ServerLevel[world]', x=-4591.57, y=69.00, z=-1207.41] died: Marita was shot by Pillager
+[17Feb2025 19:55:51.203] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Herma'/29743, l='ServerLevel[world]', x=-4613.13, y=70.00, z=-1215.63] died, message: 'Herma was shot by Pillager'
+[17Feb2025 19:55:51.204] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Herma'/29743, l='ServerLevel[world]', x=-4613.13, y=70.00, z=-1215.63] died: Herma was shot by Pillager
+[17Feb2025 19:56:03.252] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Gerritdina'/29848, l='ServerLevel[world]', x=-4538.27, y=69.00, z=-1235.29] died, message: 'Gerritdina was shot by Pillager'
+[17Feb2025 19:56:03.252] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Gerritdina'/29848, l='ServerLevel[world]', x=-4538.27, y=69.00, z=-1235.29] died: Gerritdina was shot by Pillager
+[17Feb2025 19:56:14.673] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Cordula'/29920, l='ServerLevel[world]', x=-4576.54, y=68.00, z=-1227.90] died, message: 'Cordula was slain by Kangaroo'
+[17Feb2025 19:56:14.673] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Cordula'/29920, l='ServerLevel[world]', x=-4576.54, y=68.00, z=-1227.90] died: Cordula was slain by Kangaroo
+[17Feb2025 19:56:24.357] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Erwin'/29742, l='ServerLevel[world]', x=-4618.88, y=71.00, z=-1224.67] died, message: 'Erwin was shot by Pillager'
+[17Feb2025 19:56:24.357] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Erwin'/29742, l='ServerLevel[world]', x=-4618.88, y=71.00, z=-1224.67] died: Erwin was shot by Pillager
+[17Feb2025 19:57:14.120] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Gunnar'/29613, l='ServerLevel[world]', x=-4635.49, y=71.00, z=-1220.84] died, message: 'Gunnar was shot by Pillager'
+[17Feb2025 19:57:33.501] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Martin'/29750, l='ServerLevel[world]', x=-4593.94, y=69.00, z=-1228.73] died, message: 'Martin was shot by Pillager'
+[17Feb2025 19:57:33.502] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Martin'/29750, l='ServerLevel[world]', x=-4593.94, y=69.00, z=-1228.73] died: Martin was shot by Pillager
+[17Feb2025 19:57:43.160] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Helmuth'/29757, l='ServerLevel[world]', x=-4603.50, y=67.00, z=-1241.66] died, message: 'Helmuth was shot by Pillager'
+[17Feb2025 19:57:43.161] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Helmuth'/29757, l='ServerLevel[world]', x=-4603.50, y=67.00, z=-1241.66] died: Helmuth was shot by Pillager
+[17Feb2025 19:58:07.255] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Heidi'/29619, l='ServerLevel[world]', x=-4622.62, y=70.00, z=-1249.65] died, message: 'Heidi was shot by Pillager'
+[17Feb2025 20:00:10.157] [Netty Epoll Server IO #4/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[17Feb2025 20:00:10.158] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lim0ncit0Dulce> ya tengo tp en casa jiji
+[17Feb2025 20:01:17.285] [Craft Scheduler Thread - 13/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
