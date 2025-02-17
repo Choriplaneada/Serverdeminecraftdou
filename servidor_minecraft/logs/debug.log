@@ -16576,3 +16576,21 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [17Feb2025 21:39:52.842] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Lim0ncit0Dulce: {disabled=false, disconnected=false, uuid=2ddd9b46-0427-3b1d-9b4e-0259d562a0a6, name=Lim0ncit0Dulce, group=null}
 [17Feb2025 21:41:17.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Feb2025 21:41:17.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Feb2025 21:46:11.047] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lim0ncit0Dulce lost connection: Disconnected
+[17Feb2025 21:46:11.047] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Lim0ncit0Dulce
+[17Feb2025 21:46:11.047] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lim0ncit0Dulce
+[17Feb2025 21:46:11.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lim0ncit0Dulce left the game
+[17Feb2025 21:46:17.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Feb2025 21:46:17.197] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Feb2025 21:46:17.239] [Craft Scheduler Thread - 27/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[17Feb2025 21:51:17.170] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Feb2025 21:51:17.180] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
