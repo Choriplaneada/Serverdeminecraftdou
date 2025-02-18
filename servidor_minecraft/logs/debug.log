@@ -13877,3 +13877,26 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [18Feb2025 02:38:55.375] [OkHttp metadata.luckperms.net/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: >> 0x00000000     8 GOAWAY        
 [18Feb2025 02:39:24.709] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Feb2025 02:39:24.732] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Feb2025 02:44:13.765] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class sereneseasons/season/SeasonHooks$1
+[18Feb2025 02:44:24.659] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Feb2025 02:44:24.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Feb2025 02:47:37.716] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing network.ServerHandshakeNetHandlerMixin from mixins.arclight.core.json into net.minecraft.server.network.ServerHandshakePacketListenerImpl
+[18Feb2025 02:47:37.717] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Renaming synthetic method lambda$handleIntention$0(JLjava/util/Map$Entry;)Z to md49c197$lambda$handleIntention$0$0 in mixins.arclight.core.json:network.ServerHandshakeNetHandlerMixin
+[18Feb2025 02:47:37.741] [Netty Epoll Server IO #2/DEBUG] [mixin/]: Mixing network.protocol.handshake.CHandshakePacketMixin from mixins.arclight.core.json into net.minecraft.network.protocol.handshake.ClientIntentionPacket
+[18Feb2025 02:47:37.782] [Netty Epoll Server IO #2/DEBUG] [mixin/]: Mixing network.protocol.game.ClientboundSectionBlocksUpdatePacketMixin from mixins.arclight.core.json into net.minecraft.network.protocol.game.ClientboundSectionBlocksUpdatePacket
+[18Feb2025 02:47:37.824] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.maxCapacityPerThread: 4096
+[18Feb2025 02:47:37.824] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.ratio: 8
+[18Feb2025 02:47:37.824] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.chunkSize: 32
+[18Feb2025 02:47:37.824] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.blocking: false
+[18Feb2025 02:49:24.646] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Feb2025 02:49:24.659] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Feb2025 02:49:24.700] [Craft Scheduler Thread - 3/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
