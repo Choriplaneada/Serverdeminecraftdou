@@ -3084,3 +3084,156 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [19Feb2025 03:01:05.530] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5159a3fa
 [19Feb2025 03:01:05.537] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: franciscum[/127.92.136.39:40237] logged in with entity id 39527 at (434.7645198541548, 67.0, -796.0478137687913)
 [19Feb2025 03:01:05.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: franciscum joined the game
+[19Feb2025 03:01:06.726] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of franciscum (18)
+[19Feb2025 03:01:06.727] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to franciscum
+[19Feb2025 03:01:11.201] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a1897d81-b3fe-38f1-9fe3-4bc04d8e6204
+[19Feb2025 03:01:12.309] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a1897d81-b3fe-38f1-9fe3-4bc04d8e6204
+[19Feb2025 03:01:12.309] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player franciscum (a1897d81-b3fe-38f1-9fe3-4bc04d8e6204) successfully connected to voice chat
+[19Feb2025 03:01:17.974] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give Lim0ncit0Dulce minecraft:glowstone 104
+[19Feb2025 03:01:17.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 104 [Glowstone] to Lim0ncit0Dulce]
+[19Feb2025 03:01:18.458] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 10ba40f4-9431-3355-8ffe-39de4b50c493 timed out
+[19Feb2025 03:01:18.458] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player durooo
+[19Feb2025 03:01:18.458] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to durooo
+[19Feb2025 03:01:18.775] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 10ba40f4-9431-3355-8ffe-39de4b50c493
+[19Feb2025 03:01:19.769] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 10ba40f4-9431-3355-8ffe-39de4b50c493
+[19Feb2025 03:01:19.769] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player durooo (10ba40f4-9431-3355-8ffe-39de4b50c493) successfully connected to voice chat
+[19Feb2025 03:01:37.876] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give Lim0ncit0Dulce minecraft:nether_brick_fence 314
+[19Feb2025 03:01:37.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 314 [Nether Brick Fence] to Lim0ncit0Dulce]
+[19Feb2025 03:02:31.675] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give Lim0ncit0Dulce minecraft:nether_brick_wall 107
+[19Feb2025 03:02:31.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 107 [Nether Brick Wall] to Lim0ncit0Dulce]
+[19Feb2025 03:02:42.522] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give Lim0ncit0Dulce minecraft:nether_brick_stairs 1286
+[19Feb2025 03:02:42.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 1286 [Nether Brick Stairs] to Lim0ncit0Dulce]
+[19Feb2025 03:03:05.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give Lim0ncit0Dulce minecraft:nether_brick_slab 176
+[19Feb2025 03:03:05.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 176 [Nether Brick Slab] to Lim0ncit0Dulce]
+[19Feb2025 03:03:18.202] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give Lim0ncit0Dulce minecraft:nether_brick 1042
+[19Feb2025 03:03:18.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 1042 [Nether Brick] to Lim0ncit0Dulce]
+[19Feb2025 03:03:51.771] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give Lim0ncit0Dulce minecraft:nether_bricks 1042
+[19Feb2025 03:03:51.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 1042 [Nether Bricks] to Lim0ncit0Dulce]
+[19Feb2025 03:04:35.026] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give Lim0ncit0Dulce minecraft:deepslate_brick_wall 6
+[19Feb2025 03:04:35.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 6 [Deepslate Brick Wall] to Lim0ncit0Dulce]
+[19Feb2025 03:05:07.947] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give Lim0ncit0Dulce minecraft:deepslate_brick_wall 295
+[19Feb2025 03:05:07.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 295 [Deepslate Brick Wall] to Lim0ncit0Dulce]
+[19Feb2025 03:05:24.538] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give Lim0ncit0Dulce minecraft:deepslate_bricks 6
+[19Feb2025 03:05:24.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 6 [Deepslate Bricks] to Lim0ncit0Dulce]
+[19Feb2025 03:05:56.131] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give Lim0ncit0Dulce minecraft:deepslate_bricks 410
+[19Feb2025 03:05:56.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 410 [Deepslate Bricks] to Lim0ncit0Dulce]
+[19Feb2025 03:06:09.653] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give Lim0ncit0Dulce minecraft:deepslate_brick_slab 98
+[19Feb2025 03:06:09.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 98 [Deepslate Brick Slab] to Lim0ncit0Dulce]
+[19Feb2025 03:06:21.051] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give Lim0ncit0Dulce minecraft:deepslate_brick_stairs 132
+[19Feb2025 03:06:21.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 132 [Deepslate Brick Stairs] to Lim0ncit0Dulce]
+[19Feb2025 03:07:01.703] [Netty Epoll Server IO #7/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[19Feb2025 03:07:01.704] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lim0ncit0Dulce> zzz
+[19Feb2025 03:07:36.902] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give Lim0ncit0Dulce minecraft:blackstone 253
+[19Feb2025 03:07:36.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 253 [Blackstone] to Lim0ncit0Dulce]
+[19Feb2025 03:07:58.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give Lim0ncit0Dulce minecraft:polished_blackstone_brick_wall 714
+[19Feb2025 03:07:58.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 714 [Polished Blackstone Brick Wall] to Lim0ncit0Dulce]
+[19Feb2025 03:08:30.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give Lim0ncit0Dulce minecraft:chiseled_polished_blackstone 248
+[19Feb2025 03:08:30.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 248 [Chiseled Polished Blackstone] to Lim0ncit0Dulce]
+[19Feb2025 03:09:09.173] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give Lim0ncit0Dulce minecraft:polished_blackstone_brick_stairs 3254
+[19Feb2025 03:09:09.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 3254 [Polished Blackstone Brick Stairs] to Lim0ncit0Dulce]
+[19Feb2025 03:09:23.478] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give Lim0ncit0Dulce minecraft:polished_blackstone_brick_slab 1280
+[19Feb2025 03:09:23.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 1280 [Polished Blackstone Brick Slab] to Lim0ncit0Dulce]
+[19Feb2025 03:09:43.492] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=205, y=51, z=204}
+[19Feb2025 03:10:18.127] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give Lim0ncit0Dulce minecraft:polished_blackstone_bricks 2990
+[19Feb2025 03:10:18.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 2990 [Polished Blackstone Bricks] to Lim0ncit0Dulce]
+[19Feb2025 03:10:55.446] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give Lim0ncit0Dulce minecraft:polished_diorite_slab 92
+[19Feb2025 03:10:55.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 92 [Polished Diorite Slab] to Lim0ncit0Dulce]
+[19Feb2025 03:11:04.540] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give Lim0ncit0Dulce minecraft:polished_diorite_stairs 4
+[19Feb2025 03:11:04.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 4 [Polished Diorite Stairs] to Lim0ncit0Dulce]
+[19Feb2025 03:11:11.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: durooo was slain by Kobold
+[19Feb2025 03:11:19.292] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give Lim0ncit0Dulce minecraft:andesite 80
+[19Feb2025 03:11:19.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 80 [Andesite] to Lim0ncit0Dulce]
+[19Feb2025 03:11:31.252] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give Lim0ncit0Dulce minecraft:cracked_stone_bricks 80
+[19Feb2025 03:11:31.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 80 [Cracked Stone Bricks] to Lim0ncit0Dulce]
+[19Feb2025 03:11:37.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanchikoKW was impaled on a stalagmite whilst fighting Stray
+[19Feb2025 03:11:37.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: franciscum was slain by Zombie
+[19Feb2025 03:12:20.591] [Craft Scheduler Thread - 22/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[19Feb2025 03:13:24.283] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give Lim0ncit0Dulce minecraft:stone_brick_stairs 8
+[19Feb2025 03:13:24.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 8 [Stone Brick Stairs] to Lim0ncit0Dulce]
+[19Feb2025 03:13:41.339] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give Lim0ncit0Dulce minecraft:mangrove_fence 28
+[19Feb2025 03:13:41.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 28 [Mangrove Fence] to Lim0ncit0Dulce]
+[19Feb2025 03:13:52.922] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give Lim0ncit0Dulce minecraft:spruce_stairs 38
+[19Feb2025 03:13:52.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 38 [Spruce Stairs] to Lim0ncit0Dulce]
+[19Feb2025 03:14:05.779] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give Lim0ncit0Dulce minecraft:spruce_planks 4201
+[19Feb2025 03:14:05.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 4201 [Spruce Planks] to Lim0ncit0Dulce]
+[19Feb2025 03:14:22.923] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give Lim0ncit0Dulce minecraft:stripped_spruce_log 1712
+[19Feb2025 03:14:22.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 1712 [Stripped Spruce Log] to Lim0ncit0Dulce]
+[19Feb2025 03:14:31.270] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ezemede issued server command: /tpa alexis83
+[19Feb2025 03:14:52.989] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give Lim0ncit0Dulce minecraft:dark_oak_fence_gate 218
+[19Feb2025 03:14:53.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 218 [Dark Oak Fence Gate] to Lim0ncit0Dulce]
+[19Feb2025 03:15:00.139] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give Lim0ncit0Dulce minecraft:dark_oak_fence 358
+[19Feb2025 03:15:00.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 358 [Dark Oak Fence] to Lim0ncit0Dulce]
+[19Feb2025 03:15:08.428] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give Lim0ncit0Dulce minecraft:dark_oak_door 18
+[19Feb2025 03:15:08.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 18 [Dark Oak Door] to Lim0ncit0Dulce]
+[19Feb2025 03:15:14.678] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give Lim0ncit0Dulce minecraft:dark_oak_stairs 24
+[19Feb2025 03:15:14.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 24 [Dark Oak Stairs] to Lim0ncit0Dulce]
+[19Feb2025 03:15:23.683] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give Lim0ncit0Dulce minecraft:dark_oak_slab 185
+[19Feb2025 03:15:23.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 185 [Dark Oak Slab] to Lim0ncit0Dulce]
+[19Feb2025 03:16:29.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: durooo was slain by Vex
+[19Feb2025 03:16:34.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanchikoKW hit the ground too hard whilst trying to escape Skeleton
+[19Feb2025 03:17:23.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezemede has made the advancement [Into Fire]
+[19Feb2025 03:19:12.785] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /tpa Lim0ncit0Dulce
+[19Feb2025 03:19:18.134] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lim0ncit0Dulce issued server command: /tpaccept
+[19Feb2025 03:19:53.574] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ezemede issued server command: /tpa alexis83
+[19Feb2025 03:19:57.281] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /tpaccept
+[19Feb2025 03:20:22.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezemede has made the advancement [Amateur Archaeologist]
+[19Feb2025 03:21:19.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanchikoKW was shot by Stray
+[19Feb2025 03:21:23.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[19Feb2025 03:21:23.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanchikoKW moved too quickly! -0.6415576425467862,0.11425927506424216,10.072589069504488
+[19Feb2025 03:25:28.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: durooo was impaled on a stalagmite
+[19Feb2025 03:27:06.843] [Netty Epoll Server IO #7/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[19Feb2025 03:27:06.845] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lim0ncit0Dulce> ZZZ
+[19Feb2025 03:27:22.663] [Craft Scheduler Thread - 26/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[19Feb2025 03:28:19.527] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lim0ncit0Dulce lost connection: Disconnected
+[19Feb2025 03:28:19.527] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lim0ncit0Dulce
+[19Feb2025 03:28:19.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lim0ncit0Dulce left the game
+[19Feb2025 03:28:23.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: durooo fell from a high place
+[19Feb2025 03:29:22.521] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Lim0ncit0Dulce is 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[19Feb2025 03:29:26.533] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@161cc93
+[19Feb2025 03:29:26.540] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lim0ncit0Dulce[/127.5.198.131:38321] logged in with entity id 63709 at (436.7150254813843, 69.875, -796.5651663995314)
+[19Feb2025 03:29:26.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lim0ncit0Dulce joined the game
+[19Feb2025 03:29:26.766] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Lim0ncit0Dulce (18)
+[19Feb2025 03:29:26.766] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[19Feb2025 03:29:30.413] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[19Feb2025 03:29:31.411] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[19Feb2025 03:29:31.411] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[19Feb2025 03:35:38.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezemede has made the advancement [Not Today, Thank You]
+[19Feb2025 03:40:23.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: durooo was blown up by Creeper
+[19Feb2025 03:40:27.223] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: durooo lost connection: Disconnected
+[19Feb2025 03:40:27.223] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client durooo
+[19Feb2025 03:40:27.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: durooo left the game
+[19Feb2025 03:42:22.644] [Craft Scheduler Thread - 29/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[19Feb2025 03:43:04.039] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: franciscum issued server command: /tpa Lim0ncit0Dulce
+[19Feb2025 03:43:04.933] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lim0ncit0Dulce issued server command: /tpaccept
+[19Feb2025 03:47:00.197] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[19Feb2025 03:47:00.198] [Async Chat Thread - #8/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <franciscum> zzzzz
+[19Feb2025 03:47:11.508] [Netty Epoll Server IO #4/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[19Feb2025 03:47:11.521] [Async Chat Thread - #8/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lim0ncit0Dulce> zzz
+[19Feb2025 03:51:01.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: franciscum was slain by Zombie

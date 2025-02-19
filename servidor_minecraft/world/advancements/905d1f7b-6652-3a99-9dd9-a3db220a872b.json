@@ -1747,6 +1747,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-02-19 03:27:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_axe": "2025-01-19 23:48:47 +0000"
@@ -4758,6 +4764,7 @@
       "minecraft:cave_spider": "2025-01-20 01:31:46 +0000",
       "minecraft:silverfish": "2025-01-20 01:05:25 +0000",
       "minecraft:enderman": "2025-02-07 01:02:10 +0000",
+      "minecraft:stray": "2025-02-19 03:11:03 +0000",
       "minecraft:vex": "2025-02-10 23:32:14 +0000",
       "minecraft:zombie": "2025-01-20 00:02:08 +0000",
       "minecraft:drowned": "2025-02-16 04:37:16 +0000"
@@ -6361,6 +6368,7 @@
       "golden_apple": "2025-02-03 16:37:59 +0000",
       "rotten_flesh": "2025-02-08 00:41:36 +0000",
       "golden_carrot": "2025-02-04 04:26:14 +0000",
+      "enchanted_golden_apple": "2025-02-19 03:09:53 +0000",
       "carrot": "2025-01-20 00:42:59 +0000"
     },
     "done": false
@@ -7816,6 +7824,12 @@
   "securitycraft:recipes/securitycraft/reinforced_white_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-03 16:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-02-19 03:08:20 +0000"
     },
     "done": true
   },
