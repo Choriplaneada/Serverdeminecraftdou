@@ -2739,12 +2739,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-02-19 04:17:22 +0000"
-    },
-    "done": false
-  },
   "cfm:recipes/cfm/oak_park_bench": {
     "criteria": {
       "has_log": "2025-02-04 06:28:33 +0000"
@@ -4924,6 +4918,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-19 04:38:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-02-19 03:05:24 +0000"
@@ -6252,6 +6252,12 @@
   "cfm:recipes/cfm/stripped_mangrove_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-04 04:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-19 04:38:28 +0000"
     },
     "done": true
   },
