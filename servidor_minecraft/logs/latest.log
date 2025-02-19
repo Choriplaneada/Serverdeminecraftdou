@@ -2935,3 +2935,152 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [19Feb2025 02:08:52.413] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 lost connection: Disconnected
 [19Feb2025 02:08:52.413] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client alexis83
 [19Feb2025 02:08:52.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexis83 left the game
+[19Feb2025 02:11:52.685] [Craft Scheduler Thread - 10/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[19Feb2025 02:19:28.483] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player alexis83 is d5349a20-7346-31c5-8498-83a2f839afa6
+[19Feb2025 02:19:33.473] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2e9fcd8f
+[19Feb2025 02:19:33.481] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alexis83[/127.205.233.85:54155] logged in with entity id 13671 at (291.30000001192093, -6.0, -1787.3715044527094)
+[19Feb2025 02:19:33.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexis83 joined the game
+[19Feb2025 02:19:35.006] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of alexis83 (18)
+[19Feb2025 02:19:35.006] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to alexis83
+[19Feb2025 02:19:39.189] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d5349a20-7346-31c5-8498-83a2f839afa6
+[19Feb2025 02:19:40.189] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d5349a20-7346-31c5-8498-83a2f839afa6
+[19Feb2025 02:19:40.189] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player alexis83 (d5349a20-7346-31c5-8498-83a2f839afa6) successfully connected to voice chat
+[19Feb2025 02:26:52.708] [Craft Scheduler Thread - 12/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[19Feb2025 02:27:13.684] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player PanchikoKW is 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[19Feb2025 02:27:19.075] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7f200bd3
+[19Feb2025 02:27:19.083] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PanchikoKW[/127.61.240.200:34465] logged in with entity id 16417 at (588.6469633445051, 185.5, -736.1580475824805)
+[19Feb2025 02:27:19.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanchikoKW joined the game
+[19Feb2025 02:27:22.840] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PanchikoKW (18)
+[19Feb2025 02:27:22.840] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PanchikoKW
+[19Feb2025 02:27:22.847] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3692ms or 73 ticks behind
+[19Feb2025 02:27:22.964] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=584, y=174, z=-728} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[19Feb2025 02:27:24.920] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[19Feb2025 02:27:25.921] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[19Feb2025 02:27:25.921] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PanchikoKW (905d1f7b-6652-3a99-9dd9-a3db220a872b) successfully connected to voice chat
+[19Feb2025 02:31:24.667] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=248, y=-10, z=-1703} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[19Feb2025 02:31:49.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: durooo was killed by Lich using magic
+[19Feb2025 02:35:06.001] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Lim0ncit0Dulce is 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[19Feb2025 02:35:10.880] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@23fe239
+[19Feb2025 02:35:10.888] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lim0ncit0Dulce[/127.5.198.131:47777] logged in with entity id 21325 at (440.433952007522, 69.0, -793.9248828187104)
+[19Feb2025 02:35:10.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lim0ncit0Dulce joined the game
+[19Feb2025 02:35:11.990] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Lim0ncit0Dulce (18)
+[19Feb2025 02:35:11.990] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[19Feb2025 02:35:15.706] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[19Feb2025 02:35:16.706] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[19Feb2025 02:35:16.706] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[19Feb2025 02:35:29.620] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[19Feb2025 02:35:29.625] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lim0ncit0Dulce> QUE ONDAAAA
+[19Feb2025 02:35:32.380] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[19Feb2025 02:35:32.380] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lim0ncit0Dulce> ZZZ
+[19Feb2025 02:35:35.308] [Netty Epoll Server IO #1/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[19Feb2025 02:35:35.321] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <durooo> wassaaaaaaa
+[19Feb2025 02:35:39.177] [Netty Epoll Server IO #6/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[19Feb2025 02:35:39.178] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexis83> a
+[19Feb2025 02:35:52.330] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanchikoKW issued server command: /tpa durooo
+[19Feb2025 02:36:06.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lim0ncit0Dulce has made the advancement [Ol' Betsy]
+[19Feb2025 02:36:06.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lim0ncit0Dulce has made the advancement [Take Aim]
+[19Feb2025 02:36:17.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: durooo was impaled on a stalagmite
+[19Feb2025 02:39:04.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: durooo was burnt to a crisp whilst fighting PanchikoKW
+[19Feb2025 02:39:11.002] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: durooo issued server command: /tpa PanchikoKW
+[19Feb2025 02:39:15.424] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanchikoKW issued server command: /tpaccept
+[19Feb2025 02:41:55.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: durooo was slain by Zombie
+[19Feb2025 02:41:56.398] [Craft Scheduler Thread - 15/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[19Feb2025 02:42:08.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: durooo issued server command: /tpa PanchikoKW
+[19Feb2025 02:42:09.225] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanchikoKW issued server command: /tpaccept
+[19Feb2025 02:43:10.104] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give Lim0ncit0Dulce minecraft:black_carpet 6
+[19Feb2025 02:43:10.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 6 [Black Carpet] to Lim0ncit0Dulce]
+[19Feb2025 02:43:30.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: durooo was shot by Skeleton
+[19Feb2025 02:43:35.835] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Ezemede is 819861d9-328b-3795-92bc-af7e6c5edddf
+[19Feb2025 02:43:39.827] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: durooo issued server command: /tpa PanchikoKW
+[19Feb2025 02:43:40.626] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7bb24e83
+[19Feb2025 02:43:40.631] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ezemede[/127.242.221.185:43293] logged in with entity id 27414 at (-3.5, 68.0, 22.5)
+[19Feb2025 02:43:40.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezemede joined the game
+[19Feb2025 02:43:40.926] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanchikoKW issued server command: /tpaccept
+[19Feb2025 02:43:41.144] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ezemede (18)
+[19Feb2025 02:43:41.145] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[19Feb2025 02:43:45.474] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[19Feb2025 02:43:46.479] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[19Feb2025 02:43:46.479] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[19Feb2025 02:45:37.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanchikoKW has made the advancement [Need A Map?]
+[19Feb2025 02:45:37.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanchikoKW has made the advancement [The Beginning of An Adventure]
+[19Feb2025 02:46:13.561] [Netty Epoll Server IO #6/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[19Feb2025 02:46:13.563] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexis83> a
+[19Feb2025 02:46:28.685] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20080ms or 401 ticks behind
+[19Feb2025 02:46:28.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanchikoKW moved too quickly! -1.0958259379332276,0.0,10.141801237061422
+[19Feb2025 02:47:33.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezemede has made the advancement [Stone Age]
+[19Feb2025 02:47:53.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezemede has made the advancement [Getting an Upgrade]
+[19Feb2025 02:47:57.214] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[19Feb2025 02:47:57.228] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lim0ncit0Dulce> zzz
+[19Feb2025 02:48:57.864] [Netty Epoll Server IO #2/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[19Feb2025 02:48:57.874] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lim0ncit0Dulce> zzz
+[19Feb2025 02:49:32.623] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lim0ncit0Dulce lost connection: Disconnected
+[19Feb2025 02:49:32.623] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lim0ncit0Dulce
+[19Feb2025 02:49:32.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lim0ncit0Dulce left the game
+[19Feb2025 02:50:06.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanchikoKW has made the advancement [Quite the Renovation]
+[19Feb2025 02:50:22.573] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ezemede issued server command: /tpa alexis83
+[19Feb2025 02:50:26.497] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /tpaccept
+[19Feb2025 02:50:37.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezemede has made the advancement [Acquire Hardware]
+[19Feb2025 02:51:01.686] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Lim0ncit0Dulce is 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[19Feb2025 02:51:05.726] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@122dce54
+[19Feb2025 02:51:05.735] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lim0ncit0Dulce[/127.5.198.131:33699] logged in with entity id 32718 at (455.50920591728516, 66.0, -797.2745695485129)
+[19Feb2025 02:51:05.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lim0ncit0Dulce joined the game
+[19Feb2025 02:51:09.992] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Lim0ncit0Dulce (18)
+[19Feb2025 02:51:09.993] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[19Feb2025 02:51:09.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 moved too quickly! 11.063290801505048,1.0,6.188091781042203
+[19Feb2025 02:51:10.004] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4199ms or 83 ticks behind
+[19Feb2025 02:51:12.014] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[19Feb2025 02:51:13.013] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[19Feb2025 02:51:13.013] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[19Feb2025 02:51:25.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezemede has made the advancement [Isn't It Iron Pick]
+[19Feb2025 02:51:28.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezemede has made the advancement [Diamonds!]
+[19Feb2025 02:51:38.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezemede has made the advancement [Suit Up]
+[19Feb2025 02:51:46.436] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=584, y=174, z=-728} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[19Feb2025 02:52:03.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezemede was slain by Murmur
+[19Feb2025 02:52:55.575] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ezemede issued server command: /tpa alexis83
+[19Feb2025 02:52:57.794] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /tpaccept
+[19Feb2025 02:57:20.595] [Craft Scheduler Thread - 19/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[19Feb2025 03:00:06.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezemede has made the advancement [Monster Hunter]
+[19Feb2025 03:00:38.879] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give Lim0ncit0Dulce minecraft:dark_oak_leaves 430
+[19Feb2025 03:00:38.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 430 [Dark Oak Leaves] to Lim0ncit0Dulce]
+[19Feb2025 03:00:58.321] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 issued server command: /give Lim0ncit0Dulce minecraft:sweet_berries 40
+[19Feb2025 03:00:58.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexis83: Gave 40 [Sweet Berries] to Lim0ncit0Dulce]
+[19Feb2025 03:01:00.407] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player franciscum is a1897d81-b3fe-38f1-9fe3-4bc04d8e6204
+[19Feb2025 03:01:05.530] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5159a3fa
+[19Feb2025 03:01:05.537] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: franciscum[/127.92.136.39:40237] logged in with entity id 39527 at (434.7645198541548, 67.0, -796.0478137687913)
+[19Feb2025 03:01:05.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: franciscum joined the game
