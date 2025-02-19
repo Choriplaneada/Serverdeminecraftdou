@@ -2739,6 +2739,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-02-19 04:17:22 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/cfm/oak_park_bench": {
     "criteria": {
       "has_log": "2025-02-04 06:28:33 +0000"
