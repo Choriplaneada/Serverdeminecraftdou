@@ -2873,3 +2873,65 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [19Feb2025 01:59:56.174] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 10ba40f4-9431-3355-8ffe-39de4b50c493
 [19Feb2025 01:59:57.167] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 10ba40f4-9431-3355-8ffe-39de4b50c493
 [19Feb2025 01:59:57.167] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player durooo (10ba40f4-9431-3355-8ffe-39de4b50c493) successfully connected to voice chat
+[19Feb2025 02:00:15.766] [Server thread/ERROR] [STDERR/]: java.io.IOException: Base resource not found: aft$2.class
+[19Feb2025 02:00:15.766] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.Patcher.applyPatch(Patcher.java:146)
+[19Feb2025 02:00:15.766] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourcePatched(OptiFineTransformer.java:396)
+[19Feb2025 02:00:15.766] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStreamPatched(OptiFineTransformer.java:368)
+[19Feb2025 02:00:15.766] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStream(OptiFineTransformer.java:291)
+[19Feb2025 02:00:15.766] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResource(OptiFineTransformer.java:260)
+[19Feb2025 02:00:15.766] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:171)
+[19Feb2025 02:00:15.766] [Server thread/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:1)
+[19Feb2025 02:00:15.766] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformerHolder.transform(TransformerHolder.java:41)
+[19Feb2025 02:00:15.766] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.performVote(ClassTransformer.java:179)
+[19Feb2025 02:00:15.766] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:98)
+[19Feb2025 02:00:15.766] [Server thread/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+[19Feb2025 02:00:15.766] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+[19Feb2025 02:00:15.766] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+[19Feb2025 02:00:15.766] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+[19Feb2025 02:00:15.766] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+[19Feb2025 02:00:15.766] [Server thread/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+[19Feb2025 02:00:15.766] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+[19Feb2025 02:00:15.766] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ChunkMap.m_183726_(ChunkMapMixin.java:305)
+[19Feb2025 02:00:15.766] [Server thread/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646)
+[19Feb2025 02:00:15.766] [Server thread/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+[19Feb2025 02:00:15.766] [Server thread/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614)
+[19Feb2025 02:00:15.766] [Server thread/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:653)
+[19Feb2025 02:00:15.766] [Server thread/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
+[19Feb2025 02:00:15.766] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62)
+[19Feb2025 02:00:15.766] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157)
+[19Feb2025 02:00:15.766] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_6367_(ServerChunkCache_MainThreadExecutorMixin.java:535)
+[19Feb2025 02:00:15.766] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131)
+[19Feb2025 02:00:15.766] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_7245_(ServerChunkCache_MainThreadExecutorMixin.java:629)
+[19Feb2025 02:00:15.766] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ServerChunkCache.m_8466_(ServerChunkCacheMixin.java:267)
+[19Feb2025 02:00:15.769] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:751)
+[19Feb2025 02:00:15.769] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:740)
+[19Feb2025 02:00:15.769] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116)
+[19Feb2025 02:00:15.769] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:725)
+[19Feb2025 02:00:15.769] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2131)
+[19Feb2025 02:00:15.769] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:244)
+[19Feb2025 02:00:15.769] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[19Feb2025 02:00:17.731] [Netty Epoll Server IO #0/WARN] [Implementer/ASYNC_CATCHER]: Async chunk entity get
+[19Feb2025 02:00:17.733] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PanchikoKW> Zzzz
+[19Feb2025 02:02:58.966] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanchikoKW lost connection: Disconnected
+[19Feb2025 02:02:58.966] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PanchikoKW
+[19Feb2025 02:02:58.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanchikoKW left the game
+[19Feb2025 02:03:05.365] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player PanchikoKW is 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[19Feb2025 02:03:10.333] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2f538d6f
+[19Feb2025 02:03:10.344] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PanchikoKW[/127.76.255.37:44423] logged in with entity id 9608 at (589.788110452081, 185.0, -737.0810794118145)
+[19Feb2025 02:03:10.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanchikoKW joined the game
+[19Feb2025 02:03:10.597] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PanchikoKW (18)
+[19Feb2025 02:03:10.598] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PanchikoKW
+[19Feb2025 02:03:15.266] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[19Feb2025 02:03:16.262] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[19Feb2025 02:03:16.262] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PanchikoKW (905d1f7b-6652-3a99-9dd9-a3db220a872b) successfully connected to voice chat
+[19Feb2025 02:06:19.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexis83 has made the advancement [The Cutest Predator]
+[19Feb2025 02:07:37.241] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 905d1f7b-6652-3a99-9dd9-a3db220a872b timed out
+[19Feb2025 02:07:37.242] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PanchikoKW
+[19Feb2025 02:07:37.242] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PanchikoKW
+[19Feb2025 02:07:55.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanchikoKW lost connection: Timed out
+[19Feb2025 02:07:55.768] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PanchikoKW
+[19Feb2025 02:07:55.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanchikoKW left the game.
+[19Feb2025 02:07:55.833] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Feb2025 02:08:52.413] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexis83 lost connection: Disconnected
+[19Feb2025 02:08:52.413] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client alexis83
+[19Feb2025 02:08:52.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexis83 left the game
