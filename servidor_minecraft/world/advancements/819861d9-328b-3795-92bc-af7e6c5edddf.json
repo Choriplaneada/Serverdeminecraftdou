@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_table": {
+    "criteria": {
+      "has_planks": "2025-02-20 05:06:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-02-19 02:49:40 +0000"
@@ -278,6 +284,12 @@
   "cfm:recipes/cfm/blue_grill": {
     "criteria": {
       "has_iron": "2025-02-19 02:50:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-02-20 05:06:50 +0000"
     },
     "done": true
   },
@@ -473,6 +485,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-02-20 05:05:04 +0000"
+    },
+    "done": true
+  },
   "shieldexp:recipes/wooden_shield": {
     "criteria": {
       "has_stick": "2025-02-19 02:46:05 +0000"
@@ -629,6 +647,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-02-20 05:15:14 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/framed_blocks/framed_cube": {
     "criteria": {
       "hasPlanks": "2025-02-19 02:45:55 +0000"
@@ -656,6 +680,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-02-20 03:40:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_crate": {
+    "criteria": {
+      "has_planks": "2025-02-20 05:06:50 +0000"
     },
     "done": true
   },
@@ -875,6 +905,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/acacia_palisade": {
+    "criteria": {
+      "has_log": "2025-02-20 05:06:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_mail_box": {
     "criteria": {
       "has_chest": "2025-02-19 04:27:34 +0000"
@@ -950,6 +986,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-02-19 02:47:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-02-20 05:06:50 +0000"
     },
     "done": true
   },
@@ -1248,6 +1290,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-02-20 05:05:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-02-19 04:19:35 +0000"
@@ -1522,6 +1570,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-20 05:06:50 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/gold_nugget_from_gold_fish": {
     "criteria": {
       "has_items": "2025-02-19 02:43:40 +0000"
@@ -1639,6 +1693,12 @@
   "cfm:recipes/cfm/stripped_spruce_table": {
     "criteria": {
       "has_log": "2025-02-19 02:50:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-02-20 05:05:04 +0000"
     },
     "done": true
   },
@@ -1804,6 +1864,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_cabinet": {
+    "criteria": {
+      "has_log": "2025-02-20 05:06:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/white_grill": {
     "criteria": {
       "has_iron": "2025-02-19 02:50:37 +0000"
@@ -1911,6 +1977,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_park_bench": {
+    "criteria": {
+      "has_log": "2025-02-20 05:06:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_crimson_mail_box": {
     "criteria": {
       "has_chest": "2025-02-19 04:27:34 +0000"
@@ -1977,6 +2049,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-20 05:05:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-02-19 03:03:19 +0000"
@@ -2034,6 +2112,12 @@
   "rechiseled:recipes/rechiseled/chisel": {
     "criteria": {
       "recipe_condition": "2025-02-19 02:50:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-02-20 05:05:04 +0000"
     },
     "done": true
   },
@@ -2272,6 +2356,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-20 05:06:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/birch_mail_box": {
     "criteria": {
       "has_chest": "2025-02-19 04:27:34 +0000"
@@ -2392,6 +2482,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2025-02-20 05:05:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2025-02-19 02:46:05 +0000"
@@ -2500,6 +2596,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_chair": {
+    "criteria": {
+      "has_planks": "2025-02-20 05:06:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-02-20 04:35:07 +0000"
@@ -2557,6 +2659,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-19 02:51:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-02-20 04:51:22 +0000"
     },
     "done": true
   },
@@ -3068,6 +3176,12 @@
     },
     "done": true
   },
+  "mca:root": {
+    "criteria": {
+      "village_savanna": "2025-02-20 04:56:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/blue_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-02-19 04:05:17 +0000"
@@ -3254,6 +3368,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-02-20 05:06:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/mangrove_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-19 04:27:34 +0000"
@@ -3392,6 +3512,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_blinds": {
+    "criteria": {
+      "has_log": "2025-02-20 05:06:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-19 02:51:22 +0000"
@@ -3521,13 +3647,17 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:wooded_badlands": "2025-02-20 04:50:18 +0000",
+      "minecraft:badlands": "2025-02-20 04:49:39 +0000",
       "minecraft:beach": "2025-02-19 03:04:09 +0000",
+      "minecraft:sparse_jungle": "2025-02-20 04:54:05 +0000",
       "minecraft:river": "2025-02-19 03:15:06 +0000",
       "minecraft:dripstone_caves": "2025-02-19 05:21:57 +0000",
       "minecraft:swamp": "2025-02-19 05:25:14 +0000",
       "minecraft:cold_ocean": "2025-02-19 03:02:30 +0000",
       "minecraft:forest": "2025-02-19 03:05:03 +0000",
       "minecraft:meadow": "2025-02-19 02:48:57 +0000",
+      "minecraft:savanna": "2025-02-20 04:56:23 +0000",
       "minecraft:plains": "2025-02-19 02:43:41 +0000"
     },
     "done": false
@@ -3754,6 +3884,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-02-20 05:06:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/yellow_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-02-19 04:05:17 +0000"
@@ -3793,6 +3929,12 @@
   "cfm:recipes/cfm/red_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-02-19 04:05:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-02-20 04:57:30 +0000"
     },
     "done": true
   },
@@ -4072,6 +4214,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-02-19 02:59:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_desk": {
+    "criteria": {
+      "has_planks": "2025-02-20 05:06:50 +0000"
     },
     "done": true
   },
@@ -4473,6 +4621,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-02-20 05:06:50 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/sc_manual": {
     "criteria": {
       "has_wood": "2025-02-19 02:45:30 +0000"
@@ -4815,6 +4969,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:red": "2025-02-20 05:15:14 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/securitycraft/secret_birch_sign_item": {
     "criteria": {
       "has_sign": "2025-02-19 05:06:44 +0000"
@@ -4854,6 +5014,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/compacting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-20 03:37:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-20 05:05:04 +0000"
     },
     "done": true
   },
