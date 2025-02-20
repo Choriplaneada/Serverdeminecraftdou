@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-02-20 04:42:39 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-01-20 01:09:25 +0000"
@@ -152,6 +158,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-01-19 23:38:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_table": {
+    "criteria": {
+      "has_planks": "2025-02-20 04:35:45 +0000"
     },
     "done": true
   },
@@ -230,6 +242,12 @@
   "cfm:recipes/cfm/mangrove_mail_box": {
     "criteria": {
       "has_chest": "2025-02-03 04:08:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_jungle_crate": {
+    "criteria": {
+      "has_planks": "2025-02-20 04:35:50 +0000"
     },
     "done": true
   },
@@ -377,6 +395,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_jungle_desk": {
+    "criteria": {
+      "has_planks": "2025-02-20 04:35:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-01-19 23:49:16 +0000"
@@ -452,6 +476,12 @@
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2025-02-04 04:24:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-02-20 04:35:45 +0000"
     },
     "done": true
   },
@@ -554,6 +584,12 @@
   "cfm:recipes/cfm/stripped_oak_blinds": {
     "criteria": {
       "has_log": "2025-02-08 01:48:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_cabinet": {
+    "criteria": {
+      "has_log": "2025-02-20 04:35:50 +0000"
     },
     "done": true
   },
@@ -788,6 +824,18 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-02-04 03:35:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_jungle_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-20 04:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-02-20 04:42:39 +0000"
     },
     "done": true
   },
@@ -1037,6 +1085,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_crate": {
+    "criteria": {
+      "has_planks": "2025-02-20 04:35:45 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-01-19 23:46:07 +0000"
@@ -1052,6 +1106,12 @@
   "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
     "criteria": {
       "has_chicken": "2025-02-04 03:35:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_jungle_table": {
+    "criteria": {
+      "has_planks": "2025-02-20 04:35:50 +0000"
     },
     "done": true
   },
@@ -1112,6 +1172,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-02-04 05:10:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-02-20 04:35:50 +0000"
     },
     "done": true
   },
@@ -1379,6 +1445,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/acacia_palisade": {
+    "criteria": {
+      "has_log": "2025-02-20 04:35:45 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_mail_box": {
     "criteria": {
       "has_chest": "2025-02-03 04:08:02 +0000"
@@ -1481,6 +1553,12 @@
     },
     "done": false
   },
+  "cfm:recipes/cfm/jungle_park_bench": {
+    "criteria": {
+      "has_log": "2025-02-20 04:35:50 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/whitelist_module": {
     "criteria": {
       "has_iron": "2025-02-03 03:15:10 +0000"
@@ -1514,6 +1592,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-01-19 23:40:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-02-20 04:35:45 +0000"
     },
     "done": true
   },
@@ -2075,6 +2159,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_bandit_village": {
+    "criteria": {
+      "location0": "2025-02-20 04:38:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-02-03 19:34:06 +0000"
@@ -2369,6 +2459,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-20 04:35:45 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/gold_nugget_from_gold_fish": {
     "criteria": {
       "has_items": "2025-02-03 03:15:10 +0000"
@@ -2586,6 +2682,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/jungle_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-02-20 04:35:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2025-01-19 23:45:07 +0000"
@@ -2655,6 +2757,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-19 23:49:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_jungle_park_bench": {
+    "criteria": {
+      "has_log": "2025-02-20 04:35:50 +0000"
     },
     "done": true
   },
@@ -2832,6 +2940,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_cabinet": {
+    "criteria": {
+      "has_log": "2025-02-20 04:35:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-01-20 00:35:04 +0000"
@@ -3005,6 +3119,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_park_bench": {
+    "criteria": {
+      "has_log": "2025-02-20 04:35:45 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_birch_cabinet": {
     "criteria": {
       "has_log": "2025-02-03 05:31:00 +0000"
@@ -3122,6 +3242,12 @@
   "securitycraft:recipes/securitycraft/reinforced_brown_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-02-03 16:44:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-02-20 04:35:50 +0000"
     },
     "done": true
   },
@@ -3266,6 +3392,12 @@
   "cfm:recipes/cfm/white_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-03 04:08:02 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/jungle_palisade": {
+    "criteria": {
+      "has_log": "2025-02-20 04:35:50 +0000"
     },
     "done": true
   },
@@ -3455,6 +3587,18 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_jungle_cabinet": {
+    "criteria": {
+      "has_log": "2025-02-20 04:35:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-02-20 04:35:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_gray_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-02-03 17:31:47 +0000"
@@ -3567,6 +3711,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-01-20 02:21:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-20 04:35:45 +0000"
     },
     "done": true
   },
@@ -3828,6 +3978,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-02-20 04:42:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-03 16:44:08 +0000"
@@ -3963,6 +4119,12 @@
   "cfm:recipes/cfm/spruce_bedside_cabinet": {
     "criteria": {
       "has_log": "2025-02-03 04:43:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_chair": {
+    "criteria": {
+      "has_planks": "2025-02-20 04:35:45 +0000"
     },
     "done": true
   },
@@ -4538,6 +4700,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-02-20 04:28:52 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/mangrove_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-02-03 17:31:47 +0000"
@@ -4571,6 +4739,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-01-20 01:26:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_blinds": {
+    "criteria": {
+      "has_log": "2025-02-20 04:35:50 +0000"
     },
     "done": true
   },
@@ -4766,11 +4940,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-02-20 04:42:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-01-20 00:37:21 +0000",
       "minecraft:blaze": "2025-02-04 04:47:39 +0000",
       "minecraft:skeleton": "2025-01-20 00:01:39 +0000",
+      "minecraft:hoglin": "2025-02-20 04:38:18 +0000",
       "minecraft:vindicator": "2025-01-20 00:51:09 +0000",
       "minecraft:magma_cube": "2025-02-04 04:31:15 +0000",
       "minecraft:spider": "2025-01-20 03:17:03 +0000",
@@ -4779,6 +4960,7 @@
       "minecraft:phantom": "2025-02-03 03:43:06 +0000",
       "minecraft:witch": "2025-01-20 00:02:59 +0000",
       "minecraft:wither_skeleton": "2025-02-04 04:47:57 +0000",
+      "minecraft:husk": "2025-02-20 04:37:58 +0000",
       "minecraft:cave_spider": "2025-01-20 01:31:46 +0000",
       "minecraft:silverfish": "2025-01-20 01:05:25 +0000",
       "minecraft:enderman": "2025-02-07 01:02:10 +0000",
@@ -5203,6 +5385,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-02-20 04:35:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-01-20 01:05:54 +0000"
@@ -5479,6 +5667,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_blinds": {
+    "criteria": {
+      "has_log": "2025-02-20 04:35:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-20 02:15:04 +0000"
@@ -5694,6 +5888,12 @@
     },
     "done": false
   },
+  "cfm:recipes/cfm/jungle_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-02-20 04:35:50 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/acacia_seat": {
     "criteria": {
       "has_plank": "2025-02-11 00:42:04 +0000"
@@ -5721,6 +5921,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-01-19 23:35:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-02-20 04:35:50 +0000"
     },
     "done": true
   },
@@ -6072,6 +6278,18 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-02-20 04:35:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_crate": {
+    "criteria": {
+      "has_log": "2025-02-20 04:35:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/yellow_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-02-03 17:31:47 +0000"
@@ -6272,6 +6490,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_jungle_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-20 04:35:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_chair": {
     "criteria": {
       "has_planks": "2025-02-03 05:47:16 +0000"
@@ -6383,6 +6607,12 @@
   "alexsmobs:alexsmobs/kangaroo": {
     "criteria": {
       "killed_by": "2025-02-20 04:25:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_coffee_table": {
+    "criteria": {
+      "has_log": "2025-02-20 04:35:50 +0000"
     },
     "done": true
   },
@@ -6639,6 +6869,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_desk": {
+    "criteria": {
+      "has_planks": "2025-02-20 04:35:45 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_blinds": {
     "criteria": {
       "has_log": "2025-02-03 04:43:25 +0000"
@@ -6750,6 +6986,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2025-02-19 02:02:55 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_jungle_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-02-20 04:35:50 +0000"
     },
     "done": true
   },
@@ -6988,6 +7230,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/jungle_table": {
+    "criteria": {
+      "has_log": "2025-02-20 04:35:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-01-22 00:56:10 +0000"
@@ -7039,6 +7287,12 @@
   "securitycraft:recipes/securitycraft/secret_crimson_sign_item": {
     "criteria": {
       "has_sign": "2025-02-04 04:23:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_chair": {
+    "criteria": {
+      "has_log": "2025-02-20 04:35:50 +0000"
     },
     "done": true
   },
@@ -7235,6 +7489,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-02-20 04:35:45 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/keycard_lv4": {
     "criteria": {
       "has_iron": "2025-02-03 03:15:10 +0000"
@@ -7388,6 +7648,12 @@
   "cfm:recipes/cfm/stripped_spruce_chair": {
     "criteria": {
       "has_planks": "2025-02-03 04:43:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_jungle_chair": {
+    "criteria": {
+      "has_planks": "2025-02-20 04:35:50 +0000"
     },
     "done": true
   },
@@ -7571,6 +7837,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-02-20 04:42:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-01-20 01:23:35 +0000"
@@ -7658,6 +7930,12 @@
   "incendium:misc/ruined_lab": {
     "criteria": {
       "requirement": "2025-02-06 03:14:12 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_desk": {
+    "criteria": {
+      "has_log": "2025-02-20 04:35:50 +0000"
     },
     "done": true
   },
@@ -7826,6 +8104,12 @@
   "endrem:main/lost_eye": {
     "criteria": {
       "lost_eye": "2025-02-19 02:45:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_jungle_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-02-20 04:35:50 +0000"
     },
     "done": true
   },

@@ -3950,6 +3950,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_trapdoor": {
+    "criteria": {
+      "has_the_recipe": "2025-02-20 04:38:06 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/oak_fish_mount": {
     "criteria": {
       "has_items": "2025-02-02 18:51:23 +0000"
