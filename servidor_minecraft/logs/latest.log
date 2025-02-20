@@ -3037,3 +3037,665 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [20Feb2025 04:21:13.508] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
 [20Feb2025 04:21:13.850] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
 [20Feb2025 04:21:13.851] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 04:21:38.345] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d5349a20-7346-31c5-8498-83a2f839afa6 timed out
+[20Feb2025 04:21:38.345] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player alexis83
+[20Feb2025 04:21:38.345] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to alexis83
+[20Feb2025 04:21:38.345] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 04:21:38.345] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 04:21:38.345] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 04:21:38.345] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 04:21:38.345] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 04:21:38.345] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 04:21:38.345] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 905d1f7b-6652-3a99-9dd9-a3db220a872b timed out
+[20Feb2025 04:21:38.345] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PanchikoKW
+[20Feb2025 04:21:38.345] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PanchikoKW
+[20Feb2025 04:21:38.582] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:21:38.708] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:21:38.745] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:21:39.558] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:21:39.581] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:21:39.581] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player alexis83 (d5349a20-7346-31c5-8498-83a2f839afa6) successfully connected to voice chat
+[20Feb2025 04:21:39.706] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:21:39.707] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 04:21:39.736] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:21:39.736] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 04:21:40.564] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:21:40.564] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PanchikoKW (905d1f7b-6652-3a99-9dd9-a3db220a872b) successfully connected to voice chat
+[20Feb2025 04:22:12.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d5349a20-7346-31c5-8498-83a2f839afa6 timed out
+[20Feb2025 04:22:12.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player alexis83
+[20Feb2025 04:22:12.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to alexis83
+[20Feb2025 04:22:12.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 04:22:12.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 04:22:12.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 04:22:12.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 04:22:12.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 04:22:12.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 04:22:12.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 905d1f7b-6652-3a99-9dd9-a3db220a872b timed out
+[20Feb2025 04:22:12.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PanchikoKW
+[20Feb2025 04:22:12.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PanchikoKW
+[20Feb2025 04:22:12.759] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:22:12.771] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:22:12.824] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:22:12.833] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:22:13.755] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:22:13.755] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PanchikoKW (905d1f7b-6652-3a99-9dd9-a3db220a872b) successfully connected to voice chat
+[20Feb2025 04:22:13.775] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:22:13.775] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 04:22:13.827] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:22:13.827] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 04:22:13.835] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:22:13.835] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player alexis83 (d5349a20-7346-31c5-8498-83a2f839afa6) successfully connected to voice chat
+[20Feb2025 04:22:24.589] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d5349a20-7346-31c5-8498-83a2f839afa6 timed out
+[20Feb2025 04:22:24.589] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player alexis83
+[20Feb2025 04:22:24.589] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to alexis83
+[20Feb2025 04:22:24.830] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:22:25.829] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:22:25.830] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player alexis83 (d5349a20-7346-31c5-8498-83a2f839afa6) successfully connected to voice chat
+[20Feb2025 04:22:38.682] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 04:22:38.682] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 04:22:38.682] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 04:22:38.682] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d5349a20-7346-31c5-8498-83a2f839afa6 timed out
+[20Feb2025 04:22:38.682] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player alexis83
+[20Feb2025 04:22:38.682] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to alexis83
+[20Feb2025 04:22:38.682] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 04:22:38.682] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 04:22:38.682] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 04:22:38.682] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 905d1f7b-6652-3a99-9dd9-a3db220a872b timed out
+[20Feb2025 04:22:38.682] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PanchikoKW
+[20Feb2025 04:22:38.683] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PanchikoKW
+[20Feb2025 04:22:38.915] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:22:38.926] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:22:38.944] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:22:38.951] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:22:39.921] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:22:39.922] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 04:22:39.926] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:22:39.926] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player alexis83 (d5349a20-7346-31c5-8498-83a2f839afa6) successfully connected to voice chat
+[20Feb2025 04:22:39.945] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:22:39.945] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 04:22:39.951] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:22:39.952] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PanchikoKW (905d1f7b-6652-3a99-9dd9-a3db220a872b) successfully connected to voice chat
+[20Feb2025 04:23:12.884] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d5349a20-7346-31c5-8498-83a2f839afa6 timed out
+[20Feb2025 04:23:12.884] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player alexis83
+[20Feb2025 04:23:12.884] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to alexis83
+[20Feb2025 04:23:12.884] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 04:23:12.884] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 04:23:12.884] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 04:23:12.884] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 04:23:12.884] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 04:23:12.884] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 04:23:12.884] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 905d1f7b-6652-3a99-9dd9-a3db220a872b timed out
+[20Feb2025 04:23:12.884] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PanchikoKW
+[20Feb2025 04:23:12.884] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PanchikoKW
+[20Feb2025 04:23:13.180] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:23:13.246] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:23:13.457] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:23:13.563] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:23:14.181] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:23:14.181] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 04:23:14.246] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:23:14.247] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player alexis83 (d5349a20-7346-31c5-8498-83a2f839afa6) successfully connected to voice chat
+[20Feb2025 04:23:14.450] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:23:14.450] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PanchikoKW (905d1f7b-6652-3a99-9dd9-a3db220a872b) successfully connected to voice chat
+[20Feb2025 04:23:14.561] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:23:14.561] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 04:23:39.028] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d5349a20-7346-31c5-8498-83a2f839afa6 timed out
+[20Feb2025 04:23:39.028] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player alexis83
+[20Feb2025 04:23:39.028] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to alexis83
+[20Feb2025 04:23:39.028] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 04:23:39.028] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 04:23:39.028] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 04:23:39.028] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 04:23:39.028] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 04:23:39.028] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 04:23:39.028] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 905d1f7b-6652-3a99-9dd9-a3db220a872b timed out
+[20Feb2025 04:23:39.028] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PanchikoKW
+[20Feb2025 04:23:39.028] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PanchikoKW
+[20Feb2025 04:23:39.224] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:23:39.389] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:23:39.395] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:23:40.225] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:23:40.225] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player alexis83 (d5349a20-7346-31c5-8498-83a2f839afa6) successfully connected to voice chat
+[20Feb2025 04:23:40.366] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:23:40.389] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:23:40.389] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 04:23:40.411] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:23:40.411] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 04:23:41.364] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:23:41.364] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PanchikoKW (905d1f7b-6652-3a99-9dd9-a3db220a872b) successfully connected to voice chat
+[20Feb2025 04:24:03.971] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanchikoKW issued server command: /tpa Lim0ncit0Dulce
+[20Feb2025 04:24:13.076] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Gretje'/6275, l='ServerLevel[world]', x=-4551.26, y=70.75, z=-1225.30] died, message: 'Gretje was shot by Pillager'
+[20Feb2025 04:24:13.077] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Gretje'/6275, l='ServerLevel[world]', x=-4551.26, y=70.75, z=-1225.30] died: Gretje was shot by Pillager
+[20Feb2025 04:24:13.301] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lim0ncit0Dulce issued server command: /tpaccept
+[20Feb2025 04:24:14.218] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d5349a20-7346-31c5-8498-83a2f839afa6 timed out
+[20Feb2025 04:24:14.218] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player alexis83
+[20Feb2025 04:24:14.218] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to alexis83
+[20Feb2025 04:24:14.218] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 04:24:14.218] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 04:24:14.218] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 04:24:14.218] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 04:24:14.218] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 04:24:14.218] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 04:24:14.218] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 905d1f7b-6652-3a99-9dd9-a3db220a872b timed out
+[20Feb2025 04:24:14.218] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PanchikoKW
+[20Feb2025 04:24:14.218] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PanchikoKW
+[20Feb2025 04:24:14.414] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:24:14.463] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:24:14.546] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:24:15.414] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:24:15.414] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player alexis83 (d5349a20-7346-31c5-8498-83a2f839afa6) successfully connected to voice chat
+[20Feb2025 04:24:15.467] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:24:15.467] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 04:24:15.481] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:24:15.547] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:24:15.547] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 04:24:16.482] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:24:16.483] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PanchikoKW (905d1f7b-6652-3a99-9dd9-a3db220a872b) successfully connected to voice chat
+[20Feb2025 04:24:21.279] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jens'/6332, l='ServerLevel[world]', x=-4646.04, y=67.00, z=-1249.29] died, message: 'Jens was shot by Pillager'
+[20Feb2025 04:24:21.280] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Jens'/6332, l='ServerLevel[world]', x=-4646.04, y=67.00, z=-1249.29] died: Jens was shot by Pillager
+[20Feb2025 04:24:40.361] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d5349a20-7346-31c5-8498-83a2f839afa6 timed out
+[20Feb2025 04:24:40.361] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player alexis83
+[20Feb2025 04:24:40.361] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to alexis83
+[20Feb2025 04:24:40.361] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 04:24:40.361] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 04:24:40.361] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 04:24:40.361] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 04:24:40.361] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 04:24:40.361] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 04:24:40.361] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 905d1f7b-6652-3a99-9dd9-a3db220a872b timed out
+[20Feb2025 04:24:40.361] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PanchikoKW
+[20Feb2025 04:24:40.361] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PanchikoKW
+[20Feb2025 04:24:40.602] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:24:40.625] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:24:40.642] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:24:40.701] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:24:41.620] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:24:41.620] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PanchikoKW (905d1f7b-6652-3a99-9dd9-a3db220a872b) successfully connected to voice chat
+[20Feb2025 04:24:41.626] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:24:41.626] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player alexis83 (d5349a20-7346-31c5-8498-83a2f839afa6) successfully connected to voice chat
+[20Feb2025 04:24:41.642] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:24:41.642] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 04:24:41.694] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:24:41.694] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: java.io.IOException: Base resource not found: dbr.class
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.Patcher.applyPatch(Patcher.java:146)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourcePatched(OptiFineTransformer.java:396)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStreamPatched(OptiFineTransformer.java:368)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStream(OptiFineTransformer.java:291)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResource(OptiFineTransformer.java:260)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:171)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:1)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformerHolder.transform(TransformerHolder.java:41)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.performVote(ClassTransformer.java:179)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:98)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.NoiseBasedChunkGenerator.m_224239_(NoiseBasedChunkGenerator.java:204)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.NoiseBasedChunkGenerator.m_214184_(NoiseBasedChunkGenerator.java:136)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/infernalexp@2.5.1/org.infernalstudios.infernalexp.world.gen.structures.StriderAltarStructure.m_214086_(StriderAltarStructure.java:50)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.structure.Structure.m_226596_(Structure.java:84)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.ChunkGenerator.m_223104_(ChunkGeneratorMixin.java:638)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.ChunkGenerator.m_223066_(ChunkGeneratorMixin.java:591)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.AbstractList$RandomAccessSpliterator.forEachRemaining(AbstractList.java:720)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.ChunkGenerator.m_223164_(ChunkGeneratorMixin.java:573)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.ChunkStatus.m_223360_(ChunkStatus.java:59)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.ChunkStatus.m_223279_(ChunkStatus.java:292)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$25(ChunkMapMixin.java:621)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/datafixerupper@5.0.28/com.mojang.datafixers.util.Either$Left.map(Either.java:38)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMapMixin.java:619)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[20Feb2025 04:24:56.557] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: java.io.IOException: Base resource not found: dbr$1.class
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.Patcher.applyPatch(Patcher.java:146)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourcePatched(OptiFineTransformer.java:396)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStreamPatched(OptiFineTransformer.java:368)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStream(OptiFineTransformer.java:291)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResource(OptiFineTransformer.java:260)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:171)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:1)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformerHolder.transform(TransformerHolder.java:41)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.performVote(ClassTransformer.java:179)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:98)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.NoiseBasedChunkGenerator.m_224239_(NoiseBasedChunkGenerator.java:204)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.NoiseBasedChunkGenerator.m_214184_(NoiseBasedChunkGenerator.java:136)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/infernalexp@2.5.1/org.infernalstudios.infernalexp.world.gen.structures.StriderAltarStructure.m_214086_(StriderAltarStructure.java:50)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.structure.Structure.m_226596_(Structure.java:84)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.ChunkGenerator.m_223104_(ChunkGeneratorMixin.java:638)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.ChunkGenerator.m_223066_(ChunkGeneratorMixin.java:591)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.AbstractList$RandomAccessSpliterator.forEachRemaining(AbstractList.java:720)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.ChunkGenerator.m_223164_(ChunkGeneratorMixin.java:573)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.ChunkStatus.m_223360_(ChunkStatus.java:59)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.ChunkStatus.m_223279_(ChunkStatus.java:292)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$25(ChunkMapMixin.java:621)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/datafixerupper@5.0.28/com.mojang.datafixers.util.Either$Left.map(Either.java:38)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMapMixin.java:619)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[20Feb2025 04:24:56.560] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: java.io.IOException: Base resource not found: dbr$a.class
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.Patcher.applyPatch(Patcher.java:146)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourcePatched(OptiFineTransformer.java:396)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStreamPatched(OptiFineTransformer.java:368)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStream(OptiFineTransformer.java:291)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResource(OptiFineTransformer.java:260)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:171)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:1)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformerHolder.transform(TransformerHolder.java:41)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.performVote(ClassTransformer.java:179)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:98)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.NoiseChunk.<init>(NoiseChunk.java:58)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.NoiseBasedChunkGenerator.m_224239_(NoiseBasedChunkGenerator.java:204)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.NoiseBasedChunkGenerator.m_214184_(NoiseBasedChunkGenerator.java:136)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/infernalexp@2.5.1/org.infernalstudios.infernalexp.world.gen.structures.StriderAltarStructure.m_214086_(StriderAltarStructure.java:50)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.structure.Structure.m_226596_(Structure.java:84)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.ChunkGenerator.m_223104_(ChunkGeneratorMixin.java:638)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.ChunkGenerator.m_223066_(ChunkGeneratorMixin.java:591)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.AbstractList$RandomAccessSpliterator.forEachRemaining(AbstractList.java:720)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.ChunkGenerator.m_223164_(ChunkGeneratorMixin.java:573)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.ChunkStatus.m_223360_(ChunkStatus.java:59)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.ChunkStatus.m_223279_(ChunkStatus.java:292)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$25(ChunkMapMixin.java:621)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/datafixerupper@5.0.28/com.mojang.datafixers.util.Either$Left.map(Either.java:38)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMapMixin.java:619)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[20Feb2025 04:24:56.561] [Worker-Main-1/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[20Feb2025 04:25:08.072] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Hindertje'/6260, l='ServerLevel[world]', x=-4638.95, y=67.50, z=-1245.50] died, message: 'Hindertje was shot by Pillager'
+[20Feb2025 04:25:08.073] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Hindertje'/6260, l='ServerLevel[world]', x=-4638.95, y=67.50, z=-1245.50] died: Hindertje was shot by Pillager
+[20Feb2025 04:25:14.559] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d5349a20-7346-31c5-8498-83a2f839afa6 timed out
+[20Feb2025 04:25:14.559] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player alexis83
+[20Feb2025 04:25:14.559] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to alexis83
+[20Feb2025 04:25:14.559] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 04:25:14.559] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 04:25:14.559] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 04:25:14.559] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 04:25:14.559] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 04:25:14.559] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 04:25:14.559] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 905d1f7b-6652-3a99-9dd9-a3db220a872b timed out
+[20Feb2025 04:25:14.559] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PanchikoKW
+[20Feb2025 04:25:14.559] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PanchikoKW
+[20Feb2025 04:25:14.763] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:25:14.771] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:25:14.831] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:25:15.765] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:25:15.765] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player alexis83 (d5349a20-7346-31c5-8498-83a2f839afa6) successfully connected to voice chat
+[20Feb2025 04:25:15.774] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:25:15.774] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 04:25:15.833] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:25:15.834] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 04:25:15.839] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:25:16.841] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:25:16.841] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PanchikoKW (905d1f7b-6652-3a99-9dd9-a3db220a872b) successfully connected to voice chat
+[20Feb2025 04:25:24.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanchikoKW has made the advancement [We do a little trolling...]
+[20Feb2025 04:25:40.710] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d5349a20-7346-31c5-8498-83a2f839afa6 timed out
+[20Feb2025 04:25:40.710] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player alexis83
+[20Feb2025 04:25:40.710] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to alexis83
+[20Feb2025 04:25:40.710] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 04:25:40.710] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 04:25:40.710] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 04:25:40.710] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 04:25:40.710] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 04:25:40.710] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 04:25:40.710] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 905d1f7b-6652-3a99-9dd9-a3db220a872b timed out
+[20Feb2025 04:25:40.710] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PanchikoKW
+[20Feb2025 04:25:40.710] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PanchikoKW
+[20Feb2025 04:25:40.976] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:25:40.984] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:25:41.040] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:25:41.904] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:25:41.966] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:25:41.966] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 04:25:41.985] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:25:41.985] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 04:25:42.039] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:25:42.039] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player alexis83 (d5349a20-7346-31c5-8498-83a2f839afa6) successfully connected to voice chat
+[20Feb2025 04:25:42.898] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:25:42.898] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PanchikoKW (905d1f7b-6652-3a99-9dd9-a3db220a872b) successfully connected to voice chat
+[20Feb2025 04:25:48.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanchikoKW has made the advancement [No Step on Snake]
+[20Feb2025 04:26:02.224] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Gerit'/6248, l='ServerLevel[world]', x=-4603.69, y=67.00, z=-1240.27] died, message: 'Gerit was shot by Pillager'
+[20Feb2025 04:26:02.225] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Gerit'/6248, l='ServerLevel[world]', x=-4603.69, y=67.00, z=-1240.27] died: Gerit was shot by Pillager
+[20Feb2025 04:26:14.909] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 04:26:14.909] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 04:26:14.909] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 04:26:14.909] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d5349a20-7346-31c5-8498-83a2f839afa6 timed out
+[20Feb2025 04:26:14.909] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player alexis83
+[20Feb2025 04:26:14.909] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to alexis83
+[20Feb2025 04:26:14.909] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 04:26:14.909] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 04:26:14.909] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 04:26:14.909] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 905d1f7b-6652-3a99-9dd9-a3db220a872b timed out
+[20Feb2025 04:26:14.909] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PanchikoKW
+[20Feb2025 04:26:14.909] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PanchikoKW
+[20Feb2025 04:26:15.095] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:26:15.115] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:26:15.126] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:26:15.312] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:26:16.097] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:26:16.097] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player alexis83 (d5349a20-7346-31c5-8498-83a2f839afa6) successfully connected to voice chat
+[20Feb2025 04:26:16.119] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:26:16.119] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PanchikoKW (905d1f7b-6652-3a99-9dd9-a3db220a872b) successfully connected to voice chat
+[20Feb2025 04:26:16.130] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:26:16.130] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 04:26:16.316] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:26:16.316] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 04:26:41.055] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d5349a20-7346-31c5-8498-83a2f839afa6 timed out
+[20Feb2025 04:26:41.055] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player alexis83
+[20Feb2025 04:26:41.056] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to alexis83
+[20Feb2025 04:26:41.056] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 04:26:41.056] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 04:26:41.056] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 04:26:41.056] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 04:26:41.056] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 04:26:41.056] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 04:26:41.056] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 905d1f7b-6652-3a99-9dd9-a3db220a872b timed out
+[20Feb2025 04:26:41.056] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PanchikoKW
+[20Feb2025 04:26:41.056] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PanchikoKW
+[20Feb2025 04:26:41.245] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:26:41.317] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:26:41.378] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:26:42.246] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:26:42.246] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player alexis83 (d5349a20-7346-31c5-8498-83a2f839afa6) successfully connected to voice chat
+[20Feb2025 04:26:42.270] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:26:42.316] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:26:42.317] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 04:26:42.379] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:26:42.379] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 04:26:43.275] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:26:43.275] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PanchikoKW (905d1f7b-6652-3a99-9dd9-a3db220a872b) successfully connected to voice chat
+[20Feb2025 04:27:15.242] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d5349a20-7346-31c5-8498-83a2f839afa6 timed out
+[20Feb2025 04:27:15.242] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player alexis83
+[20Feb2025 04:27:15.242] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to alexis83
+[20Feb2025 04:27:15.242] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 04:27:15.242] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 04:27:15.242] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 04:27:15.242] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 04:27:15.242] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 04:27:15.242] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 04:27:15.242] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 905d1f7b-6652-3a99-9dd9-a3db220a872b timed out
+[20Feb2025 04:27:15.242] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PanchikoKW
+[20Feb2025 04:27:15.242] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PanchikoKW
+[20Feb2025 04:27:15.532] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:27:15.534] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:27:15.623] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:27:16.530] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:27:16.530] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 04:27:16.534] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:27:16.534] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player alexis83 (d5349a20-7346-31c5-8498-83a2f839afa6) successfully connected to voice chat
+[20Feb2025 04:27:16.571] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:27:16.627] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:27:16.627] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 04:27:17.575] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:27:17.576] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PanchikoKW (905d1f7b-6652-3a99-9dd9-a3db220a872b) successfully connected to voice chat
+[20Feb2025 04:27:41.386] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 04:27:41.386] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 04:27:41.386] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 04:27:41.386] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d5349a20-7346-31c5-8498-83a2f839afa6 timed out
+[20Feb2025 04:27:41.386] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player alexis83
+[20Feb2025 04:27:41.386] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to alexis83
+[20Feb2025 04:27:41.386] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 04:27:41.386] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 04:27:41.386] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 04:27:41.386] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 905d1f7b-6652-3a99-9dd9-a3db220a872b timed out
+[20Feb2025 04:27:41.386] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PanchikoKW
+[20Feb2025 04:27:41.386] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PanchikoKW
+[20Feb2025 04:27:41.456] [Craft Scheduler Thread - 6/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[20Feb2025 04:27:41.619] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:27:41.634] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:27:41.639] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:27:42.619] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:27:42.619] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player alexis83 (d5349a20-7346-31c5-8498-83a2f839afa6) successfully connected to voice chat
+[20Feb2025 04:27:42.633] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:27:42.633] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 04:27:42.636] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:27:42.636] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 04:27:42.682] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:27:43.685] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:27:43.685] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PanchikoKW (905d1f7b-6652-3a99-9dd9-a3db220a872b) successfully connected to voice chat
+[20Feb2025 04:28:14.579] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 905d1f7b-6652-3a99-9dd9-a3db220a872b timed out
+[20Feb2025 04:28:14.579] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PanchikoKW
+[20Feb2025 04:28:14.580] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PanchikoKW
+[20Feb2025 04:28:15.586] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d5349a20-7346-31c5-8498-83a2f839afa6 timed out
+[20Feb2025 04:28:15.586] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player alexis83
+[20Feb2025 04:28:15.586] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to alexis83
+[20Feb2025 04:28:15.586] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 04:28:15.586] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 04:28:15.587] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 04:28:15.587] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 04:28:15.587] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 04:28:15.587] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 04:28:15.893] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:28:16.143] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:28:16.203] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:28:16.411] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:28:16.895] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:28:16.895] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 04:28:17.137] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:28:17.137] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PanchikoKW (905d1f7b-6652-3a99-9dd9-a3db220a872b) successfully connected to voice chat
+[20Feb2025 04:28:17.200] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:28:17.200] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player alexis83 (d5349a20-7346-31c5-8498-83a2f839afa6) successfully connected to voice chat
+[20Feb2025 04:28:17.410] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:28:17.410] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 04:28:41.736] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d5349a20-7346-31c5-8498-83a2f839afa6 timed out
+[20Feb2025 04:28:41.736] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player alexis83
+[20Feb2025 04:28:41.736] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to alexis83
+[20Feb2025 04:28:41.736] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 04:28:41.736] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 04:28:41.736] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 04:28:41.736] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 04:28:41.736] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 04:28:41.737] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 04:28:41.737] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 905d1f7b-6652-3a99-9dd9-a3db220a872b timed out
+[20Feb2025 04:28:41.737] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PanchikoKW
+[20Feb2025 04:28:41.737] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PanchikoKW
+[20Feb2025 04:28:41.934] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:28:41.945] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:28:42.034] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:28:42.932] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:28:42.933] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 04:28:42.947] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:28:42.947] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 04:28:42.963] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:28:43.034] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:28:43.034] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player alexis83 (d5349a20-7346-31c5-8498-83a2f839afa6) successfully connected to voice chat
+[20Feb2025 04:28:43.962] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:28:43.963] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PanchikoKW (905d1f7b-6652-3a99-9dd9-a3db220a872b) successfully connected to voice chat
+[20Feb2025 04:29:15.942] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 04:29:15.942] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 04:29:15.942] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 04:29:15.942] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d5349a20-7346-31c5-8498-83a2f839afa6 timed out
+[20Feb2025 04:29:15.942] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player alexis83
+[20Feb2025 04:29:15.942] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to alexis83
+[20Feb2025 04:29:15.942] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 04:29:15.942] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 04:29:15.942] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 04:29:15.942] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 905d1f7b-6652-3a99-9dd9-a3db220a872b timed out
+[20Feb2025 04:29:15.942] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PanchikoKW
+[20Feb2025 04:29:15.942] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PanchikoKW
+[20Feb2025 04:29:16.167] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:29:16.191] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:29:16.277] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:29:17.175] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:29:17.175] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 04:29:17.191] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:29:17.191] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player alexis83 (d5349a20-7346-31c5-8498-83a2f839afa6) successfully connected to voice chat
+[20Feb2025 04:29:17.222] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:29:17.276] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:29:17.276] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 04:29:18.214] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:29:18.214] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PanchikoKW (905d1f7b-6652-3a99-9dd9-a3db220a872b) successfully connected to voice chat
+[20Feb2025 04:29:43.114] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 04:29:43.114] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 04:29:43.114] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 04:29:43.114] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d5349a20-7346-31c5-8498-83a2f839afa6 timed out
+[20Feb2025 04:29:43.114] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player alexis83
+[20Feb2025 04:29:43.115] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to alexis83
+[20Feb2025 04:29:43.115] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 04:29:43.115] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 04:29:43.115] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 04:29:43.115] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 905d1f7b-6652-3a99-9dd9-a3db220a872b timed out
+[20Feb2025 04:29:43.115] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PanchikoKW
+[20Feb2025 04:29:43.115] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PanchikoKW
+[20Feb2025 04:29:43.330] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:29:43.337] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:29:43.369] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:29:43.476] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:29:44.333] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:29:44.333] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PanchikoKW (905d1f7b-6652-3a99-9dd9-a3db220a872b) successfully connected to voice chat
+[20Feb2025 04:29:44.337] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:29:44.337] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player alexis83 (d5349a20-7346-31c5-8498-83a2f839afa6) successfully connected to voice chat
+[20Feb2025 04:29:44.364] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:29:44.364] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 04:29:44.476] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:29:44.476] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 04:30:16.294] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d5349a20-7346-31c5-8498-83a2f839afa6 timed out
+[20Feb2025 04:30:16.294] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player alexis83
+[20Feb2025 04:30:16.295] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to alexis83
+[20Feb2025 04:30:16.295] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 04:30:16.295] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 04:30:16.295] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 04:30:16.295] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 04:30:16.295] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 04:30:16.295] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 04:30:16.295] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 905d1f7b-6652-3a99-9dd9-a3db220a872b timed out
+[20Feb2025 04:30:16.295] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PanchikoKW
+[20Feb2025 04:30:16.295] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PanchikoKW
+[20Feb2025 04:30:16.510] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:30:16.559] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:30:16.645] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:30:17.515] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:30:17.515] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 04:30:17.559] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:30:17.559] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player alexis83 (d5349a20-7346-31c5-8498-83a2f839afa6) successfully connected to voice chat
+[20Feb2025 04:30:17.615] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:30:17.653] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:30:17.653] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 04:30:18.615] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:30:18.615] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PanchikoKW (905d1f7b-6652-3a99-9dd9-a3db220a872b) successfully connected to voice chat
+[20Feb2025 04:30:43.450] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 04:30:43.450] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 04:30:43.450] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 04:30:43.450] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d5349a20-7346-31c5-8498-83a2f839afa6 timed out
+[20Feb2025 04:30:43.450] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player alexis83
+[20Feb2025 04:30:43.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to alexis83
+[20Feb2025 04:30:43.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 04:30:43.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 04:30:43.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 04:30:43.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 905d1f7b-6652-3a99-9dd9-a3db220a872b timed out
+[20Feb2025 04:30:43.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PanchikoKW
+[20Feb2025 04:30:43.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PanchikoKW
+[20Feb2025 04:30:43.631] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:30:43.665] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:30:43.837] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:30:44.631] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:30:44.631] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player alexis83 (d5349a20-7346-31c5-8498-83a2f839afa6) successfully connected to voice chat
+[20Feb2025 04:30:44.669] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:30:44.669] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 04:30:44.779] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:30:44.834] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:30:44.834] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 04:30:45.775] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:30:45.775] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PanchikoKW (905d1f7b-6652-3a99-9dd9-a3db220a872b) successfully connected to voice chat
+[20Feb2025 04:31:16.657] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d5349a20-7346-31c5-8498-83a2f839afa6 timed out
+[20Feb2025 04:31:16.657] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player alexis83
+[20Feb2025 04:31:16.657] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to alexis83
+[20Feb2025 04:31:16.657] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 04:31:16.657] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 04:31:16.657] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 04:31:16.657] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 04:31:16.657] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 04:31:16.657] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 04:31:16.657] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 905d1f7b-6652-3a99-9dd9-a3db220a872b timed out
+[20Feb2025 04:31:16.657] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PanchikoKW
+[20Feb2025 04:31:16.657] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PanchikoKW
+[20Feb2025 04:31:16.859] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:31:16.895] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:31:17.209] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:31:17.867] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 04:31:17.867] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 04:31:17.877] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:31:17.895] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d5349a20-7346-31c5-8498-83a2f839afa6
+[20Feb2025 04:31:17.895] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player alexis83 (d5349a20-7346-31c5-8498-83a2f839afa6) successfully connected to voice chat
+[20Feb2025 04:31:18.213] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 04:31:18.213] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 04:31:18.879] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 905d1f7b-6652-3a99-9dd9-a3db220a872b
+[20Feb2025 04:31:18.879] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PanchikoKW (905d1f7b-6652-3a99-9dd9-a3db220a872b) successfully connected to voice chat

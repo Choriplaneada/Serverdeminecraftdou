@@ -2530,6 +2530,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-02-20 04:23:11 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/red_cooler": {
     "criteria": {
       "has_chest": "2025-02-19 04:27:34 +0000"
