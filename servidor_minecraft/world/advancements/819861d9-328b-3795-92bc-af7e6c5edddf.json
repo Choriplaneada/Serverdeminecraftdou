@@ -474,6 +474,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-02-20 03:21:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2025-02-19 02:50:37 +0000"
@@ -944,6 +950,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-02-20 03:22:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2025-02-19 02:59:56 +0000"
@@ -1052,6 +1064,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-02-20 03:17:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-19 04:19:35 +0000"
@@ -1145,6 +1163,12 @@
   "cfm:recipes/cfm/blue_cooler": {
     "criteria": {
       "has_chest": "2025-02-19 04:27:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-02-20 03:17:24 +0000"
     },
     "done": true
   },
@@ -1247,6 +1271,12 @@
   "simplytools:recipes/simplytools/wooden_hammer": {
     "criteria": {
       "criterion1": "2025-02-19 02:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-20 03:21:51 +0000"
     },
     "done": true
   },
@@ -1733,6 +1763,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-02-20 03:18:41 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/heavy_hook": {
     "criteria": {
       "has_items": "2025-02-19 02:43:40 +0000"
@@ -1880,6 +1916,12 @@
   "cfm:recipes/cfm/stripped_jungle_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-19 04:27:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2025-02-20 03:18:32 +0000"
     },
     "done": true
   },
@@ -2081,6 +2123,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-02-20 03:21:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/red_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-02-19 04:05:17 +0000"
@@ -2114,6 +2162,12 @@
   "cfm:recipes/cfm/stripped_warped_mail_box": {
     "criteria": {
       "has_chest": "2025-02-19 04:27:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-02-20 03:18:41 +0000"
     },
     "done": true
   },
@@ -2437,6 +2491,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/oak_palisade": {
     "criteria": {
       "has_log": "2025-02-19 02:45:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-20 03:21:51 +0000"
     },
     "done": true
   },
@@ -2921,6 +2981,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-02-20 03:19:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-19 04:27:34 +0000"
@@ -3284,6 +3350,18 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-02-19 05:30:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2025-02-20 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-02-20 03:18:41 +0000"
     },
     "done": true
   },
