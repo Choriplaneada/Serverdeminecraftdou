@@ -7038,3 +7038,503 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [20Feb2025 05:42:56.978] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
 [20Feb2025 05:42:56.984] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
 [20Feb2025 05:42:56.984] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 05:43:25.892] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 05:43:25.892] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 05:43:25.892] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 05:43:25.893] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 05:43:25.893] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 05:43:25.893] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 05:43:26.139] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:43:26.562] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:43:27.167] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:43:27.167] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 05:43:27.561] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:43:27.561] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 05:43:56.059] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 05:43:56.059] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 05:43:56.059] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 05:43:56.059] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 05:43:56.059] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 05:43:56.059] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 05:43:56.296] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:43:56.391] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:43:57.293] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:43:57.293] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 05:43:57.392] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:43:57.392] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 05:44:03.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezemede has made the advancement [Voluntary Exile]
+[20Feb2025 05:44:27.227] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 05:44:27.227] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 05:44:27.227] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 05:44:27.227] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 05:44:27.227] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 05:44:27.227] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 05:44:27.491] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:44:27.541] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:44:28.491] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:44:28.491] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 05:44:28.551] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:44:28.551] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 05:44:56.374] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 05:44:56.374] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 05:44:56.374] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 05:44:56.374] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 05:44:56.374] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 05:44:56.374] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 05:44:56.663] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:44:56.716] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:44:57.664] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:44:57.664] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 05:44:57.716] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:44:57.716] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 05:45:27.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 05:45:27.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 05:45:27.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 05:45:27.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 05:45:27.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 05:45:27.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 05:45:27.882] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:45:28.130] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:45:28.884] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:45:28.884] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 05:45:29.126] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:45:29.126] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 05:45:56.702] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 05:45:56.702] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 05:45:56.702] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 05:45:56.702] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 05:45:56.702] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 05:45:56.702] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 05:45:56.883] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:45:56.993] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:45:57.880] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:45:57.880] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 05:45:57.994] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:45:57.994] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 05:46:27.870] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 05:46:27.870] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 05:46:27.870] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 05:46:27.870] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 05:46:27.870] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 05:46:27.870] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 05:46:28.141] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:46:28.172] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:46:29.143] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:46:29.143] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 05:46:29.176] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:46:29.176] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 05:46:58.051] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 05:46:58.051] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 05:46:58.051] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 05:46:58.051] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 05:46:58.051] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 05:46:58.051] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 05:46:58.233] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:46:58.372] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:46:59.233] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:46:59.233] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 05:46:59.372] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:46:59.372] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 05:47:28.228] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 05:47:28.228] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 05:47:28.229] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 05:47:28.229] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 05:47:28.229] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 05:47:28.229] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 05:47:28.491] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:47:28.593] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:47:29.490] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:47:29.490] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 05:47:29.589] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:47:29.589] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 05:47:57.397] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 05:47:57.397] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 05:47:57.397] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 05:47:57.397] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 05:47:57.397] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 05:47:57.397] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 05:47:57.687] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:47:57.747] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:47:58.687] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:47:58.687] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 05:47:58.748] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:47:58.748] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 05:48:29.522] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 05:48:29.522] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 05:48:29.522] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 05:48:29.522] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 05:48:29.522] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 05:48:29.522] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 05:48:29.811] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:48:30.280] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:48:30.814] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:48:30.814] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 05:48:31.276] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:48:31.276] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 05:48:58.701] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 05:48:58.701] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 05:48:58.701] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 05:48:58.701] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 05:48:58.701] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 05:48:58.701] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 05:48:58.938] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:48:58.943] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:48:59.931] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:48:59.931] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 05:48:59.943] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:48:59.943] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 05:49:29.858] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 05:49:29.858] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 05:49:29.858] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 05:49:29.858] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 05:49:29.858] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 05:49:29.858] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 05:49:30.039] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:49:30.060] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:49:31.041] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:49:31.041] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 05:49:31.062] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:49:31.062] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 05:49:59.042] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 05:49:59.042] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 05:49:59.042] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 05:49:59.042] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 05:49:59.042] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 05:49:59.043] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 05:49:59.241] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:49:59.338] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:50:00.245] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:50:00.245] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 05:50:00.337] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:50:00.338] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 05:50:30.192] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 05:50:30.192] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 05:50:30.192] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 05:50:30.192] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 05:50:30.192] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 05:50:30.192] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 05:50:30.441] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:50:30.698] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:50:31.439] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:50:31.439] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 05:50:31.701] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:50:31.701] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 05:50:59.362] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 05:50:59.362] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 05:50:59.362] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 05:50:59.362] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 05:50:59.362] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 05:50:59.363] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 05:50:59.593] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:50:59.654] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:51:00.594] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:51:00.594] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 05:51:00.657] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:51:00.657] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 05:51:31.529] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 05:51:31.529] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 05:51:31.529] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 05:51:31.529] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 05:51:31.529] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 05:51:31.529] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 05:51:31.782] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:51:31.807] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:51:32.796] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:51:32.796] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 05:51:32.809] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:51:32.809] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 05:52:00.696] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 05:52:00.696] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 05:52:00.696] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 05:52:00.696] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 05:52:00.696] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 05:52:00.696] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 05:52:00.967] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:52:01.003] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:52:01.961] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:52:01.961] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 05:52:02.007] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:52:02.007] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 05:52:31.879] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 05:52:31.879] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 05:52:31.879] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 05:52:31.879] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 05:52:31.879] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 05:52:31.879] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 05:52:32.221] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:52:32.239] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:52:33.221] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:52:33.221] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 05:52:33.238] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:52:33.238] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 05:53:00.049] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 05:53:00.049] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 05:53:00.049] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 05:53:00.049] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 05:53:00.049] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 05:53:00.049] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 05:53:00.299] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:53:00.383] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:53:01.299] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:53:01.299] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 05:53:01.387] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:53:01.387] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 05:53:03.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lim0ncit0Dulce issued server command: /tpa Ezemede
+[20Feb2025 05:53:08.331] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ezemede issued server command: /tpaccept
+[20Feb2025 05:53:32.261] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 05:53:32.261] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 05:53:32.261] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 05:53:32.261] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 05:53:32.261] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 05:53:32.261] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 05:53:32.567] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:53:32.753] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:53:33.569] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:53:33.569] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 05:53:33.759] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:53:33.759] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 05:54:01.415] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 05:54:01.415] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 05:54:01.415] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 05:54:01.415] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 05:54:01.415] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 05:54:01.415] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 05:54:01.734] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:54:01.750] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:54:02.736] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:54:02.736] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 05:54:02.755] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:54:02.755] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 05:54:33.593] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 05:54:33.593] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 05:54:33.593] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 05:54:33.593] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 05:54:33.593] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 05:54:33.593] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 05:54:33.792] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:54:33.934] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:54:34.792] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:54:34.792] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 05:54:34.929] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:54:34.929] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 05:55:01.764] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 05:55:01.764] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 05:55:01.764] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 05:55:01.764] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 05:55:01.764] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 05:55:01.764] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 05:55:02.036] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:55:02.054] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:55:03.034] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:55:03.034] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 05:55:03.059] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:55:03.059] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 05:55:33.947] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 05:55:33.947] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 05:55:33.947] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 05:55:33.947] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 05:55:33.947] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 05:55:33.947] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 05:55:34.186] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:55:34.429] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:55:35.188] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:55:35.188] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 05:55:35.431] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:55:35.431] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 05:56:03.103] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 05:56:03.103] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 05:56:03.103] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 05:56:03.103] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 05:56:03.103] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 05:56:03.103] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 05:56:03.376] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:56:03.448] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:56:04.380] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:56:04.380] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 05:56:04.444] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:56:04.444] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 05:56:35.285] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 05:56:35.285] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 05:56:35.285] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 05:56:35.285] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 05:56:35.286] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 05:56:35.286] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 05:56:35.510] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:56:35.601] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:56:36.516] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:56:36.516] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 05:56:36.607] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:56:36.607] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 05:57:03.468] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 05:57:03.468] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 05:57:03.468] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 05:57:03.468] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 05:57:03.468] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 05:57:03.468] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 05:57:03.754] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:57:03.779] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:57:04.754] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:57:04.754] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 05:57:04.781] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:57:04.781] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 05:57:35.636] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 05:57:35.636] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 05:57:35.636] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 05:57:35.636] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 05:57:35.636] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 05:57:35.636] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 05:57:35.922] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:57:36.014] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:57:36.926] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:57:36.926] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 05:57:37.012] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:57:37.012] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 05:57:53.439] [Craft Scheduler Thread - 22/WARN] [SkinMe/]: Plugin SkinMe v1.3.1 generated an exception while executing task 9
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at org.mcstats.metrics.Metrics.postPlugin(Metrics.java:336) ~[?:?] {}
+	at org.mcstats.metrics.Metrics.access$4(Metrics.java:329) ~[?:?] {}
+	at org.mcstats.metrics.Metrics$1.run(Metrics.java:224) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [arclight-1.19.2-1.0.5-696a298.jar%23217!/:arclight-1.19.2-1.0.5-696a298] {re:classloading}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+[20Feb2025 05:58:03.808] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 05:58:03.808] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 05:58:03.808] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 05:58:03.808] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 05:58:03.808] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 05:58:03.808] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 05:58:04.021] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:58:04.048] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:58:05.018] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:58:05.018] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 05:58:05.051] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:58:05.051] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 05:58:37.005] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 05:58:37.005] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 05:58:37.005] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 05:58:37.005] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 05:58:37.005] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 05:58:37.005] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 05:58:37.330] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:58:37.744] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:58:38.333] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:58:38.333] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 05:58:38.741] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:58:38.741] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 05:59:05.146] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 05:59:05.146] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 05:59:05.146] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 05:59:05.146] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 05:59:05.146] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 05:59:05.146] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 05:59:05.482] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:59:05.490] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:59:06.480] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:59:06.480] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 05:59:06.489] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:59:06.489] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 05:59:31.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezemede was slain by Vindicator
+[20Feb2025 05:59:37.344] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 05:59:37.344] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 05:59:37.344] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 05:59:37.344] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 05:59:37.344] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 05:59:37.344] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 05:59:37.669] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:59:37.699] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:59:38.675] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 05:59:38.675] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 05:59:38.700] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 05:59:38.700] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 06:00:05.517] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 06:00:05.517] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 06:00:05.517] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 06:00:05.517] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 06:00:05.517] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 06:00:05.517] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 06:00:05.818] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 06:00:05.926] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 06:00:06.819] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 06:00:06.819] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 06:00:06.926] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 06:00:06.926] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 06:00:38.721] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 06:00:38.721] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 06:00:38.721] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 06:00:38.721] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 06:00:38.721] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 06:00:38.721] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 06:00:38.993] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 06:00:39.274] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 06:00:39.992] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 06:00:39.992] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 06:00:40.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lim0ncit0Dulce fell from a high place
+[20Feb2025 06:00:40.274] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 06:00:40.274] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 06:01:05.858] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 06:01:05.858] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 06:01:05.858] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 06:01:05.858] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 06:01:05.858] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 06:01:05.858] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 06:01:06.037] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 06:01:06.105] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 06:01:07.037] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 06:01:07.037] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 06:01:07.105] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 06:01:07.105] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 06:01:39.040] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 06:01:39.040] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 06:01:39.040] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 06:01:39.041] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 06:01:39.041] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 06:01:39.041] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 06:01:39.237] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 06:01:39.307] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 06:01:40.236] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 06:01:40.236] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 06:01:40.310] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 06:01:40.310] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 06:01:51.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezemede was slain by Vindicator
+[20Feb2025 06:02:07.189] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 06:02:07.189] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 06:02:07.189] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 06:02:07.189] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 06:02:07.189] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 06:02:07.189] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 06:02:07.454] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 06:02:07.496] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 06:02:08.455] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 06:02:08.455] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 06:02:08.494] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 06:02:08.494] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 06:02:30.160] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Anke'/58027, l='ServerLevel[world]', x=-4533.56, y=63.00, z=-1114.55] died, message: 'Anke was slain by Vindicator'
+[20Feb2025 06:02:30.160] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Anke'/58027, l='ServerLevel[world]', x=-4533.56, y=63.00, z=-1114.55] died: Anke was slain by Vindicator
+[20Feb2025 06:02:34.361] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Fritz'/23065, l='ServerLevel[world]', x=-4589.44, y=69.56, z=-1228.62] died, message: 'Fritz was shot by Pillager'
+[20Feb2025 06:02:34.362] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Fritz'/23065, l='ServerLevel[world]', x=-4589.44, y=69.56, z=-1228.62] died: Fritz was shot by Pillager
+[20Feb2025 06:02:39.396] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 06:02:39.396] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 06:02:39.396] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 06:02:39.396] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 06:02:39.396] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 06:02:39.396] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 06:02:39.721] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 06:02:39.725] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 06:02:40.721] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 06:02:40.721] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
+[20Feb2025 06:02:40.727] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 06:02:40.727] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 06:03:07.543] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6 timed out
+[20Feb2025 06:03:07.543] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lim0ncit0Dulce
+[20Feb2025 06:03:07.543] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lim0ncit0Dulce
+[20Feb2025 06:03:07.543] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 819861d9-328b-3795-92bc-af7e6c5edddf timed out
+[20Feb2025 06:03:07.543] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ezemede
+[20Feb2025 06:03:07.543] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ezemede
+[20Feb2025 06:03:07.896] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 06:03:07.913] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 06:03:08.901] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 819861d9-328b-3795-92bc-af7e6c5edddf
+[20Feb2025 06:03:08.901] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezemede (819861d9-328b-3795-92bc-af7e6c5edddf) successfully connected to voice chat
+[20Feb2025 06:03:08.913] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2ddd9b46-0427-3b1d-9b4e-0259d562a0a6
+[20Feb2025 06:03:08.913] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lim0ncit0Dulce (2ddd9b46-0427-3b1d-9b4e-0259d562a0a6) successfully connected to voice chat
